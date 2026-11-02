@@ -1,0 +1,13 @@
+{
+  "name": "isl-project",
+  "version": "1.0.0",
+  "description": "PCAP + Playwright website risk pipeline",
+  "main": "BrowserCap.js",
+  "scripts": {
+    "browsercap": "node BrowserCap.js",
+    "browsercap:click": "node BrowserCap.js --click"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}

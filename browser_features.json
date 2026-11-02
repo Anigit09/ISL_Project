@@ -1,0 +1,1452 @@
+{
+  "domain": "www.gametop.com",
+  "url": "https://www.gametop.com/download-free-games/city-racing/",
+  "download_buttons": 6,
+  "external_download_destinations": 0,
+  "unexpected_popups": 0,
+  "actual_downloads": 0,
+  "redirect_count": 232,
+  "fake_download_signals": 6,
+  "buttons": [
+    {
+      "text": "Download Games",
+      "href": "https://www.gametop.com/category/index.html",
+      "tag": "A",
+      "id": null,
+      "className": "nav-link",
+      "downloadAttribute": false,
+      "target": null,
+      "onclick": false,
+      "destination_host": "www.gametop.com",
+      "external_destination": false,
+      "suspicious_text_url_mismatch": false
+    },
+    {
+      "text": "Download Safety Policy",
+      "href": "https://www.gametop.com/download-safety-policy.html",
+      "tag": "A",
+      "id": null,
+      "className": "nav-link",
+      "downloadAttribute": false,
+      "target": null,
+      "onclick": false,
+      "destination_host": "www.gametop.com",
+      "external_destination": false,
+      "suspicious_text_url_mismatch": false
+    },
+    {
+      "text": "Download Games",
+      "href": "https://www.gametop.com/category/index.html",
+      "tag": "A",
+      "id": null,
+      "className": "nav-link text-white",
+      "downloadAttribute": false,
+      "target": null,
+      "onclick": false,
+      "destination_host": "www.gametop.com",
+      "external_destination": false,
+      "suspicious_text_url_mismatch": false
+    },
+    {
+      "text": "Download Safety Policy",
+      "href": "https://www.gametop.com/download-safety-policy.html",
+      "tag": "A",
+      "id": null,
+      "className": "nav-link text-white",
+      "downloadAttribute": false,
+      "target": null,
+      "onclick": false,
+      "destination_host": "www.gametop.com",
+      "external_destination": false,
+      "suspicious_text_url_mismatch": false
+    },
+    {
+      "text": "Download Games",
+      "href": "https://www.gametop.com/category/index.html",
+      "tag": "A",
+      "id": null,
+      "className": null,
+      "downloadAttribute": false,
+      "target": null,
+      "onclick": false,
+      "destination_host": "www.gametop.com",
+      "external_destination": false,
+      "suspicious_text_url_mismatch": false
+    },
+    {
+      "text": "Download Now",
+      "href": null,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "btn btn-gt-huge2-green btn-pulse js-game-download-button mr-3",
+      "downloadAttribute": false,
+      "target": null,
+      "onclick": true,
+      "destination_host": null,
+      "external_destination": false,
+      "suspicious_text_url_mismatch": false
+    }
+  ],
+  "click_observations": [
+    {
+      "index": 0,
+      "text": "Download Games",
+      "href": "https://www.gametop.com/category/index.html",
+      "popups": [],
+      "downloads": [],
+      "redirects": [
+        {
+          "status": 302,
+          "url": "https://www.temu.com/api/adx/cm/pixel?google_gid=CAESEOcu7R4QeSWW07zYDvXtTB8&google_cver=1&google_push=AdBflioWlFaaX64HyIumMqBH4f9h8n7cFrPMwEwS3WuW8eSEDx90RYRCKDqdWLHUdgL729HGUrrn4O8dp_kcR8OE4E2n-olaJHrSHQIuNpM-kfAQvcTO2iQtsHezMi23R9QwKg-VdFM0KzzzHnA",
+          "location": "https://cm.g.doubleclick.net/pixel?google_push=AdBflioWlFaaX64HyIumMqBH4f9h8n7cFrPMwEwS3WuW8eSEDx90RYRCKDqdWLHUdgL729HGUrrn4O8dp_kcR8OE4E2n-olaJHrSHQIuNpM-kfAQvcTO2iQtsHezMi23R9QwKg-VdFM0KzzzHnA&google_nid=whaleco_services_llc"
+        },
+        {
+          "status": 302,
+          "url": "https://mweb.ck.inmobi.com/sync/3?redirect=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dinmobi_pte_limited%26google_hm%3D%24DSP_CKID&google_gid=CAESEKg66dssK0gE-Am39sURo1Y&google_cver=1&google_push=AdBflip0rmX3SmrMqDt3EQwkq4uKyrFk8FsL38_naNx4R65FuekxsmwSJM-iftZXcZJ--EAxHQw01S5l8JV7iohUdDdj8VD891kYOP8pQ0-GQscmYHx11ebhTEeVeI9xWPnJV7UN27iHYWcYSw",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=inmobi_pte_limited&google_hm=NThiOGQ3ODAtMTI4YS00NjM4LWFlYjEtY2RiNTI5MmRjNDNj&google_gid=CAESEKg66dssK0gE-Am39sURo1Y&google_cver=1&google_push=AdBflip0rmX3SmrMqDt3EQwkq4uKyrFk8FsL38_naNx4R65FuekxsmwSJM-iftZXcZJ--EAxHQw01S5l8JV7iohUdDdj8VD891kYOP8pQ0-GQscmYHx11ebhTEeVeI9xWPnJV7UN27iHYWcYSw"
+        },
+        {
+          "status": 302,
+          "url": "https://um.simpli.fi/gp_match?google_gid=CAESECj8v_0sE3axgPbd2r9EF_4&google_cver=1&google_push=AdBflir0kG_R8ebpuUC2C9-j4BN4KKvybSNayzWzjhZWIh-BkgBfQtpRByvixLXUYbk3kBqpltyi58eAU6k6RaQEKEJAq-7vYmIGP2Vf_oqpv1-b7uPq3eYBbxB503z9JnDwxAa7g5Pf43oGPlk",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=simplifi&google_hm=EEEBC3E3CAB44D5E9FA0C14CD3244569&google_push=AdBflir0kG_R8ebpuUC2C9-j4BN4KKvybSNayzWzjhZWIh-BkgBfQtpRByvixLXUYbk3kBqpltyi58eAU6k6RaQEKEJAq-7vYmIGP2Vf_oqpv1-b7uPq3eYBbxB503z9JnDwxAa7g5Pf43oGPlk"
+        },
+        {
+          "status": 302,
+          "url": "https://a.c.appier.net/gcm?google_gid=CAESENCOedEEWacFFP7aWrs9sOQ&google_cver=1&google_push=AdBfliq-tC3gIQxza4v07ATzf4RU3SmXyP8p4lqxOsw_PVN_Dj2twCwiZzLCfvksedIWxUtsuNIzgP6aRVvXvnzDEH3Mv31gT8E7u7tAZl7kj0zgDhZ6W2FVL0hZnhVlH0OpFwWZ3eVtjXkMRKk",
+          "location": "https://cm.g.doubleclick.net/pixel?google_hm=VXZqY0d2azlDUTZkdW1EWTNGVG9hZw%3D%3D&google_nid=appier&google_push=AdBfliq-tC3gIQxza4v07ATzf4RU3SmXyP8p4lqxOsw_PVN_Dj2twCwiZzLCfvksedIWxUtsuNIzgP6aRVvXvnzDEH3Mv31gT8E7u7tAZl7kj0zgDhZ6W2FVL0hZnhVlH0OpFwWZ3eVtjXkMRKk"
+        },
+        {
+          "status": 302,
+          "url": "https://dsp.360yield.com/dsp_match/275?ssp=755&google_gid=CAESEM_LT1Nr34T83VxbsaHwgv0&google_cver=1&google_push=AdBflio1NcqOhZ9Itrv-pQQy9yU8D0pFGPhw3Z_ODdZLE_wpxH1KmVUQ2voBbnoUFXtSjTQTiKO3F_otDO5EReo2Q1yvmhsbHmTdcwVprexjv_wrYGMyZhQ5ZI-OEp_xlgPhJ6tUss7YAnU20A",
+          "location": "https://dsp.360yield.com/ul_cb/dsp_match/275?ssp=755&google_gid=CAESEM_LT1Nr34T83VxbsaHwgv0&google_cver=1&google_push=AdBflio1NcqOhZ9Itrv-pQQy9yU8D0pFGPhw3Z_ODdZLE_wpxH1KmVUQ2voBbnoUFXtSjTQTiKO3F_otDO5EReo2Q1yvmhsbHmTdcwVprexjv_wrYGMyZhQ5ZI-OEp_xlgPhJ6tUss7YAnU20A"
+        },
+        {
+          "status": 302,
+          "url": "https://dsp.360yield.com/ul_cb/dsp_match/275?ssp=755&google_gid=CAESEM_LT1Nr34T83VxbsaHwgv0&google_cver=1&google_push=AdBflio1NcqOhZ9Itrv-pQQy9yU8D0pFGPhw3Z_ODdZLE_wpxH1KmVUQ2voBbnoUFXtSjTQTiKO3F_otDO5EReo2Q1yvmhsbHmTdcwVprexjv_wrYGMyZhQ5ZI-OEp_xlgPhJ6tUss7YAnU20A",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=tabmo_fr&google_hm=IGPMC8CfTTy3f_MtU_NkGw&google_push=AdBflio1NcqOhZ9Itrv-pQQy9yU8D0pFGPhw3Z_ODdZLE_wpxH1KmVUQ2voBbnoUFXtSjTQTiKO3F_otDO5EReo2Q1yvmhsbHmTdcwVprexjv_wrYGMyZhQ5ZI-OEp_xlgPhJ6tUss7YAnU20A"
+        },
+        {
+          "status": 302,
+          "url": "https://pixelfnt-us.dsp-api.moloco.com/v1/cm/adxpm?google_gid=CAESELB10YC_dnhfbUvHjXC6Hv4&google_cver=1&google_push=AdBflipk6nrHxXKo7uPuBWM15y4hlSFrfnI5S1Bi6TyY18HKpovhqCY77pI2setiq-5-wWMjq4kpvVDeIPt8jOlI77ff5CNZ_MIt0gN_GCkjSXWT8-kafqI_OuhgGqjMcAqrEp2H6qwNXFfDVgY",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=moloco_ads&google_hm=xsxDaekVSrOiNHKe5dUCFQ&google_push=AdBflipk6nrHxXKo7uPuBWM15y4hlSFrfnI5S1Bi6TyY18HKpovhqCY77pI2setiq-5-wWMjq4kpvVDeIPt8jOlI77ff5CNZ_MIt0gN_GCkjSXWT8-kafqI_OuhgGqjMcAqrEp2H6qwNXFfDVgY"
+        },
+        {
+          "status": 302,
+          "url": "https://pixelfnt-us.dsp-api.moloco.com/v1/cm/adxpm?google_gid=CAESELB10YC_dnhfbUvHjXC6Hv4&google_cver=1&google_push=AdBfliqBwF-QlQZ19CZLRtAtkRZVexarUt-XaYroM7UyUR5Tu1j3bTe2xXNA9hNe7qJ4RVcke9eUpz_I5KngGqRiKNgq6yTJ5G91ywLFlBTHJ1VAVMLmQonOcqUIQjI5EKEAXEUhSIYvwIJ_BKQ",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=moloco_ads&google_hm=O5Kxh1DUS-6jNVM46vgC6A&google_push=AdBfliqBwF-QlQZ19CZLRtAtkRZVexarUt-XaYroM7UyUR5Tu1j3bTe2xXNA9hNe7qJ4RVcke9eUpz_I5KngGqRiKNgq6yTJ5G91ywLFlBTHJ1VAVMLmQonOcqUIQjI5EKEAXEUhSIYvwIJ_BKQ"
+        },
+        {
+          "status": 307,
+          "url": "https://ads.travelaudience.com/google_pixel?google_gid=CAESEOt08PmTfiCIBwJlvhPbnK8&google_cver=1&google_push=AdBfliqmf5MNoWtHHGo6324jEszQYTrGNvJ3hF3SDM6ZXTNWQ88-4a7y9J49o1xjKVIKwoXro-JSJILQlBOAO7wVpD8sk3vi3pmK5NdpoVZ7mS5MvGEuzHu2_j67d_fHOrbznx8VBB5b7KZ6eqo",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=ta&google_hm=AanGI4TvRroyoSGd9Hvakw&google_push=AdBfliqmf5MNoWtHHGo6324jEszQYTrGNvJ3hF3SDM6ZXTNWQ88-4a7y9J49o1xjKVIKwoXro-JSJILQlBOAO7wVpD8sk3vi3pmK5NdpoVZ7mS5MvGEuzHu2_j67d_fHOrbznx8VBB5b7KZ6eqo"
+        },
+        {
+          "status": 302,
+          "url": "https://um.simpli.fi/gp_match?google_gid=CAESECj8v_0sE3axgPbd2r9EF_4&google_cver=1&google_push=AdBflioc3MWnGjICmUtN4oOqYDDNRGAvmeDqfAgcA1K5PN2C4xQfZu_tovMsS1JLVherdr9UTCVxCNt5KkBNo9c5GPJfK9WdxkkfpF7z9CEnaO3YFXz7xj6fNAq9fTXX2-gh8SPjXBc7-7moqLbzcNY4QWCa6Q",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=simplifi&google_hm=EEEBC3E3CAB44D5E9FA0C14CD3244569&google_push=AdBflioc3MWnGjICmUtN4oOqYDDNRGAvmeDqfAgcA1K5PN2C4xQfZu_tovMsS1JLVherdr9UTCVxCNt5KkBNo9c5GPJfK9WdxkkfpF7z9CEnaO3YFXz7xj6fNAq9fTXX2-gh8SPjXBc7-7moqLbzcNY4QWCa6Q"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=1682806659;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_pre=CKzfn8f56JcDFbDecwEdJ8kpMg;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=1682806659;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=3674164074;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_pre=CLHapsf56JcDFa3ThAAdu1Iw5Q;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=3674164074;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=140274286;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_pre=CLulqcf56JcDFeXGcwEduMQNmg;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=140274286;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?"
+        },
+        {
+          "status": 302,
+          "url": "https://dclk-match.dotomi.com/match/bounce/current?networkId=14000&version=1&google_gid=CAESELcfYwPSzjkK7bm945f2stI&google_cver=1&google_push=AdBfliq8NvW6zIzxuq1nQ5CECHE7mx9AiYPDReQKDzNmCAT67P74hfHqvg3_oBMd4bxqr-JjEN6S5gohv7QguQ_eqr3haXbbh4elB0z5IWihAGt8OYI8vaO7rqvE18fMLvzPLRCMEaH5G02i4Pc",
+          "location": "https://dclk-match.dotomi.com/match/bounce/current?DotomiTest=24fa382fc0f51f97&is_secure=true&networkId=14000&version=1&google_gid=CAESELcfYwPSzjkK7bm945f2stI&google_cver=1&google_push=AdBfliq8NvW6zIzxuq1nQ5CECHE7mx9AiYPDReQKDzNmCAT67P74hfHqvg3_oBMd4bxqr-JjEN6S5gohv7QguQ_eqr3haXbbh4elB0z5IWihAGt8OYI8vaO7rqvE18fMLvzPLRCMEaH5G02i4Pc"
+        },
+        {
+          "status": 302,
+          "url": "https://rt.gsspat.jp/lcs?google_push=AdBflipp1vDPX8rmTA_xgyTuQaiN7Y-3F7pLWVrM1oTNRj7OfTqlv37rX7Q1KCxCqVOe3FigH3HT1DTzZspBvDuwiNUg7viXxWfoI0C66_UKg7hNX4hFc8XR729_6TW99xTstwdlXKPjeit9RaM&google_gid=CAESEDaIDSS5_cs9ptZjrPw85kc&google_cver=1",
+          "location": "//cm.g.doubleclick.net/pixel?google_nid=geniee&google_hm=ubRgTLuu99g4af2PzpCXWQ&google_push=AdBflipp1vDPX8rmTA_xgyTuQaiN7Y-3F7pLWVrM1oTNRj7OfTqlv37rX7Q1KCxCqVOe3FigH3HT1DTzZspBvDuwiNUg7viXxWfoI0C66_UKg7hNX4hFc8XR729_6TW99xTstwdlXKPjeit9RaM"
+        },
+        {
+          "status": 302,
+          "url": "https://dsp.adkernel.com/sync?exchange=11&google_gid=CAESECyVy7oC_jA07r3bozlQ9Pg&google_cver=1&google_push=AdBfliooS6dR-Z8yhJfxRMqpKWLsyCvt-4oJdAizDiz3738p1TG90s0bKMEnjWVykr386tgE69HyTZJCNITbhfwA4qk4uy2BBtsYtFLm7okkJ3WDUlF5cRIdMOjvtZhUz9KsFXEufwjK20VUUMFsYXbUtmHC2A",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=adkernel&google_hm=QTM3NjAzMjYzMjM1MzI1Njc4ODg&google_push=AdBfliooS6dR-Z8yhJfxRMqpKWLsyCvt-4oJdAizDiz3738p1TG90s0bKMEnjWVykr386tgE69HyTZJCNITbhfwA4qk4uy2BBtsYtFLm7okkJ3WDUlF5cRIdMOjvtZhUz9KsFXEufwjK20VUUMFsYXbUtmHC2A"
+        },
+        {
+          "status": 302,
+          "url": "https://dclk-match.dotomi.com/match/bounce/current?DotomiTest=24fa382fc0f51f97&is_secure=true&networkId=14000&version=1&google_gid=CAESELcfYwPSzjkK7bm945f2stI&google_cver=1&google_push=AdBfliq8NvW6zIzxuq1nQ5CECHE7mx9AiYPDReQKDzNmCAT67P74hfHqvg3_oBMd4bxqr-JjEN6S5gohv7QguQ_eqr3haXbbh4elB0z5IWihAGt8OYI8vaO7rqvE18fMLvzPLRCMEaH5G02i4Pc",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=dotomi&google_ula=17128,0&google_hm=AQANHSAlvB_2EwIKOCqcAQEBAQEBAQCgmoqBngEBAKCaioGe&expiration=1793697373&google_cver=1&is_secure=true&google_gid=CAESELcfYwPSzjkK7bm945f2stI&google_push=AdBfliq8NvW6zIzxuq1nQ5CECHE7mx9AiYPDReQKDzNmCAT67P74hfHqvg3_oBMd4bxqr-JjEN6S5gohv7QguQ_eqr3haXbbh4elB0z5IWihAGt8OYI8vaO7rqvE18fMLvzPLRCMEaH5G02i4Pc"
+        },
+        {
+          "status": 302,
+          "url": "https://px.ads.linkedin.com/setuid?partner=googleadxdb&google_gid=CAESEO3OvuePrscKaW_kuXA6Flg&google_cver=1&google_push=AdBfliqU0yLKzKWk4Cb8fn43NS0N5OoGy61TXoeMUe_8Esi659Ihx-CXCN63zHGbS-VPS1CocigKKp3LIi82azj5Kj8yf1l9mUrLJh8wekOuvpgAwgzYmd5kMU13CDR-smrLgr3tQpg8Y3iAWaGgbJjtAApbE7k",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=linkedin&google_push=AdBfliqU0yLKzKWk4Cb8fn43NS0N5OoGy61TXoeMUe_8Esi659Ihx-CXCN63zHGbS-VPS1CocigKKp3LIi82azj5Kj8yf1l9mUrLJh8wekOuvpgAwgzYmd5kMU13CDR-smrLgr3tQpg8Y3iAWaGgbJjtAApbE7k"
+        },
+        {
+          "status": 302,
+          "url": "https://gtracenep.admaster.cc/ju/cs/google?google_gid=CAESEIcTiIwn0uTQTdm_sKMfv7Q&google_cver=1&google_push=AdBflipA9MmtXryGGTaQixBTY8bUFvT00KWG4DoSn4aDh4SbCXiPBOyLUk_16wSfzYg7F_kIxjS6A4WRtkvvWoNPNSWZ1JnsHKe29iAhHDhh-iaxi-PRF6k1-W85SuNSuuIvVbfTtWIGx5l_ttbS5g8UEQxRzBTS",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=admaster&google_push=AdBflipA9MmtXryGGTaQixBTY8bUFvT00KWG4DoSn4aDh4SbCXiPBOyLUk_16wSfzYg7F_kIxjS6A4WRtkvvWoNPNSWZ1JnsHKe29iAhHDhh-iaxi-PRF6k1-W85SuNSuuIvVbfTtWIGx5l_ttbS5g8UEQxRzBTS&google_hm=8544df91420492ff2bgn7z00mvz1nwiw"
+        },
+        {
+          "status": 302,
+          "url": "https://gtracenep.admaster.cc/ju/cs/google?google_gid=CAESEIcTiIwn0uTQTdm_sKMfv7Q&google_cver=1&google_push=AdBfliritl2Kd0vVFogFyAHSzY81p1rACTuKCuo0EFf2H3uRgXkBldBeP-v-3pRRr8I_c599alpWyKpMCWoforU-ixlrC5H5JHF979eFl828_Dw1NLa2jQj33W3vrjDj64IGVYdtY3P9w7XmSMKn",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=admaster&google_push=AdBfliritl2Kd0vVFogFyAHSzY81p1rACTuKCuo0EFf2H3uRgXkBldBeP-v-3pRRr8I_c599alpWyKpMCWoforU-ixlrC5H5JHF979eFl828_Dw1NLa2jQj33W3vrjDj64IGVYdtY3P9w7XmSMKn&google_hm=8544df91284fd8df2kyt0j00mvz1nwiw"
+        },
+        {
+          "status": 303,
+          "url": "https://match.prod.bidr.io/cookie-sync/adx?google_gid=CAESED-zkPW05cN-vv2zsh2QvLw&google_cver=1&google_push=AdBflirhFIN_e4TW7xBLvg9-BI7UTC9TEdQRbO9RxEx-FUU8XOvHzCJ7asgQ38oLZvg1pBVGRX3jrplBN5zU67jQSdLAM1VtHoon8HiJTgvgh1Wo5psQv7hg6LCPFu3l4LlpCG7oZxTNDMHVhG29u0bHGJS2D4E",
+          "location": "https://match.prod.bidr.io/cookie-sync/adx?google_gid=CAESED-zkPW05cN-vv2zsh2QvLw&google_cver=1&google_push=AdBflirhFIN_e4TW7xBLvg9-BI7UTC9TEdQRbO9RxEx-FUU8XOvHzCJ7asgQ38oLZvg1pBVGRX3jrplBN5zU67jQSdLAM1VtHoon8HiJTgvgh1Wo5psQv7hg6LCPFu3l4LlpCG7oZxTNDMHVhG29u0bHGJS2D4E&_bee_ppp=1"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=1442096440;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_pre=CNGcwMf56JcDFX2SOAgddoQkiQ;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=1442096440;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?"
+        },
+        {
+          "status": 307,
+          "url": "https://ads.travelaudience.com/google_pixel?google_gid=CAESEOt08PmTfiCIBwJlvhPbnK8&google_cver=1&google_push=AbeoXYzwd_DxnzfW6Anx7o_SdWwOLXozLr3jZBUEkB0xbkLFdqyXcyLO0Rn6GZnuEi4pXXIQOrF9eCOK0Ewtgiag8efOtOvms9EMoOxkA6xMI0PQa_mzIkr4fBxQLjqy1ERNTJ5l2wZkLqNS1D-rAs4rF2ktR_Y",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=ta&google_hm=AanGI4TvRroyoSGd9Hvakw&google_push=AbeoXYzwd_DxnzfW6Anx7o_SdWwOLXozLr3jZBUEkB0xbkLFdqyXcyLO0Rn6GZnuEi4pXXIQOrF9eCOK0Ewtgiag8efOtOvms9EMoOxkA6xMI0PQa_mzIkr4fBxQLjqy1ERNTJ5l2wZkLqNS1D-rAs4rF2ktR_Y"
+        },
+        {
+          "status": 302,
+          "url": "https://cm-mx.advolve.io/pixel?google_gid=CAESEAPGfOFY8c7mnLXGy-aJeAQ&google_cver=1&google_push=AdBfliqw8x4A7EvtC5ShZ8v9ZM8EQuUQegx5CXLs0p-jFhFpfHtwITH7H_1hiy6z-D7yTh-RH7Uo8uCxIJTtwj3CwHG22jlMEzQYciHfiNqUCskhenK6eJekDjLsrLGtYeu3Gq8nvnH02v3O0Tt5",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=advolve&google_push=AdBfliqw8x4A7EvtC5ShZ8v9ZM8EQuUQegx5CXLs0p-jFhFpfHtwITH7H_1hiy6z-D7yTh-RH7Uo8uCxIJTtwj3CwHG22jlMEzQYciHfiNqUCskhenK6eJekDjLsrLGtYeu3Gq8nvnH02v3O0Tt5&google_hm=6ae854ddecb04dab0da2f88b&google_ula=9190312969"
+        },
+        {
+          "status": 302,
+          "url": "https://a.c.appier.net/gcm?google_gid=CAESENCOedEEWacFFP7aWrs9sOQ&google_cver=1&google_push=AbeoXYz1ztYFKXjhxWVqABOfuXc789PerzyUhtr62nz8gYTqU96nS0TyQLXQzNUIgDo9sm3dCbcP4qrisr_xej8xiSLLZyubTMKaCe3xYewviFlSCJKSPEXRhAPBq3kuhF-mYWMkdpk_vXTyIUDQ9N_nKPt57w",
+          "location": "https://cm.g.doubleclick.net/pixel?google_hm=SFdOaExya2VBWVdtSTVkXzNWVG9hZw%3D%3D&google_nid=appier&google_push=AbeoXYz1ztYFKXjhxWVqABOfuXc789PerzyUhtr62nz8gYTqU96nS0TyQLXQzNUIgDo9sm3dCbcP4qrisr_xej8xiSLLZyubTMKaCe3xYewviFlSCJKSPEXRhAPBq3kuhF-mYWMkdpk_vXTyIUDQ9N_nKPt57w"
+        },
+        {
+          "status": 302,
+          "url": "https://onetag-sys.com/match/?int_id=19&redir=1&google_gid=CAESEKbAKukQcl2qYU2QJY9JZ2w&google_cver=1&google_push=AbeoXYy7QSTQMgpKSiI4Fa_Q7AnJVdgtHOWjcKSgh9FAb9C5Dum7VKHnGfFCLwI2_4hBPOte8zTRtrC2tPfDKahK7VvtsX8mc-jCdUox_1hsGfVDdIxg2y6UY122mIY9tuYRChHm2JkIcZSs509XKyYIPxWZ6gc",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=one_tag&google_hm=&google_push=AbeoXYy7QSTQMgpKSiI4Fa_Q7AnJVdgtHOWjcKSgh9FAb9C5Dum7VKHnGfFCLwI2_4hBPOte8zTRtrC2tPfDKahK7VvtsX8mc-jCdUox_1hsGfVDdIxg2y6UY122mIY9tuYRChHm2JkIcZSs509XKyYIPxWZ6gc"
+        },
+        {
+          "status": 302,
+          "url": "https://um.simpli.fi/gp_match?google_gid=CAESECj8v_0sE3axgPbd2r9EF_4&google_cver=1&google_push=AbeoXYzZxt-WSI23M5R54UL6CpYitsjeyEFDMWCByisBlqrwg93DLYHdOEFJmifdKtuKMemi417FuuyNnG-wSq6ofT8oT0HLWF0edjz-gDBlTM4Tiwgi0NROWahnNVRZccMHoyMoHGlNO5c57cPCi4fwci-wfGc",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=simplifi&google_hm=EEEBC3E3CAB44D5E9FA0C14CD3244569&google_push=AbeoXYzZxt-WSI23M5R54UL6CpYitsjeyEFDMWCByisBlqrwg93DLYHdOEFJmifdKtuKMemi417FuuyNnG-wSq6ofT8oT0HLWF0edjz-gDBlTM4Tiwgi0NROWahnNVRZccMHoyMoHGlNO5c57cPCi4fwci-wfGc"
+        },
+        {
+          "status": 303,
+          "url": "https://match.prod.bidr.io/cookie-sync/adx?google_gid=CAESED-zkPW05cN-vv2zsh2QvLw&google_cver=1&google_push=AdBflirhFIN_e4TW7xBLvg9-BI7UTC9TEdQRbO9RxEx-FUU8XOvHzCJ7asgQ38oLZvg1pBVGRX3jrplBN5zU67jQSdLAM1VtHoon8HiJTgvgh1Wo5psQv7hg6LCPFu3l4LlpCG7oZxTNDMHVhG29u0bHGJS2D4E&_bee_ppp=1",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=beeswaxio&google_sc=&google_hm=QUFXSDQwN1YwS29BQUFFbDIyN1JjQQ&google_push=AdBflirhFIN_e4TW7xBLvg9-BI7UTC9TEdQRbO9RxEx-FUU8XOvHzCJ7asgQ38oLZvg1pBVGRX3jrplBN5zU67jQSdLAM1VtHoon8HiJTgvgh1Wo5psQv7hg6LCPFu3l4LlpCG7oZxTNDMHVhG29u0bHGJS2D4E&bee_sync_partners=&bee_sync_current_partner=adx&bee_sync_hop_count=1"
+        },
+        {
+          "status": 302,
+          "url": "https://cm-mx.advolve.io/pixel?google_gid=CAESEAPGfOFY8c7mnLXGy-aJeAQ&google_cver=1&google_push=AbeoXYyniCXV67_KirPoH36Qf3jkU6QY2J--xmUuuGe9w-r5UKJgJXWlIzs2ADHKPvfDqznSQOKtumOatG7V8iljFVTU0kefQ5fHm0gVxrkJfZrOIPILYeW2K2q0MWaam_eBP_hTXsp0fMxFeZSNguWLARnvNVWa",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=advolve&google_push=AbeoXYyniCXV67_KirPoH36Qf3jkU6QY2J--xmUuuGe9w-r5UKJgJXWlIzs2ADHKPvfDqznSQOKtumOatG7V8iljFVTU0kefQ5fHm0gVxrkJfZrOIPILYeW2K2q0MWaam_eBP_hTXsp0fMxFeZSNguWLARnvNVWa&google_hm=6ae854ddecb04dab0da2f8ec&google_ula=9190312969"
+        },
+        {
+          "status": 302,
+          "url": "https://sync-dsp.ad-m.asia/dsp/api/sync/send?s=google&pixel_match=y&google_gid=CAESEAbqFxe2DP9hnEVIJZSF7IQ&google_cver=1&google_push=AdBflirHiX5SJw8cYCrlwbJ_ow9G_RycE3gM3miPXm1Wbt-vxGfwnwpStNKUclT3eqPJVNUXYc0Ts-bPXn-bNZ5uM929BhyZ2a58QqA-so6F_6hBQGY843-Q9pEzbFOXSfKJzSFJv1ut2qWb8QshojXhI3f9Kdez",
+          "location": "https://sync-dsp.ad-m.asia/dsp/api/sync/send?s=google&pixel_match=y&google_gid=CAESEAbqFxe2DP9hnEVIJZSF7IQ&google_cver=1&google_push=AdBflirHiX5SJw8cYCrlwbJ_ow9G_RycE3gM3miPXm1Wbt-vxGfwnwpStNKUclT3eqPJVNUXYc0Ts-bPXn-bNZ5uM929BhyZ2a58QqA-so6F_6hBQGY843-Q9pEzbFOXSfKJzSFJv1ut2qWb8QshojXhI3f9Kdez&uid-set=1"
+        },
+        {
+          "status": 302,
+          "url": "https://www.temu.com/api/adx/cm/pixel?google_gid=CAESEOcu7R4QeSWW07zYDvXtTB8&google_cver=1&google_push=AbeoXYzBsHyIHguSTnbSv2trNzyC7PnPZdnSo-1xPMIXtO-7EIahsQjVWbPl54xOz-OJBj0LZqQYGK5LdR3yX0ceq_VpUb4yDup5QLJZ6QOMOYlYXJUNZD6ISQBfPYmpaRwhEZDFtssVkesjSBgBJglyoRkO0UfV",
+          "location": "https://cm.g.doubleclick.net/pixel?google_push=AbeoXYzBsHyIHguSTnbSv2trNzyC7PnPZdnSo-1xPMIXtO-7EIahsQjVWbPl54xOz-OJBj0LZqQYGK5LdR3yX0ceq_VpUb4yDup5QLJZ6QOMOYlYXJUNZD6ISQBfPYmpaRwhEZDFtssVkesjSBgBJglyoRkO0UfV&google_nid=whaleco_services_llc"
+        },
+        {
+          "status": 302,
+          "url": "https://www.google.com/pagead/drt/ui",
+          "location": "https://googleads.g.doubleclick.net/pagead/drt/si?st=NO_DATA"
+        },
+        {
+          "status": 302,
+          "url": "https://gtracenep.admaster.cc/ju/cs/google?google_gid=CAESEIcTiIwn0uTQTdm_sKMfv7Q&google_cver=1&google_push=AbeoXYx_0vQAP_RSVl-5URVLJVENxBDukZTe4cSeK_Ivdf5dzhqopINyZFJGImxFDP1cOoETphGeEha4D3n3ngHhByP45R4rhQvyj67zpURgWOaRRu2bDyG69RbDnsYUzmrb-p1LYelRz0a8iPcqKY7oQJCOvFw",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=admaster&google_push=AbeoXYx_0vQAP_RSVl-5URVLJVENxBDukZTe4cSeK_Ivdf5dzhqopINyZFJGImxFDP1cOoETphGeEha4D3n3ngHhByP45R4rhQvyj67zpURgWOaRRu2bDyG69RbDnsYUzmrb-p1LYelRz0a8iPcqKY7oQJCOvFw&google_hm=8544df91fdd0db882ipqz900mvz1nwv3"
+        },
+        {
+          "status": 302,
+          "url": "https://cm-mx.advolve.io/pixel?google_gid=CAESEAPGfOFY8c7mnLXGy-aJeAQ&google_cver=1&google_push=AbeoXYxF-ezTPZnpfw7zO9Xg54o3VJ80FuywZQR6dgGG9dqPdLZ1oqNzh2HJ95GjrPRpf1dE22IhYWNUwWOW5ciIl6Qj8_9xlT7jQSF9GVHawtnhdjQSNE9ONk1WnGyMaTTipOnD_JUT9U-CFglpkJgBUcV90aU",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=advolve&google_push=AbeoXYxF-ezTPZnpfw7zO9Xg54o3VJ80FuywZQR6dgGG9dqPdLZ1oqNzh2HJ95GjrPRpf1dE22IhYWNUwWOW5ciIl6Qj8_9xlT7jQSF9GVHawtnhdjQSNE9ONk1WnGyMaTTipOnD_JUT9U-CFglpkJgBUcV90aU&google_hm=6ae854ddecb04dab0da2f88b&google_ula=9190312969"
+        },
+        {
+          "status": 302,
+          "url": "https://pixelfnt-us.dsp-api.moloco.com/v1/cm/adxpm?google_gid=CAESELB10YC_dnhfbUvHjXC6Hv4&google_cver=1&google_push=AbeoXYyCDScscpvN0MZ0xanlLZIUPiQ0YnfQL-IyuQmC0zjVlb7rpEOZ1G9CKBRxWpOLIT2tZPq6ryqzFfUCp7ygo3tuiHrU_4hpNP_YUEGNL0x_AP14D9tebSEAwV1Zs8kigZVEb9xd0q5IUrVLrMUZMMxj6A",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=moloco_ads&google_hm=O5Kxh1DUS-6jNVM46vgC6A&google_push=AbeoXYyCDScscpvN0MZ0xanlLZIUPiQ0YnfQL-IyuQmC0zjVlb7rpEOZ1G9CKBRxWpOLIT2tZPq6ryqzFfUCp7ygo3tuiHrU_4hpNP_YUEGNL0x_AP14D9tebSEAwV1Zs8kigZVEb9xd0q5IUrVLrMUZMMxj6A"
+        },
+        {
+          "status": 302,
+          "url": "https://cms.quantserve.com/dpixel?a=p-n5vvLvRdjg0ek&eid=0&qc_google_push=&google_gid=CAESEEJ3klS2XzFd5W1P_tkcQo0&google_cver=1&google_push=AbeoXYx94NJnaLCAHedG0c02C6Lu8kkWRTzdiIgWXTXIhu2Q_E1FpuGykUjUetZo4YIZFi7ZcmRCbIm55tDgELhBps1pQ4383Jf8fnOYawDcWPgmVDFLDKoeNDRiAeIdaB4TLnpV0hBhWS7kd09uYq4ORiRc7A",
+          "location": "https://cms.quantserve.com/dpixel?a=p-n5vvLvRdjg0ek&eid=0&qc_google_push=&google_gid=CAESEEJ3klS2XzFd5W1P_tkcQo0&google_cver=1&google_push=AbeoXYx94NJnaLCAHedG0c02C6Lu8kkWRTzdiIgWXTXIhu2Q_E1FpuGykUjUetZo4YIZFi7ZcmRCbIm55tDgELhBps1pQ4383Jf8fnOYawDcWPgmVDFLDKoeNDRiAeIdaB4TLnpV0hBhWS7kd09uYq4ORiRc7A&__qcmcs=1"
+        },
+        {
+          "status": 302,
+          "url": "https://cms.quantserve.com/dpixel?a=p-n5vvLvRdjg0ek&eid=0&qc_google_push=&google_gid=CAESEEJ3klS2XzFd5W1P_tkcQo0&google_cver=1&google_push=AbeoXYxT9fvLquH5ergksA00fkTotjHj0B1NXKCbR0fPlWjQM4g58Vc_-sYsyrFUW7Uz-NzhF6N2LrFG0ifAwnnFkv3zcMPkZS7R_gzruotys_DwzzBmSYlnA52VRmBRKiByXbB5cxb9QZ13oO8Edfx0KOnVWqw",
+          "location": "https://cms.quantserve.com/dpixel?a=p-n5vvLvRdjg0ek&eid=0&qc_google_push=&google_gid=CAESEEJ3klS2XzFd5W1P_tkcQo0&google_cver=1&google_push=AbeoXYxT9fvLquH5ergksA00fkTotjHj0B1NXKCbR0fPlWjQM4g58Vc_-sYsyrFUW7Uz-NzhF6N2LrFG0ifAwnnFkv3zcMPkZS7R_gzruotys_DwzzBmSYlnA52VRmBRKiByXbB5cxb9QZ13oO8Edfx0KOnVWqw&__qcmcs=1"
+        },
+        {
+          "status": 302,
+          "url": "https://cms.quantserve.com/dpixel?a=p-n5vvLvRdjg0ek&eid=0&qc_google_push=&google_gid=CAESEEJ3klS2XzFd5W1P_tkcQo0&google_cver=1&google_push=AbeoXYx94NJnaLCAHedG0c02C6Lu8kkWRTzdiIgWXTXIhu2Q_E1FpuGykUjUetZo4YIZFi7ZcmRCbIm55tDgELhBps1pQ4383Jf8fnOYawDcWPgmVDFLDKoeNDRiAeIdaB4TLnpV0hBhWS7kd09uYq4ORiRc7A&__qcmcs=1",
+          "location": "https://cm.g.doubleclick.net/pixel?&google_nid=B765081F39B1F7&google_push=AbeoXYx94NJnaLCAHedG0c02C6Lu8kkWRTzdiIgWXTXIhu2Q_E1FpuGykUjUetZo4YIZFi7ZcmRCbIm55tDgELhBps1pQ4383Jf8fnOYawDcWPgmVDFLDKoeNDRiAeIdaB4TLnpV0hBhWS7kd09uYq4ORiRc7A&google_hm=X91r6vsbX8zah7bqb0WRUw"
+        },
+        {
+          "status": 302,
+          "url": "https://cms.quantserve.com/dpixel?a=p-n5vvLvRdjg0ek&eid=0&qc_google_push=&google_gid=CAESEEJ3klS2XzFd5W1P_tkcQo0&google_cver=1&google_push=AbeoXYxT9fvLquH5ergksA00fkTotjHj0B1NXKCbR0fPlWjQM4g58Vc_-sYsyrFUW7Uz-NzhF6N2LrFG0ifAwnnFkv3zcMPkZS7R_gzruotys_DwzzBmSYlnA52VRmBRKiByXbB5cxb9QZ13oO8Edfx0KOnVWqw&__qcmcs=1",
+          "location": "https://cm.g.doubleclick.net/pixel?&google_nid=B765081F39B1F7&google_push=AbeoXYxT9fvLquH5ergksA00fkTotjHj0B1NXKCbR0fPlWjQM4g58Vc_-sYsyrFUW7Uz-NzhF6N2LrFG0ifAwnnFkv3zcMPkZS7R_gzruotys_DwzzBmSYlnA52VRmBRKiByXbB5cxb9QZ13oO8Edfx0KOnVWqw&google_hm=X91r6vsbX8zah7bqb0WRUw"
+        },
+        {
+          "status": 302,
+          "url": "https://dynalyst-sync.adtdp.com/pixel?pid=10&google_gid=CAESEA862Pm589bIpj99qOaHLUo&google_cver=1&google_push=AbeoXYxyGYNNCQj703MeSoQtRauHBiMJwusNpXHrLEkl2lknU4ixUUi8SPACk2ExsrHHbseSQwovMMLj2vJD_S3IWh8g6vVYrnk-A9z9hBvX7LKm1eTiqYw905CB276jQPCIgXxwuBb26LUddqjjKyJtzz6mz74",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=cyberagent_dynalyst&google_hm=QWFHYmk0UUo0dzJRcHZLRTJ2Zw&google_push=AbeoXYxyGYNNCQj703MeSoQtRauHBiMJwusNpXHrLEkl2lknU4ixUUi8SPACk2ExsrHHbseSQwovMMLj2vJD_S3IWh8g6vVYrnk-A9z9hBvX7LKm1eTiqYw905CB276jQPCIgXxwuBb26LUddqjjKyJtzz6mz74"
+        },
+        {
+          "status": 302,
+          "url": "https://sync-tm.everesttech.net/upi/pid/5w3jqr4k?redir=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dg8f47s39e399f3fe%26google_hm%3D%24%7BTM_USER_ID_BASE64ENC_URLENC%7D&google_gid=CAESEGOrT1yzYJv7TYyHr48pXhs&google_cver=1&google_push=AdBflipxfeqU0t1OiwVPeIv-KEJ6nT8IWO_xci7PJdyZDkHK7QQSdSV7Y92ps8PRwAZwsqwTYcDKPwnw-DVVjjtxzSLxQgWEdhNn40NUlKwr8VT9NutcLDEivPMJtaTRc3Yi_FjzmSBc8ICuc2U",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=g8f47s39e399f3fe&google_hm=&google_cver=1&google_gid=CAESEGOrT1yzYJv7TYyHr48pXhs&google_push=AdBflipxfeqU0t1OiwVPeIv-KEJ6nT8IWO_xci7PJdyZDkHK7QQSdSV7Y92ps8PRwAZwsqwTYcDKPwnw-DVVjjtxzSLxQgWEdhNn40NUlKwr8VT9NutcLDEivPMJtaTRc3Yi_FjzmSBc8ICuc2U"
+        },
+        {
+          "status": 302,
+          "url": "https://sync-tm.everesttech.net/upi/pid/5w3jqr4k?redir=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dg8f47s39e399f3fe%26google_hm%3D%24%7BTM_USER_ID_BASE64ENC_URLENC%7D&google_gid=CAESEGOrT1yzYJv7TYyHr48pXhs&google_cver=1&google_push=AbeoXYy8xDf9iUakcMvpM-tem3qzrM-J86antZeyD59nzKoftOTZqP3wnyfVy4_0ihs3yykKpLooGRqm2VWLFbBcPy1Jn-59xjQ6R7_sbWR0-SUDGqwEdBXARDrCbHCBL8uYHxXTrXbJPjIltu0l8aAiWrtzrD8",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=g8f47s39e399f3fe&google_hm=&google_cver=1&google_gid=CAESEGOrT1yzYJv7TYyHr48pXhs&google_push=AbeoXYy8xDf9iUakcMvpM-tem3qzrM-J86antZeyD59nzKoftOTZqP3wnyfVy4_0ihs3yykKpLooGRqm2VWLFbBcPy1Jn-59xjQ6R7_sbWR0-SUDGqwEdBXARDrCbHCBL8uYHxXTrXbJPjIltu0l8aAiWrtzrD8"
+        },
+        {
+          "status": 302,
+          "url": "https://sync-dsp.ad-m.asia/dsp/api/sync/send?s=google&pixel_match=y&google_gid=CAESEAbqFxe2DP9hnEVIJZSF7IQ&google_cver=1&google_push=AdBflirHiX5SJw8cYCrlwbJ_ow9G_RycE3gM3miPXm1Wbt-vxGfwnwpStNKUclT3eqPJVNUXYc0Ts-bPXn-bNZ5uM929BhyZ2a58QqA-so6F_6hBQGY843-Q9pEzbFOXSfKJzSFJv1ut2qWb8QshojXhI3f9Kdez&uid-set=1",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=admatrix_dsp&google_push=AdBflirHiX5SJw8cYCrlwbJ_ow9G_RycE3gM3miPXm1Wbt-vxGfwnwpStNKUclT3eqPJVNUXYc0Ts-bPXn-bNZ5uM929BhyZ2a58QqA-so6F_6hBQGY843-Q9pEzbFOXSfKJzSFJv1ut2qWb8QshojXhI3f9Kdez&google_hm=NzYzaWhRWUd2aEk=&suid-set=1"
+        },
+        {
+          "status": 302,
+          "url": "https://sync.fout.jp/sync?xid=googleadex&g_pixel=&google_gid=CAESEBg4RNFTTq57QLzcVYwb6HI&google_cver=1&google_push=AbeoXYyXiCTzIyGDbTGdxpTd9Ki2TekDMNpKgxESzsqjLw30LS89ZOtnxzE2lbxfVGq1rIRe8dIFSUmTt0qcgE6kzO3oI7sXjl32VxnaRYn4oNRUQatPML-VJxcEXiJngB5MsO436ECQ7p1w7_q9zI5TOf7jSxk",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=freakout&google_push=AbeoXYyXiCTzIyGDbTGdxpTd9Ki2TekDMNpKgxESzsqjLw30LS89ZOtnxzE2lbxfVGq1rIRe8dIFSUmTt0qcgE6kzO3oI7sXjl32VxnaRYn4oNRUQatPML-VJxcEXiJngB5MsO436ECQ7p1w7_q9zI5TOf7jSxk&google_hm=&from_google=pc1"
+        },
+        {
+          "status": 302,
+          "url": "https://adreq.adster.tech/v1/cookie/pixelmatch?google_gid=CAESEIasMAFC-sW2ZSS2NEwOe1s&google_cver=1&google_push=AbeoXYxx1msPiMfkFDpY43ond4x4215Onrre8ChiOs44bMBPlUCbnOTDYDEHjwunCkRs8ScNQF5EeiTGpwbmHqOkocun0_r14MOs6pE86Ct4-T1LP07F8zq9OVfauRLjHFY2v2DqNU71bbTemFW4y-q0fZDiDvOa",
+          "location": "https://cm.g.doubleclick.net/pixel?google_hm=MDFNNkRSUTE2MlBXNVpYTTJUODlYNDFXRFE&google_nid=adster_corp&google_push=AbeoXYxx1msPiMfkFDpY43ond4x4215Onrre8ChiOs44bMBPlUCbnOTDYDEHjwunCkRs8ScNQF5EeiTGpwbmHqOkocun0_r14MOs6pE86Ct4-T1LP07F8zq9OVfauRLjHFY2v2DqNU71bbTemFW4y-q0fZDiDvOa"
+        },
+        {
+          "status": 302,
+          "url": "https://sync.ipredictive.com/d/sync/cookie/generic?https://cm.g.doubleclick.net/pixel?google_nid=adelphic_mobile&google_gid=CAESEHTRL0GvnAKuMObZxUJUeQs&google_cver=1&google_push=AdBflirQqTrju-lohSxK4X9ywRBj-nfJ7laUK_Uz_bpuae0ftCw74EMrtXNcur1IOna_88bODYzugp8-yj1qsHzTeEV_b0MOj5X1Uzo48vjp-S7mcCxdasipS7AnQQv1fz3RcjQficEBn69K63Y&google_hm=${ADELPHIC_CUID_B64}",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=adelphic_mobile&google_gid=CAESEHTRL0GvnAKuMObZxUJUeQs&google_cver=1&google_push=AdBflirQqTrju-lohSxK4X9ywRBj-nfJ7laUK_Uz_bpuae0ftCw74EMrtXNcur1IOna_88bODYzugp8-yj1qsHzTeEV_b0MOj5X1Uzo48vjp-S7mcCxdasipS7AnQQv1fz3RcjQficEBn69K63Y&google_hm=g1pbIXm5R_SC69kqK7oOgg=="
+        },
+        {
+          "status": 302,
+          "url": "https://sync.ipredictive.com/d/sync/cookie/generic?https://cm.g.doubleclick.net/pixel?google_nid=adelphic_mobile&google_gid=CAESEHTRL0GvnAKuMObZxUJUeQs&google_cver=1&google_push=AbeoXYxZ5tUI0TdIEQ3xA31gpoMMRb0boPhSauj9l9YlRAhEYh5FTvBXyx3yTS6UT_tKZLh2gdNe7O15xy_UEC-jmlJ_5tcP3zmA_3lvZWJPUSSBY2kMrJjJmZj7Q9sr-Giz7Dbd9DCkHPpnqsPbgMQuliCdisk&google_hm=${ADELPHIC_CUID_B64}",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=adelphic_mobile&google_gid=CAESEHTRL0GvnAKuMObZxUJUeQs&google_cver=1&google_push=AbeoXYxZ5tUI0TdIEQ3xA31gpoMMRb0boPhSauj9l9YlRAhEYh5FTvBXyx3yTS6UT_tKZLh2gdNe7O15xy_UEC-jmlJ_5tcP3zmA_3lvZWJPUSSBY2kMrJjJmZj7Q9sr-Giz7Dbd9DCkHPpnqsPbgMQuliCdisk&google_hm=9sl4HlIwSHa3kfdGuR57RQ=="
+        },
+        {
+          "status": 302,
+          "url": "https://sync.srv.stackadapt.com/sync?nid=154&google_gid=CAESEB69y49lS3l-cQeTmTG6Zfo&google_cver=1&google_push=AbeoXYw0acMn3v4YseX17oGEs1MDjClOAvsEJJiidu5uaFl6KMKUOM8rx05RmXtFyuNFX9WTf2xBQqgWFTtaId7SqpQN2NCwTTTl_kRTQH-9huVR_HHUQ7U9vLEL5799iMp6ShrK-P9MsB5JKArGQPcIYebXM8U",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=stackadapt_usd&google_hm=CiQwMWExOWI4Yi04NmI5LTc2MjAtYjQzMi1mMTIyMzBjM2Y1NTYQBBoEQVBBQyAH&google_push=AbeoXYw0acMn3v4YseX17oGEs1MDjClOAvsEJJiidu5uaFl6KMKUOM8rx05RmXtFyuNFX9WTf2xBQqgWFTtaId7SqpQN2NCwTTTl_kRTQH-9huVR_HHUQ7U9vLEL5799iMp6ShrK-P9MsB5JKArGQPcIYebXM8U"
+        },
+        {
+          "status": 302,
+          "url": "https://x.bidswitch.net/sync?ssp=google&google_gid=CAESECgVuu0VIm9ukmIGIyoCcJE&google_cver=1&google_push=AbeoXYycH9Ubwh7wRYbSLCA9RhX6Ni-WwFkKbbmgm9H6FRmk3c_nTxwTHRGGKQB6S2MzLOlKFt3Yt2y5iVOdhNvGw3Jr93l_ndPn--7_bHtaLpXAWRNWz1w6E3Lg_8RGwKNq7i2xWHjG3rxFBS21JW_5Da6iYw",
+          "location": "https://x.bidswitch.net/ul_cb/sync?ssp=google&google_gid=CAESECgVuu0VIm9ukmIGIyoCcJE&google_cver=1&google_push=AbeoXYycH9Ubwh7wRYbSLCA9RhX6Ni-WwFkKbbmgm9H6FRmk3c_nTxwTHRGGKQB6S2MzLOlKFt3Yt2y5iVOdhNvGw3Jr93l_ndPn--7_bHtaLpXAWRNWz1w6E3Lg_8RGwKNq7i2xWHjG3rxFBS21JW_5Da6iYw"
+        },
+        {
+          "status": 302,
+          "url": "https://x.bidswitch.net/ul_cb/sync?ssp=google&google_gid=CAESECgVuu0VIm9ukmIGIyoCcJE&google_cver=1&google_push=AbeoXYycH9Ubwh7wRYbSLCA9RhX6Ni-WwFkKbbmgm9H6FRmk3c_nTxwTHRGGKQB6S2MzLOlKFt3Yt2y5iVOdhNvGw3Jr93l_ndPn--7_bHtaLpXAWRNWz1w6E3Lg_8RGwKNq7i2xWHjG3rxFBS21JW_5Da6iYw",
+          "location": "//cm.g.doubleclick.net/pixel?google_nid=bdsw&google_push=AbeoXYycH9Ubwh7wRYbSLCA9RhX6Ni-WwFkKbbmgm9H6FRmk3c_nTxwTHRGGKQB6S2MzLOlKFt3Yt2y5iVOdhNvGw3Jr93l_ndPn--7_bHtaLpXAWRNWz1w6E3Lg_8RGwKNq7i2xWHjG3rxFBS21JW_5Da6iYw&google_hm=HRJiUns_QR-ryzx_O-A5JA==&gdpr=&gdpr_consent="
+        },
+        {
+          "status": 302,
+          "url": "https://sync.teads.tv/um?ssb_provider_id=3&uid=&google_nid=teadstv_ab&fb=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dteadstv_ab%26google_hm%3D%5BVID_B64%5D&google_gid=CAESEJOtmDClCfTIcx3Az30Ivu0&google_cver=1&google_push=AbeoXYw2FyFQRxqRc_rX8cM884HWMbQU49j0rPQJaahdI6-qb5kVYxXPrX-33KYE1eftsZY40wD_JLKW8lgKZEW9AM3kNzr-NrOrWM2W3-nE936WpHZ5peVUfXrf8OrgoFdUxfMXqfYUKWk5IQ-za1nDMhgKUEE",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=teadstv_ab&google_hm=MTJiZThlZTgtMTc2OC00ZTBmLWI5ZWItOTM5OWVjNmNhNTIx&google_push=AbeoXYw2FyFQRxqRc_rX8cM884HWMbQU49j0rPQJaahdI6-qb5kVYxXPrX-33KYE1eftsZY40wD_JLKW8lgKZEW9AM3kNzr-NrOrWM2W3-nE936WpHZ5peVUfXrf8OrgoFdUxfMXqfYUKWk5IQ-za1nDMhgKUEE"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.g.doubleclick.net/pixel?google_nid=teadstv_ab&google_hm=MTJiZThlZTgtMTc2OC00ZTBmLWI5ZWItOTM5OWVjNmNhNTIx&google_push=AbeoXYw2FyFQRxqRc_rX8cM884HWMbQU49j0rPQJaahdI6-qb5kVYxXPrX-33KYE1eftsZY40wD_JLKW8lgKZEW9AM3kNzr-NrOrWM2W3-nE936WpHZ5peVUfXrf8OrgoFdUxfMXqfYUKWk5IQ-za1nDMhgKUEE",
+          "location": "https://sync.teads.tv/um/report?eid=3&google_nid=teadstv_ab"
+        },
+        {
+          "status": 302,
+          "url": "https://cr-p1.ladsp.com/cookiesender/1?google_push=AbeoXYyaiRvkyTFcXCWNNKzZLXUA6q5Dr-uyZgCrrPh57s6cHucENYfR9oMPsKN7uhHyrS7ZwrBkP5ynIlEulhgMFBfDVWjpPS6cwuJHXsyJkl2rAys9WqQNRRFDY25jN66vuFWfQqzR3HVUqlWubERIlL3ABA&google_gid=CAESED78VXoLuqNGqbNYyDir6DM&google_cver=1",
+          "location": "https://cr-p1.ladsp.com/cookiesender/1?cr=true&google_push=AbeoXYyaiRvkyTFcXCWNNKzZLXUA6q5Dr-uyZgCrrPh57s6cHucENYfR9oMPsKN7uhHyrS7ZwrBkP5ynIlEulhgMFBfDVWjpPS6cwuJHXsyJkl2rAys9WqQNRRFDY25jN66vuFWfQqzR3HVUqlWubERIlL3ABA&google_gid=CAESED78VXoLuqNGqbNYyDir6DM&google_cver=1"
+        },
+        {
+          "status": 302,
+          "url": "https://cr-p1.ladsp.com/cookiesender/1?cr=true&google_push=AbeoXYyaiRvkyTFcXCWNNKzZLXUA6q5Dr-uyZgCrrPh57s6cHucENYfR9oMPsKN7uhHyrS7ZwrBkP5ynIlEulhgMFBfDVWjpPS6cwuJHXsyJkl2rAys9WqQNRRFDY25jN66vuFWfQqzR3HVUqlWubERIlL3ABA&google_gid=CAESED78VXoLuqNGqbNYyDir6DM&google_cver=1",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=sonet&google_push=AbeoXYyaiRvkyTFcXCWNNKzZLXUA6q5Dr-uyZgCrrPh57s6cHucENYfR9oMPsKN7uhHyrS7ZwrBkP5ynIlEulhgMFBfDVWjpPS6cwuJHXsyJkl2rAys9WqQNRRFDY25jN66vuFWfQqzR3HVUqlWubERIlL3ABA&google_hm=Aemsco5X1X4Yks8AKdgHZ28r8cA"
+        }
+      ],
+      "cross_origin_requests": [
+        "https://www.googletagmanager.com/gtag/js?id=G-S8S5GW598W",
+        "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/mixpanel-browser@2",
+        "https://cdn7.gametop.com/img/gt-logo-red.png",
+        "https://cdn8.gametop.com/sb-icons/home.svg",
+        "https://cdn8.gametop.com/sb-icons/pc-games.svg",
+        "https://cdn8.gametop.com/sb-icons/online-games.svg",
+        "https://cdn8.gametop.com/sb-icons/news2.svg",
+        "https://cdn8.gametop.com/sb-icons/trending.svg",
+        "https://cdn8.gametop.com/sb-icons/hidden-object.svg",
+        "https://cdn8.gametop.com/sb-icons/match3.svg",
+        "https://cdn8.gametop.com/sb-icons/time-management.svg",
+        "https://cdn8.gametop.com/sb-icons/puzzle.svg",
+        "https://cdn8.gametop.com/sb-icons/solitaire.svg",
+        "https://cdn8.gametop.com/sb-icons/action.svg",
+        "https://cdn8.gametop.com/sb-icons/arcade2.svg",
+        "https://cdn8.gametop.com/sb-icons/racing.svg",
+        "https://cdn8.gametop.com/sb-icons/all-categories.svg",
+        "https://cdn8.gametop.com/sb-icons/all-series.svg",
+        "https://cdn8.gametop.com/img/search.svg"
+      ],
+      "navigated_to": "https://www.gametop.com/download-free-games/city-racing/",
+      "error": "locator.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a, button, input[type=\"button\"], input[type=\"submit\"]').nth(5)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"nav-link\" href=\"https://www.gametop.com/category/index.html\">…</a>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 100ms\u001b[22m\n\u001b[2m    9 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 500ms\u001b[22m\n"
+    },
+    {
+      "index": 1,
+      "text": "Download Safety Policy",
+      "href": "https://www.gametop.com/download-safety-policy.html",
+      "popups": [],
+      "downloads": [],
+      "redirects": [
+        {
+          "status": 302,
+          "url": "https://ipac.ctnsnet.com/int/cm?exc=1&acc=crimtan_au&google_gid=CAESEHt5JfTebyPmBQM-AJtwznE&google_cver=1&google_push=AdBfliqkILzUbt76_xGhfLpJYzWD26zTKWFqdbp8pJyKduwbsYY10pMqzXigl0y6CeNcYPSNFwXqqei3Xi3_B6J9VQ1lvOHgJPH9vw",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=crimtan_au&google_push=AdBfliqkILzUbt76_xGhfLpJYzWD26zTKWFqdbp8pJyKduwbsYY10pMqzXigl0y6CeNcYPSNFwXqqei3Xi3_B6J9VQ1lvOHgJPH9vw&google_hm=9XikwrUxS1-NKBMGw_1nNis"
+        },
+        {
+          "status": 302,
+          "url": "https://ipac.ctnsnet.com/int/cm?exc=1&acc=crimtan_au&google_gid=CAESEHt5JfTebyPmBQM-AJtwznE&google_cver=1&google_push=AdBflipz7GttQH-H56xakG9DlmTy0hnofLHHGfP-lcB8yCJPUTvWzBtDbVApOn16S58BWdFod8dMhq_4DDeOE1Lrg-JgfElGb4mMuacxvpcpK2qBADbS2daJKZbItOB_wSIvaK2gu-s20qfBOWpa_SpHZs6t_pw",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=crimtan_au&google_push=AdBflipz7GttQH-H56xakG9DlmTy0hnofLHHGfP-lcB8yCJPUTvWzBtDbVApOn16S58BWdFod8dMhq_4DDeOE1Lrg-JgfElGb4mMuacxvpcpK2qBADbS2daJKZbItOB_wSIvaK2gu-s20qfBOWpa_SpHZs6t_pw&google_hm=a54HY-2nQymEUjiKrNR6yCs"
+        },
+        {
+          "status": 302,
+          "url": "https://match.adsrvr.org/track/cmf/google?google_gid=CAESEIm41QkNHj-RMiCf2-90EJ8&google_cver=1&google_push=AdBflipka2_i2cubFeiufQQM9rlCSIY4HxCmIAt3Jvkpd7x2DnVppXGpmMEBpxPLunCdad8qLdQs5qfCdqCmRJJaaaVMs0mvosRFlFlXOSbZJYvNoz9Ns6YOuTy7YaKxj2P4H-mb05CUWr20moo51eHOA0tQL4c",
+          "location": "https://match.adsrvr.org/track/cmb/google?google_gid=CAESEIm41QkNHj-RMiCf2-90EJ8&google_cver=1&google_push=AdBflipka2_i2cubFeiufQQM9rlCSIY4HxCmIAt3Jvkpd7x2DnVppXGpmMEBpxPLunCdad8qLdQs5qfCdqCmRJJaaaVMs0mvosRFlFlXOSbZJYvNoz9Ns6YOuTy7YaKxj2P4H-mb05CUWr20moo51eHOA0tQL4c"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=4051125338;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_pre=COuD8Mr56JcDFSnWcwEdgVwe5g;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=4051125338;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N5295.5087813DEMANDGEN/B34614698.437642213;dc_trk_aid=630742082;dc_trk_cid=246611925;ord=1323461570;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;dc_ctype=46;dc_pubid=8;dc_btype=1",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N5295.5087813DEMANDGEN/B34614698.437642213;dc_pre=CIu48sr56JcDFVy62AUdK7ANjQ;dc_trk_aid=630742082;dc_trk_cid=246611925;ord=1323461570;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;dc_ctype=46;dc_pubid=8;dc_btype=1"
+        },
+        {
+          "status": 302,
+          "url": "https://match.adsrvr.org/track/cmb/google?google_gid=CAESEIm41QkNHj-RMiCf2-90EJ8&google_cver=1&google_push=AdBflipka2_i2cubFeiufQQM9rlCSIY4HxCmIAt3Jvkpd7x2DnVppXGpmMEBpxPLunCdad8qLdQs5qfCdqCmRJJaaaVMs0mvosRFlFlXOSbZJYvNoz9Ns6YOuTy7YaKxj2P4H-mb05CUWr20moo51eHOA0tQL4c",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_hm=YWE0MmIzYTktODY1Ni00ZWY1LWJhZWUtNGZkOTg4Yjk4Zjg0&google_push&gdpr=0&gdpr_consent=&ttd_tdid=aa42b3a9-8656-4ef5-baee-4fd988b98f84"
+        },
+        {
+          "status": 302,
+          "url": "https://ipac.ctnsnet.com/int/cm?exc=1&acc=crimtan_au&google_gid=CAESEHt5JfTebyPmBQM-AJtwznE&google_cver=1&google_push=AdBflipZ44IAQL_IvgJ_5i--XwHJRqPDfmhU162FFq1UtoqF2OkajSOWcsKvKCSrH00qn6IvTSuf7S39oFbA4V4rXKdmhp2XVrVAaeMrQs_meYRuNmXwHBjFV3kYUX44mio9S1MLCWKpUqF-yp7bxQLRQXEzBSE",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=crimtan_au&google_push=AdBflipZ44IAQL_IvgJ_5i--XwHJRqPDfmhU162FFq1UtoqF2OkajSOWcsKvKCSrH00qn6IvTSuf7S39oFbA4V4rXKdmhp2XVrVAaeMrQs_meYRuNmXwHBjFV3kYUX44mio9S1MLCWKpUqF-yp7bxQLRQXEzBSE&google_hm=a54HY-2nQymEUjiKrNR6yCs"
+        },
+        {
+          "status": 302,
+          "url": "https://c1.adform.net/serving/cookie/match/?party=1&google_gid=CAESEH_FJ_YWbaXVIFUCQpMYasA&google_cver=1&google_push=AdBflirAZxgJdeaCmi570OMqVhLvyJKYPEVnV1iNMzcJ_TzSgTKRwwyvkuMeAXQxhDA0-C1m129rzNHdyAt2rrs-WTA0nafdhWu1UipwqqzLlM-Ux65PDoIFIlP3HdqnT3qjQsQT7vMacwZZ68xR6ptc70ZzX0g",
+          "location": "https://c1.adform.net/serving/cookie/match/?CC=1&party=1&google_gid=CAESEH_FJ_YWbaXVIFUCQpMYasA&google_cver=1&google_push=AdBflirAZxgJdeaCmi570OMqVhLvyJKYPEVnV1iNMzcJ_TzSgTKRwwyvkuMeAXQxhDA0-C1m129rzNHdyAt2rrs-WTA0nafdhWu1UipwqqzLlM-Ux65PDoIFIlP3HdqnT3qjQsQT7vMacwZZ68xR6ptc70ZzX0g"
+        },
+        {
+          "status": 302,
+          "url": "https://c1.adform.net/serving/cookie/match/?CC=1&party=1&google_gid=CAESEH_FJ_YWbaXVIFUCQpMYasA&google_cver=1&google_push=AdBflirAZxgJdeaCmi570OMqVhLvyJKYPEVnV1iNMzcJ_TzSgTKRwwyvkuMeAXQxhDA0-C1m129rzNHdyAt2rrs-WTA0nafdhWu1UipwqqzLlM-Ux65PDoIFIlP3HdqnT3qjQsQT7vMacwZZ68xR6ptc70ZzX0g",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=1024&google_ula=1641347&google_hm=MTI2NDM3NTUzNjM5MTMzMTU1Mg&google_push=AdBflirAZxgJdeaCmi570OMqVhLvyJKYPEVnV1iNMzcJ_TzSgTKRwwyvkuMeAXQxhDA0-C1m129rzNHdyAt2rrs-WTA0nafdhWu1UipwqqzLlM-Ux65PDoIFIlP3HdqnT3qjQsQT7vMacwZZ68xR6ptc70ZzX0g"
+        },
+        {
+          "status": 302,
+          "url": "https://match.adsrvr.org/track/cmf/google?google_gid=CAESEIm41QkNHj-RMiCf2-90EJ8&google_cver=1&google_push=AdBflio2scZGEvFUMVyLTpK-fkW1zyC0E3rVENCKISnJnyJ2wfX3gY8PwM5gm2YZlLiIYmIyhxv9vRKb0BqOM47KZzHC9UDxAxO9kg",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_hm=YWE0MmIzYTktODY1Ni00ZWY1LWJhZWUtNGZkOTg4Yjk4Zjg0&google_push&gdpr=0&gdpr_consent=&ttd_tdid=aa42b3a9-8656-4ef5-baee-4fd988b98f84"
+        },
+        {
+          "status": 302,
+          "url": "https://c1.adform.net/serving/cookie/match/?party=1&google_gid=CAESEH_FJ_YWbaXVIFUCQpMYasA&google_cver=1&google_push=AdBfliqzdDKArS2TUElBvfIJfE4hfsyC3yCRk_FJxnoXV0oZOgmXI1Hic9uj3YXR5PCxi57VmwAEVzu4MZeNIB7QecH862ONP0k07A",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=1024&google_ula=1641347&google_hm=MTcyOTIyNTc2NDI2Nzc1NjI5Ng&google_push=AdBfliqzdDKArS2TUElBvfIJfE4hfsyC3yCRk_FJxnoXV0oZOgmXI1Hic9uj3YXR5PCxi57VmwAEVzu4MZeNIB7QecH862ONP0k07A"
+        },
+        {
+          "status": 302,
+          "url": "https://ipac.ctnsnet.com/int/cm?exc=1&acc=crimtan_au&google_gid=CAESEHt5JfTebyPmBQM-AJtwznE&google_cver=1&google_push=AdBflirajgEmN6I6bVf9whXDppi30IIUNQmkF_15ZtJERKdlBddbd-0d-snHlDa4Lqgv3psxiAEwrNd5pltxCJVgjvhoSK8f72dK8Q",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=crimtan_au&google_push=AdBflirajgEmN6I6bVf9whXDppi30IIUNQmkF_15ZtJERKdlBddbd-0d-snHlDa4Lqgv3psxiAEwrNd5pltxCJVgjvhoSK8f72dK8Q&google_hm=a54HY-2nQymEUjiKrNR6yCs"
+        },
+        {
+          "status": 302,
+          "url": "https://sync.srv.stackadapt.com/sync?nid=154&google_gid=CAESEB69y49lS3l-cQeTmTG6Zfo&google_cver=1&google_push=AdBflip2WKlhVqmOs1A4yFvPlRoaeCAlZaknzzZPJ1mQfGTQVww7J7fEJax_OuixQ2VO1JXQde1dMaErtjk6ACRa6T8uSBpvdGAEAJD_9UC5Mq0Q9Rfr514hBUcq2MmvcNBZiB-lMuY7Ns_vyWHi7U_J5_bjrM4",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=stackadapt_usd&google_hm=CiQwMWExOWI4Yi04NmI5LTc2MjAtYjQzMi1mMTIyMzBjM2Y1NTYQBBoEQVBBQyAH&google_push=AdBflip2WKlhVqmOs1A4yFvPlRoaeCAlZaknzzZPJ1mQfGTQVww7J7fEJax_OuixQ2VO1JXQde1dMaErtjk6ACRa6T8uSBpvdGAEAJD_9UC5Mq0Q9Rfr514hBUcq2MmvcNBZiB-lMuY7Ns_vyWHi7U_J5_bjrM4"
+        },
+        {
+          "status": 302,
+          "url": "https://creativecdn.com/cm-notify?pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBflipL7g4F0VA0JrvBZqeIhI-_Io1IZUDAwLvI6dpuDFLJBwqUgZ6FPvXV3Mkl6WLQf9-OHxK1mfheOhFsU1rh0N2kSV3wejnwIvqH4ifySnAnvbd4eTuKhMf8MCaNC0iVceMbIwmouAIcsiU0dDVF_ubtAJM",
+          "location": "https://creativecdn.com/cm-notify?pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBflipL7g4F0VA0JrvBZqeIhI-_Io1IZUDAwLvI6dpuDFLJBwqUgZ6FPvXV3Mkl6WLQf9-OHxK1mfheOhFsU1rh0N2kSV3wejnwIvqH4ifySnAnvbd4eTuKhMf8MCaNC0iVceMbIwmouAIcsiU0dDVF_ubtAJM&tc=1"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=1220259130;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_pre=CL6ImMv56JcDFZRonQkdAfkMGw;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=1220259130;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?"
+        },
+        {
+          "status": 302,
+          "url": "https://sync.srv.stackadapt.com/sync?nid=154&google_gid=CAESEB69y49lS3l-cQeTmTG6Zfo&google_cver=1&google_push=AdBflirWznyKQtdKu7EF2h2wYCzw58LgcdnPBKMK-kJZY7-1O1HXXj7lwsblM5X21RWqAbcXTR4g5oNGK83L2tClpMqt2D3cQNxpztvqWOE7yF_mHryAc5qaACBSqYvJsTlizcLwT2Vkoz2hJ7ZgWzepvdXNiA",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=stackadapt_usd&google_hm=CiQwMWExOWI4Yi04NmI5LTc2MjAtYjQzMi1mMTIyMzBjM2Y1NTYQBBoEQVBBQyAH&google_push=AdBflirWznyKQtdKu7EF2h2wYCzw58LgcdnPBKMK-kJZY7-1O1HXXj7lwsblM5X21RWqAbcXTR4g5oNGK83L2tClpMqt2D3cQNxpztvqWOE7yF_mHryAc5qaACBSqYvJsTlizcLwT2Vkoz2hJ7ZgWzepvdXNiA"
+        },
+        {
+          "status": 302,
+          "url": "https://dis.criteo.com/dis/usersync.aspx?r=4&p=14&cp=google&cu=1&url=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dcjp%26google_hm%3D%40%40CRITEO_USERID%40%40%26google_push%3DAdBflioYksINu7Y0R0wu1qoEiqITY0XxmE-PzAsIwP1GOt41wpaDB1_eQVXReHfRKmUmQl-rfExtNwtMcNM7yWZ_VW8QaYG0c4eLGO4fD1nOOFDthrahDELjokfVKu6OuM0p4_jBD-IjnoJxUmMDT1z842cBPhw&google_gid=CAESEG5WlmamfSmoIZh6U5Bgxpo&google_cver=1",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=cjp&google_hm=ay05RTFRMHg4YjY1b2tGbE5PMXJISFZHTmh1UnVXTTR0NmlnQlBPUQ&google_push=AdBflioYksINu7Y0R0wu1qoEiqITY0XxmE-PzAsIwP1GOt41wpaDB1_eQVXReHfRKmUmQl-rfExtNwtMcNM7yWZ_VW8QaYG0c4eLGO4fD1nOOFDthrahDELjokfVKu6OuM0p4_jBD-IjnoJxUmMDT1z842cBPhw"
+        },
+        {
+          "status": 302,
+          "url": "https://creativecdn.com/cm-notify?pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBflipL7g4F0VA0JrvBZqeIhI-_Io1IZUDAwLvI6dpuDFLJBwqUgZ6FPvXV3Mkl6WLQf9-OHxK1mfheOhFsU1rh0N2kSV3wejnwIvqH4ifySnAnvbd4eTuKhMf8MCaNC0iVceMbIwmouAIcsiU0dDVF_ubtAJM&tc=1",
+          "location": "https://cm.g.doubleclick.net/pixel?google_ula=5153224&google_hm=CguWk7lRaQNdf7JEtYMvHagQj9FSSUe87e3q6LfKT2I&pi=adx&tdc=ams&pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBflipL7g4F0VA0JrvBZqeIhI-_Io1IZUDAwLvI6dpuDFLJBwqUgZ6FPvXV3Mkl6WLQf9-OHxK1mfheOhFsU1rh0N2kSV3wejnwIvqH4ifySnAnvbd4eTuKhMf8MCaNC0iVceMbIwmouAIcsiU0dDVF_ubtAJM&tc=1"
+        },
+        {
+          "status": 302,
+          "url": "https://match.adsrvr.org/track/cmf/google?google_gid=CAESEIm41QkNHj-RMiCf2-90EJ8&google_cver=1&google_push=AdBflioTQHjr3r6J7-skA-qVdYWTqn8DU4RlGkieNhYQvUwyLQTQ3jvVvQPEHt279VoICWBqnyTCyM2_OAr5bBXiEJeGk75Ri768x_jSKPeK9sTKp0vtZvj8iNqJh2AfU361D1ZYwngg24hk59C3W-4XGmuRfg",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_hm=YWE0MmIzYTktODY1Ni00ZWY1LWJhZWUtNGZkOTg4Yjk4Zjg0&google_push&gdpr=0&gdpr_consent=&ttd_tdid=aa42b3a9-8656-4ef5-baee-4fd988b98f84"
+        },
+        {
+          "status": 302,
+          "url": "https://dis.criteo.com/dis/usersync.aspx?r=4&p=14&cp=google&cu=1&url=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dcjp%26google_hm%3D%40%40CRITEO_USERID%40%40%26google_push%3DAdBflirV_nB7r0JoESY58TR8SoIjdirq1_W2U8JPT-jt7fLioMCH5u8Q6hmhGqz9BSP0Jh39PE09_dUE3U60HqECh5nEB-8L-hpljnx1NRFJQnhCLfdFHryymnzzDr0WYPMHYouQonp3O4aVNa0H8COMQ53v8A&google_gid=CAESEG5WlmamfSmoIZh6U5Bgxpo&google_cver=1",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=cjp&google_hm=ay05RTFRMHg4YjY1b2tGbE5PMXJISFZHTmh1UnVXTTR0NmlnQlBPUQ&google_push=AdBflirV_nB7r0JoESY58TR8SoIjdirq1_W2U8JPT-jt7fLioMCH5u8Q6hmhGqz9BSP0Jh39PE09_dUE3U60HqECh5nEB-8L-hpljnx1NRFJQnhCLfdFHryymnzzDr0WYPMHYouQonp3O4aVNa0H8COMQ53v8A"
+        },
+        {
+          "status": 302,
+          "url": "https://creativecdn.com/cm-notify?pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBflir-D9jxxPQhBLUUZ_1DPiJKbST6Dq_Gyc5yR7fA9hMUHLi3IPCIiro3Y5S-Lqj6mnXhd9q0kEGinW8JNlopt7_FNX9mJatcImhOe6QHm0hcaDXT0Bb8emK8X_TitUGE8uNikLK0p1fzBDXLGf79tj80Wws",
+          "location": "https://cm.g.doubleclick.net/pixel?google_ula=5153224&google_hm=CguWk7lRaQNdf7JEtYMvHagQj9FSSUe87e3q6LfKT2I&pi=adx&tdc=ams&pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBflir-D9jxxPQhBLUUZ_1DPiJKbST6Dq_Gyc5yR7fA9hMUHLi3IPCIiro3Y5S-Lqj6mnXhd9q0kEGinW8JNlopt7_FNX9mJatcImhOe6QHm0hcaDXT0Bb8emK8X_TitUGE8uNikLK0p1fzBDXLGf79tj80Wws"
+        },
+        {
+          "status": 302,
+          "url": "https://ipac.ctnsnet.com/int/cm?exc=1&acc=crimtan_au&google_gid=CAESEHt5JfTebyPmBQM-AJtwznE&google_cver=1&google_push=AdBflip9hRS5h8JwwzkYZELK8oqr2eTNb3o_YlcOG2iTh0FeWodAUXjrnx6Xd_MI89aH6GvvR7QWtwpfN6JHi3AfxYrtvLnSEFEBwdx27NJh0yzfJBUCOeMr3owQp5n4Py9eeZV1OV3QwuDOWEMKzyltbCShNvY",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=crimtan_au&google_push=AdBflip9hRS5h8JwwzkYZELK8oqr2eTNb3o_YlcOG2iTh0FeWodAUXjrnx6Xd_MI89aH6GvvR7QWtwpfN6JHi3AfxYrtvLnSEFEBwdx27NJh0yzfJBUCOeMr3owQp5n4Py9eeZV1OV3QwuDOWEMKzyltbCShNvY&google_hm=a54HY-2nQymEUjiKrNR6yCs"
+        },
+        {
+          "status": 302,
+          "url": "https://creativecdn.com/cm-notify?pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBflioudrABnCRpa6DH6gGbC7ocY1zxrcO2MPT00TwJd5jvKQrLLeF61CAfGWoWLZLXUoyrOyzUsd-fNw71r1DKidd81R8Em13-2EkTizRqAIc4p4z0C4zhd4ilxwQTCPezR4C9raqlczNawoI_D0079Pk9DBg",
+          "location": "https://cm.g.doubleclick.net/pixel?google_ula=5153224&google_hm=CguWk7lRaQNdf7JEtYMvHagQj9FSSUe87e3q6LfKT2I&pi=adx&tdc=ams&pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBflioudrABnCRpa6DH6gGbC7ocY1zxrcO2MPT00TwJd5jvKQrLLeF61CAfGWoWLZLXUoyrOyzUsd-fNw71r1DKidd81R8Em13-2EkTizRqAIc4p4z0C4zhd4ilxwQTCPezR4C9raqlczNawoI_D0079Pk9DBg"
+        },
+        {
+          "status": 302,
+          "url": "https://sync.srv.stackadapt.com/sync?nid=154&google_gid=CAESEB69y49lS3l-cQeTmTG6Zfo&google_cver=1&google_push=AdBfliqVrQih8Ebs_k8_ny971dIx4Ymgxy5xqrKuFyszmXBvTstJOlVhjKaw5asv3x5odfJ58b1mFhuSqWfq0j7cYUR-5ey8f-pVqdclbSCVoycnhlsk9tcUiIN7X-ZVE6ZEbGBQMJdE0QnbgeEKpUhA7tX3aQ",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=stackadapt_usd&google_hm=CiQwMWExOWI4Yi04NmI5LTc2MjAtYjQzMi1mMTIyMzBjM2Y1NTYQBBoEQVBBQyAH&google_push=AdBfliqVrQih8Ebs_k8_ny971dIx4Ymgxy5xqrKuFyszmXBvTstJOlVhjKaw5asv3x5odfJ58b1mFhuSqWfq0j7cYUR-5ey8f-pVqdclbSCVoycnhlsk9tcUiIN7X-ZVE6ZEbGBQMJdE0QnbgeEKpUhA7tX3aQ"
+        },
+        {
+          "status": 302,
+          "url": "https://ups.analytics.yahoo.com/ups/58933/cms?google_gid=CAESEL-mwkfzBn74QgYiHmL9d9k&google_cver=1&google_push=AdBflip3CcY32l1kaKbfBwtomxTO20EE_mvjJqBxWp_oYWrVvDvv1JbJGW1RYTape5yYeqhJbeXkuaYwMzOAvUunDxDJm63FYwyXCA",
+          "location": "https://ups.analytics.yahoo.com/ups/58933/cms?google_gid=CAESEL-mwkfzBn74QgYiHmL9d9k&google_cver=1&google_push=AdBflip3CcY32l1kaKbfBwtomxTO20EE_mvjJqBxWp_oYWrVvDvv1JbJGW1RYTape5yYeqhJbeXkuaYwMzOAvUunDxDJm63FYwyXCA&verify=true"
+        },
+        {
+          "status": 302,
+          "url": "https://ups.analytics.yahoo.com/ups/58933/cms?google_gid=CAESEL-mwkfzBn74QgYiHmL9d9k&google_cver=1&google_push=AdBflio0dbvmOF5zUBEL-mWQd18PaDwyR-MCfUz8X-JO22v8iINHCIU_L0n2SeG_VuyzI7TnST32-1cvhwNTVFzZS2t0OiHfPWI29mRcGgp3oBD6RZl0Dwap7YLrOzjAALhG-sA5JOy9HxKWUq4qT0V3a_4qbgQ",
+          "location": "https://ups.analytics.yahoo.com/ups/58933/cms?google_gid=CAESEL-mwkfzBn74QgYiHmL9d9k&google_cver=1&google_push=AdBflio0dbvmOF5zUBEL-mWQd18PaDwyR-MCfUz8X-JO22v8iINHCIU_L0n2SeG_VuyzI7TnST32-1cvhwNTVFzZS2t0OiHfPWI29mRcGgp3oBD6RZl0Dwap7YLrOzjAALhG-sA5JOy9HxKWUq4qT0V3a_4qbgQ&verify=true"
+        },
+        {
+          "status": 302,
+          "url": "https://ups.analytics.yahoo.com/ups/58933/cms?google_gid=CAESEL-mwkfzBn74QgYiHmL9d9k&google_cver=1&google_push=AdBflio0dbvmOF5zUBEL-mWQd18PaDwyR-MCfUz8X-JO22v8iINHCIU_L0n2SeG_VuyzI7TnST32-1cvhwNTVFzZS2t0OiHfPWI29mRcGgp3oBD6RZl0Dwap7YLrOzjAALhG-sA5JOy9HxKWUq4qT0V3a_4qbgQ&verify=true",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=yahoo&google_hm=eS1yZE9nQWQxRTJwR0ZJNGliTFBfM2FfSlF3SDFBV2xRNn5B&google_push=AdBflio0dbvmOF5zUBEL-mWQd18PaDwyR-MCfUz8X-JO22v8iINHCIU_L0n2SeG_VuyzI7TnST32-1cvhwNTVFzZS2t0OiHfPWI29mRcGgp3oBD6RZl0Dwap7YLrOzjAALhG-sA5JOy9HxKWUq4qT0V3a_4qbgQ"
+        },
+        {
+          "status": 302,
+          "url": "https://ups.analytics.yahoo.com/ups/58933/cms?google_gid=CAESEL-mwkfzBn74QgYiHmL9d9k&google_cver=1&google_push=AdBflip3CcY32l1kaKbfBwtomxTO20EE_mvjJqBxWp_oYWrVvDvv1JbJGW1RYTape5yYeqhJbeXkuaYwMzOAvUunDxDJm63FYwyXCA&verify=true",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=yahoo&google_hm=eS1yZE9nQWQxRTJwR0ZJNGliTFBfM2FfSlF3SDFBV2xRNn5B&google_push=AdBflip3CcY32l1kaKbfBwtomxTO20EE_mvjJqBxWp_oYWrVvDvv1JbJGW1RYTape5yYeqhJbeXkuaYwMzOAvUunDxDJm63FYwyXCA"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/pixel?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflipmgakwWejIbhSFrBUub0H9tgWSxJQgku-XGL_aPn61R2ccSMTF234tqNieBvwb1UO17PFqzuFSOJ_srpOoBVxOKPb_0v8UdMg&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1",
+          "location": "/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflipmgakwWejIbhSFrBUub0H9tgWSxJQgku-XGL_aPn61R2ccSMTF234tqNieBvwb1UO17PFqzuFSOJ_srpOoBVxOKPb_0v8UdMg&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=af33f451ef6bfd644c05cea59176327b"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/pixel?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflipzyd5cQ_K1xIRQ89efRqjGQ6ka-R9Jckjf9RNtGxJC9sR1VHsUdzMNIK5Ke6UQBU-V8CgwUd987o3WivwijdllexKtHjt4sqYvHZnJ-GRzy3CsK0GrvD7r2OFZYGYLgU_9opNn7v-WqF3G3krtZ-8n4UQ&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1",
+          "location": "/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflipzyd5cQ_K1xIRQ89efRqjGQ6ka-R9Jckjf9RNtGxJC9sR1VHsUdzMNIK5Ke6UQBU-V8CgwUd987o3WivwijdllexKtHjt4sqYvHZnJ-GRzy3CsK0GrvD7r2OFZYGYLgU_9opNn7v-WqF3G3krtZ-8n4UQ&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=18aad3571f443c6523b5f865701d3ce4"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/pixel?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBfliqKnetjN5NHqVqNJ596syCtrPxsstv-5WR5t3y4Srj-vjeUP6na8mVCP79XvvsYwp6GaST6hA22yx3lLYlgLX86AbeJ4a2xvhw&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1",
+          "location": "/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBfliqKnetjN5NHqVqNJ596syCtrPxsstv-5WR5t3y4Srj-vjeUP6na8mVCP79XvvsYwp6GaST6hA22yx3lLYlgLX86AbeJ4a2xvhw&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=3126ef8a69325f42155475c9d6a110f5"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/pixel?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflio0fPJpWf7LbrG-f5yP42cmxhKwrOiDbv6Klzxw9a38B-5evhW2e6EP4ksV5WucH7MJmKRNhinwYlZcWx4h2l7SYtsj4Fv8a7103z-mXDfFXrsOBENHoXEwjh2C8_GSHYskSOBfh_hNbEclodAng2iuLnC2&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1",
+          "location": "/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflio0fPJpWf7LbrG-f5yP42cmxhKwrOiDbv6Klzxw9a38B-5evhW2e6EP4ksV5WucH7MJmKRNhinwYlZcWx4h2l7SYtsj4Fv8a7103z-mXDfFXrsOBENHoXEwjh2C8_GSHYskSOBfh_hNbEclodAng2iuLnC2&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=95699fd101cf7df1cfcbb3da8183d043"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflipmgakwWejIbhSFrBUub0H9tgWSxJQgku-XGL_aPn61R2ccSMTF234tqNieBvwb1UO17PFqzuFSOJ_srpOoBVxOKPb_0v8UdMg&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=af33f451ef6bfd644c05cea59176327b",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=bluesea_bidding&google_hm=YWYzM2Y0NTFlZjZiZmQ2NA&google_push=AdBflipmgakwWejIbhSFrBUub0H9tgWSxJQgku-XGL_aPn61R2ccSMTF234tqNieBvwb1UO17PFqzuFSOJ_srpOoBVxOKPb_0v8UdMg"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflipzyd5cQ_K1xIRQ89efRqjGQ6ka-R9Jckjf9RNtGxJC9sR1VHsUdzMNIK5Ke6UQBU-V8CgwUd987o3WivwijdllexKtHjt4sqYvHZnJ-GRzy3CsK0GrvD7r2OFZYGYLgU_9opNn7v-WqF3G3krtZ-8n4UQ&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=18aad3571f443c6523b5f865701d3ce4",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=bluesea_bidding&google_hm=MThhYWQzNTcxZjQ0M2M2NQ&google_push=AdBflipzyd5cQ_K1xIRQ89efRqjGQ6ka-R9Jckjf9RNtGxJC9sR1VHsUdzMNIK5Ke6UQBU-V8CgwUd987o3WivwijdllexKtHjt4sqYvHZnJ-GRzy3CsK0GrvD7r2OFZYGYLgU_9opNn7v-WqF3G3krtZ-8n4UQ"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBfliqKnetjN5NHqVqNJ596syCtrPxsstv-5WR5t3y4Srj-vjeUP6na8mVCP79XvvsYwp6GaST6hA22yx3lLYlgLX86AbeJ4a2xvhw&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=3126ef8a69325f42155475c9d6a110f5",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=bluesea_bidding&google_hm=MzEyNmVmOGE2OTMyNWY0Mg&google_push=AdBfliqKnetjN5NHqVqNJ596syCtrPxsstv-5WR5t3y4Srj-vjeUP6na8mVCP79XvvsYwp6GaST6hA22yx3lLYlgLX86AbeJ4a2xvhw"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflio0fPJpWf7LbrG-f5yP42cmxhKwrOiDbv6Klzxw9a38B-5evhW2e6EP4ksV5WucH7MJmKRNhinwYlZcWx4h2l7SYtsj4Fv8a7103z-mXDfFXrsOBENHoXEwjh2C8_GSHYskSOBfh_hNbEclodAng2iuLnC2&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=95699fd101cf7df1cfcbb3da8183d043",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=bluesea_bidding&google_hm=OTU2OTlmZDEwMWNmN2RmMQ&google_push=AdBflio0fPJpWf7LbrG-f5yP42cmxhKwrOiDbv6Klzxw9a38B-5evhW2e6EP4ksV5WucH7MJmKRNhinwYlZcWx4h2l7SYtsj4Fv8a7103z-mXDfFXrsOBENHoXEwjh2C8_GSHYskSOBfh_hNbEclodAng2iuLnC2"
+        },
+        {
+          "status": 302,
+          "url": "https://tracking.prismpartner.smt.docomo.ne.jp/sync/adx?google_gid=CAESEBR3rUROMR1__QkoAPkdT5A&google_cver=1&google_push=AdBflio892f8pSy3KAiMaIc_bAXJy0r1nBfIWJA6zOBA0IUVdFKVuppboPYe4LlHagtiDXOQMWLgv9HGiKhDl0wWpRfiAmDo3M4MQHDvraWbKNsRwOjNb8Bbwn3cMub1QofyjGoufNmDYisrDbKOCwJops3AOUh0",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=prism_partnerinc&google_hm=c2be1bjKT-O0tDezb4uPtA&google_push=AdBflio892f8pSy3KAiMaIc_bAXJy0r1nBfIWJA6zOBA0IUVdFKVuppboPYe4LlHagtiDXOQMWLgv9HGiKhDl0wWpRfiAmDo3M4MQHDvraWbKNsRwOjNb8Bbwn3cMub1QofyjGoufNmDYisrDbKOCwJops3AOUh0"
+        },
+        {
+          "status": 302,
+          "url": "https://tracking.prismpartner.smt.docomo.ne.jp/sync/adx?google_gid=CAESEBR3rUROMR1__QkoAPkdT5A&google_cver=1&google_push=AdBfliqpvzSvjr9qost5el0P2917uhOWipSPsfJVKXtSxeWfyOtuX9dcO1YrFA5jI4DTn8DenrOPJAJvCjHdA-Z3AjVK0um3utSQnjnWgKkQxbNJ9tkx8ybgDAg7gfuNkyAitCUeQ_Hbox2S1wAHDxKCBUzOC-4i",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=prism_partnerinc&google_hm=V6wboNBuSyaxHFhXl03_ZQ&google_push=AdBfliqpvzSvjr9qost5el0P2917uhOWipSPsfJVKXtSxeWfyOtuX9dcO1YrFA5jI4DTn8DenrOPJAJvCjHdA-Z3AjVK0um3utSQnjnWgKkQxbNJ9tkx8ybgDAg7gfuNkyAitCUeQ_Hbox2S1wAHDxKCBUzOC-4i"
+        },
+        {
+          "status": 302,
+          "url": "https://tracking.prismpartner.smt.docomo.ne.jp/sync/adx?google_gid=CAESEBR3rUROMR1__QkoAPkdT5A&google_cver=1&google_push=AdBflir6f38bdDE8g_ycXN9n6kmk5v4gQhXZhYceON1sZxya5nvsDBCxyp2YMwwtuExk-x3Ek3T5IIY6GoPP-WV91BXI6OsiZzAuV4o",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=prism_partnerinc&google_hm=oYItbZhyRM6wuYBm_sMliA&google_push=AdBflir6f38bdDE8g_ycXN9n6kmk5v4gQhXZhYceON1sZxya5nvsDBCxyp2YMwwtuExk-x3Ek3T5IIY6GoPP-WV91BXI6OsiZzAuV4o"
+        },
+        {
+          "status": 302,
+          "url": "https://tracking.prismpartner.smt.docomo.ne.jp/sync/adx?google_gid=CAESEBR3rUROMR1__QkoAPkdT5A&google_cver=1&google_push=AdBflio6-s4yK61gVA5jHuOdVxa5b7OcOxRYHZ07QpfrOamujun4RhFNvO3kTHDJslahuw64yVnICtWOcwAfRoVHfT2GZphYaeIBWd7yhiq6nm7vpRpHlVY9beFhJyjDoyf7gZBdYzTJvgnOP-of_iwXIEWAvdQ",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=prism_partnerinc&google_hm=VawUTcTcSKW5WDmYtbugOg&google_push=AdBflio6-s4yK61gVA5jHuOdVxa5b7OcOxRYHZ07QpfrOamujun4RhFNvO3kTHDJslahuw64yVnICtWOcwAfRoVHfT2GZphYaeIBWd7yhiq6nm7vpRpHlVY9beFhJyjDoyf7gZBdYzTJvgnOP-of_iwXIEWAvdQ"
+        },
+        {
+          "status": 302,
+          "url": "https://tracking.prismpartner.smt.docomo.ne.jp/sync/adx?google_gid=CAESEBR3rUROMR1__QkoAPkdT5A&google_cver=1&google_push=AdBflipdGF7JmevVVi1fGJH8A9JgnOtFYvdjMviTrjKOUhJMCILaTKY7x5fbWDhaMJHhTUgXwnMcKe-Ad9yGYbHCgkG2BYHhUtuX8IA",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=prism_partnerinc&google_hm=2Ro2rsF4R0i2F6EIljQVJQ&google_push=AdBflipdGF7JmevVVi1fGJH8A9JgnOtFYvdjMviTrjKOUhJMCILaTKY7x5fbWDhaMJHhTUgXwnMcKe-Ad9yGYbHCgkG2BYHhUtuX8IA"
+        },
+        {
+          "status": 302,
+          "url": "https://ds.uncn.jp/doubleclick/0/sync_push?google_gid=CAESEA55035DfZAYp_kvSYdU6E8&google_cver=1&google_push=AdBflir86Muaqs5UdN69JS-HQuRwSOLDj72ZP9ch0LM0OsY-v_EApNUFZDRVpuMA8KZoFkPPlviJmsSvEebUPMIRqDk0Z9kakiPtYJ1zUHDt7f_sxTmXFvt0cvrft6zfeo0h5ufZBxcc_HyU-3N9iMJnIXPBlf4",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=unicorn&google_push=AdBflir86Muaqs5UdN69JS-HQuRwSOLDj72ZP9ch0LM0OsY-v_EApNUFZDRVpuMA8KZoFkPPlviJmsSvEebUPMIRqDk0Z9kakiPtYJ1zUHDt7f_sxTmXFvt0cvrft6zfeo0h5ufZBxcc_HyU-3N9iMJnIXPBlf4&google_hm=dl9kMDJiYTEzNS1iZjY5LTRiNTUtYmE1MS05ZTU5MTk4NjU1ODA"
+        },
+        {
+          "status": 302,
+          "url": "https://ds.uncn.jp/doubleclick/0/sync_push?google_gid=CAESEA55035DfZAYp_kvSYdU6E8&google_cver=1&google_push=AdBflioa_mDlx35_ef292SZi0HixhB8h1d_sgYVIspjAlNTPYvEE33wPBqN0kOhBBPFaz4V5IDvWzR108SwdlaZdS3vCuWHHb6xBV-l88Z3U_cnxRbkMdWqfP-84-VGCED3HmaVqK0fVbWd6YoyZ8wJ04HM9yAQ",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=unicorn&google_push=AdBflioa_mDlx35_ef292SZi0HixhB8h1d_sgYVIspjAlNTPYvEE33wPBqN0kOhBBPFaz4V5IDvWzR108SwdlaZdS3vCuWHHb6xBV-l88Z3U_cnxRbkMdWqfP-84-VGCED3HmaVqK0fVbWd6YoyZ8wJ04HM9yAQ&google_hm=dl81MmIzZGEwYy0xNWExLTRkZTktYWZmNy03ZjA0NGViYTE2NTA"
+        },
+        {
+          "status": 302,
+          "url": "https://ds.uncn.jp/doubleclick/0/sync_push?google_gid=CAESEA55035DfZAYp_kvSYdU6E8&google_cver=1&google_push=AdBflioz9XOKMmyVsqj71u80MEpxiUou1LkrHtfO_D7J7xViCN11N6iTVF_ZYISh9x9sEYXYSk1EfBYPFD6UJI17ITHiRPagByR5",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=unicorn&google_push=AdBflioz9XOKMmyVsqj71u80MEpxiUou1LkrHtfO_D7J7xViCN11N6iTVF_ZYISh9x9sEYXYSk1EfBYPFD6UJI17ITHiRPagByR5&google_hm=dl85ODFiYWU5NC01Y2ZmLTQ3MzYtOWE3My0xMWJkMDY2MzFkMTM"
+        },
+        {
+          "status": 302,
+          "url": "https://ds.uncn.jp/doubleclick/0/sync_push?google_gid=CAESEA55035DfZAYp_kvSYdU6E8&google_cver=1&google_push=AdBfliq00WGbxkjz0W5EEhhTWXGbU574h3MJ-cUOzc0ihGjPOHIdInt1FivzShGqE-bY8chxonkOpTkadbf-miBDgU-2O2eZL9MZlY1JJLT08EuW2SW7eMZDIDt38L6HY2vbXwapuQDs_VGUwgqX0PRaifJ2rrk",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=unicorn&google_push=AdBfliq00WGbxkjz0W5EEhhTWXGbU574h3MJ-cUOzc0ihGjPOHIdInt1FivzShGqE-bY8chxonkOpTkadbf-miBDgU-2O2eZL9MZlY1JJLT08EuW2SW7eMZDIDt38L6HY2vbXwapuQDs_VGUwgqX0PRaifJ2rrk&google_hm=dl80NjhiY2IyOC0zZDk0LTQ4MTItYTQxZC01ZDdlMjkzMTA1OTk"
+        }
+      ],
+      "cross_origin_requests": [
+        "https://www.googletagmanager.com/gtag/js?id=G-S8S5GW598W",
+        "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/mixpanel-browser@2",
+        "https://cdn7.gametop.com/img/gt-logo-red.png",
+        "https://cdn8.gametop.com/sb-icons/home.svg",
+        "https://cdn8.gametop.com/sb-icons/pc-games.svg",
+        "https://cdn8.gametop.com/sb-icons/online-games.svg",
+        "https://cdn8.gametop.com/sb-icons/news2.svg",
+        "https://cdn8.gametop.com/sb-icons/trending.svg",
+        "https://cdn8.gametop.com/sb-icons/hidden-object.svg",
+        "https://cdn8.gametop.com/sb-icons/match3.svg",
+        "https://cdn8.gametop.com/sb-icons/time-management.svg",
+        "https://cdn8.gametop.com/sb-icons/puzzle.svg",
+        "https://cdn8.gametop.com/sb-icons/solitaire.svg",
+        "https://cdn8.gametop.com/sb-icons/action.svg",
+        "https://cdn8.gametop.com/sb-icons/arcade2.svg",
+        "https://cdn8.gametop.com/sb-icons/racing.svg",
+        "https://cdn8.gametop.com/sb-icons/all-categories.svg",
+        "https://cdn8.gametop.com/sb-icons/all-series.svg",
+        "https://cdn8.gametop.com/img/search.svg"
+      ],
+      "navigated_to": "https://www.gametop.com/download-free-games/city-racing/",
+      "error": "locator.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a, button, input[type=\"button\"], input[type=\"submit\"]').nth(41)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"nav-link\" href=\"/download-safety-policy.html\">Download Safety Policy</a>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 100ms\u001b[22m\n\u001b[2m    9 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 500ms\u001b[22m\n"
+    },
+    {
+      "index": 2,
+      "text": "Download Games",
+      "href": "https://www.gametop.com/category/index.html",
+      "popups": [],
+      "downloads": [],
+      "redirects": [
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/pixel?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBfliqeMi3A43UNrHG5QU59RDKk3aBuK-ahOTi0VEGqXEzG-TvyT0nFQ-9yXww6JkcTz62xOjI6D6NQIFNIqHqCp_d0BHMH_CIZIkk3upaBLAm95DVpCs40kQmd9X2dKpU4LWzJrZHP7knU5Lf5Bgq7grjirgwn&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1",
+          "location": "/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBfliqeMi3A43UNrHG5QU59RDKk3aBuK-ahOTi0VEGqXEzG-TvyT0nFQ-9yXww6JkcTz62xOjI6D6NQIFNIqHqCp_d0BHMH_CIZIkk3upaBLAm95DVpCs40kQmd9X2dKpU4LWzJrZHP7knU5Lf5Bgq7grjirgwn&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=fc5382042786c43decd36552ce916667"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/pixel?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflirGHYF4uKV62gsCmtQM4oCyGkDwdmKdxBPCB-Otzdvs615WT7PCnPT-uM_HTUWeGX1Ki8iTf1Kd6fz23i05MwJXuC3FtkGMfLTfbuHYctNkuS9y_7g2RIAUxhAfzTVzm8Nd2bXke3JQIKE8pIhRFfblf2Y&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1",
+          "location": "/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflirGHYF4uKV62gsCmtQM4oCyGkDwdmKdxBPCB-Otzdvs615WT7PCnPT-uM_HTUWeGX1Ki8iTf1Kd6fz23i05MwJXuC3FtkGMfLTfbuHYctNkuS9y_7g2RIAUxhAfzTVzm8Nd2bXke3JQIKE8pIhRFfblf2Y&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=9676ccfe41ad0db4308060324a875013"
+        },
+        {
+          "status": 302,
+          "url": "https://match.adsrvr.org/track/cmf/google?google_gid=CAESEIm41QkNHj-RMiCf2-90EJ8&google_cver=1&google_push=AdBflioGctj19Ux64ysqkH-k0A26-YkQJ0yDCXXbos0bL0wKatNaGlHKhMDOpuTBQEfp1zh1n06yYMswpiEJvK7-6sA8Ym2xJ8YsDiY",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_hm=YWE0MmIzYTktODY1Ni00ZWY1LWJhZWUtNGZkOTg4Yjk4Zjg0&google_push&gdpr=0&gdpr_consent=&ttd_tdid=aa42b3a9-8656-4ef5-baee-4fd988b98f84"
+        },
+        {
+          "status": 302,
+          "url": "https://c1.adform.net/serving/cookie/match/?party=1&google_gid=CAESEH_FJ_YWbaXVIFUCQpMYasA&google_cver=1&google_push=AdBfliq2Hyyz32tNkeY_fesmv-jlcbNkMJOpFiBEzkuYCsQiIRO2JndDdRWF4540h3vypqKyflyvZTRnrD_LY-sY2zsImGG-IyyDtns",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=1024&google_ula=1641347&google_hm=MTcyOTIyNTc2NDI2Nzc1NjI5Ng&google_push=AdBfliq2Hyyz32tNkeY_fesmv-jlcbNkMJOpFiBEzkuYCsQiIRO2JndDdRWF4540h3vypqKyflyvZTRnrD_LY-sY2zsImGG-IyyDtns"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/pixel?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflioi09KnQQd3uHNMsUzmytT9HceWgv93W-Z6FfMlAQRQTnh5fB9ZuZMbTIZgJmYBAGcsI7GfhvhAW325v1Lkr-B59tq1jfmH34O5&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1",
+          "location": "/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflioi09KnQQd3uHNMsUzmytT9HceWgv93W-Z6FfMlAQRQTnh5fB9ZuZMbTIZgJmYBAGcsI7GfhvhAW325v1Lkr-B59tq1jfmH34O5&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=29eb5da1ce4f7955e6ca195e5c421818"
+        },
+        {
+          "status": 302,
+          "url": "https://ds.uncn.jp/doubleclick/0/sync_push?google_gid=CAESEA55035DfZAYp_kvSYdU6E8&google_cver=1&google_push=AdBflir-ZedUpe8WaeMMkS0G2rMg21-WvxYEVXlhuHY4IDPoUtTP5--97n8VWFZjbRHM4BJXsITSLGMMzr9b0FsSXvOiGcNRfy8ZlTTl0yjTTkWC2nN8Ak5rvRhdeek2ix2ZiaUhy_ddkovdkAhE--P8uucHYI8",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=unicorn&google_push=AdBflir-ZedUpe8WaeMMkS0G2rMg21-WvxYEVXlhuHY4IDPoUtTP5--97n8VWFZjbRHM4BJXsITSLGMMzr9b0FsSXvOiGcNRfy8ZlTTl0yjTTkWC2nN8Ak5rvRhdeek2ix2ZiaUhy_ddkovdkAhE--P8uucHYI8&google_hm=dl85ODFiYWU5NC01Y2ZmLTQ3MzYtOWE3My0xMWJkMDY2MzFkMTM"
+        },
+        {
+          "status": 302,
+          "url": "https://creativecdn.com/cm-notify?pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBflirUEzsB_72lF4GMzByTXqnDNMgi5qWqqh4qMHyvvar87Ts-teQSp-Zd53BnnP_k19kRA131E4M9OPdZNyeB_8-8Mjltse3FNLYWnc8ULuYbgcAOrmVpMOj5IRYp5R96SAklaiRlN2blojfa5s9VcFWFi28",
+          "location": "https://cm.g.doubleclick.net/pixel?google_ula=5153224&google_hm=CguWk7lRaQNdf7JEtYMvHagQj9FSSUe87e3q6LfKT2I&pi=adx&tdc=ams&pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBflirUEzsB_72lF4GMzByTXqnDNMgi5qWqqh4qMHyvvar87Ts-teQSp-Zd53BnnP_k19kRA131E4M9OPdZNyeB_8-8Mjltse3FNLYWnc8ULuYbgcAOrmVpMOj5IRYp5R96SAklaiRlN2blojfa5s9VcFWFi28"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBfliqeMi3A43UNrHG5QU59RDKk3aBuK-ahOTi0VEGqXEzG-TvyT0nFQ-9yXww6JkcTz62xOjI6D6NQIFNIqHqCp_d0BHMH_CIZIkk3upaBLAm95DVpCs40kQmd9X2dKpU4LWzJrZHP7knU5Lf5Bgq7grjirgwn&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=fc5382042786c43decd36552ce916667",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=bluesea_bidding&google_hm=OTU2OTlmZDEwMWNmN2RmMQ&google_push=AdBfliqeMi3A43UNrHG5QU59RDKk3aBuK-ahOTi0VEGqXEzG-TvyT0nFQ-9yXww6JkcTz62xOjI6D6NQIFNIqHqCp_d0BHMH_CIZIkk3upaBLAm95DVpCs40kQmd9X2dKpU4LWzJrZHP7knU5Lf5Bgq7grjirgwn"
+        },
+        {
+          "status": 302,
+          "url": "https://ipac.ctnsnet.com/int/cm?exc=1&acc=crimtan_au&google_gid=CAESEHt5JfTebyPmBQM-AJtwznE&google_cver=1&google_push=AdBflipA0pCdPlBAKZFk0pHUDwMZy504Pi8kpI8LdR-18GMzZMk7MoiHmdozT8XIqgLlBOqTJWnSNWT_D9yAR2X0xWY2foVebxTkuA30o9kREFHVUvUsTIWnPHN59E1XCVwhyFP40QtNccDkfo4A0GSlX62LwC4",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=crimtan_au&google_push=AdBflipA0pCdPlBAKZFk0pHUDwMZy504Pi8kpI8LdR-18GMzZMk7MoiHmdozT8XIqgLlBOqTJWnSNWT_D9yAR2X0xWY2foVebxTkuA30o9kREFHVUvUsTIWnPHN59E1XCVwhyFP40QtNccDkfo4A0GSlX62LwC4&google_hm=a54HY-2nQymEUjiKrNR6yCs"
+        },
+        {
+          "status": 302,
+          "url": "https://tracking.prismpartner.smt.docomo.ne.jp/sync/adx?google_gid=CAESEBR3rUROMR1__QkoAPkdT5A&google_cver=1&google_push=AdBflipwoMVd1qth4_RMAXTdBy0clp2ZV_6fJN6qRhLbZoysaIPMXPTSEHsy4qv16SbY1POc7AyXDuyIBIk1yY4YmEGAoNIbVRekD7gb_bO-yHxWUacla7d5c8ItGx74tDQDmud0Ji8V-onjmawh0pZQ3CMpyTc",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=prism_partnerinc&google_hm=2Ro2rsF4R0i2F6EIljQVJQ&google_push=AdBflipwoMVd1qth4_RMAXTdBy0clp2ZV_6fJN6qRhLbZoysaIPMXPTSEHsy4qv16SbY1POc7AyXDuyIBIk1yY4YmEGAoNIbVRekD7gb_bO-yHxWUacla7d5c8ItGx74tDQDmud0Ji8V-onjmawh0pZQ3CMpyTc"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflirGHYF4uKV62gsCmtQM4oCyGkDwdmKdxBPCB-Otzdvs615WT7PCnPT-uM_HTUWeGX1Ki8iTf1Kd6fz23i05MwJXuC3FtkGMfLTfbuHYctNkuS9y_7g2RIAUxhAfzTVzm8Nd2bXke3JQIKE8pIhRFfblf2Y&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=9676ccfe41ad0db4308060324a875013",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=bluesea_bidding&google_hm=OTU2OTlmZDEwMWNmN2RmMQ&google_push=AdBflirGHYF4uKV62gsCmtQM4oCyGkDwdmKdxBPCB-Otzdvs615WT7PCnPT-uM_HTUWeGX1Ki8iTf1Kd6fz23i05MwJXuC3FtkGMfLTfbuHYctNkuS9y_7g2RIAUxhAfzTVzm8Nd2bXke3JQIKE8pIhRFfblf2Y"
+        },
+        {
+          "status": 302,
+          "url": "https://tracking.prismpartner.smt.docomo.ne.jp/sync/adx?google_gid=CAESEBR3rUROMR1__QkoAPkdT5A&google_cver=1&google_push=AdBflipaFEbawWM4G5VTPEIdTIGkcy5yOGIaAZGvGXeJc1GbjLtTj8_-MVSnxv-qw3SvVKVSJIbYz3r4mfsdJW6DcxjUElMRka-vlJY-",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=prism_partnerinc&google_hm=2Ro2rsF4R0i2F6EIljQVJQ&google_push=AdBflipaFEbawWM4G5VTPEIdTIGkcy5yOGIaAZGvGXeJc1GbjLtTj8_-MVSnxv-qw3SvVKVSJIbYz3r4mfsdJW6DcxjUElMRka-vlJY-"
+        },
+        {
+          "status": 302,
+          "url": "https://ipac.ctnsnet.com/int/cm?exc=1&acc=crimtan_au&google_gid=CAESEHt5JfTebyPmBQM-AJtwznE&google_cver=1&google_push=AdBflipb2oyVIgGCqSimTTsQBVBBfByWKpzoR5MHu6V49qFUN5ISwpH9yQ2tBwi4y0cQpqclTspji1iG03jNDmkbtLCqwQX7pdXWBb4",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=crimtan_au&google_push=AdBflipb2oyVIgGCqSimTTsQBVBBfByWKpzoR5MHu6V49qFUN5ISwpH9yQ2tBwi4y0cQpqclTspji1iG03jNDmkbtLCqwQX7pdXWBb4&google_hm=a54HY-2nQymEUjiKrNR6yCs"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflioi09KnQQd3uHNMsUzmytT9HceWgv93W-Z6FfMlAQRQTnh5fB9ZuZMbTIZgJmYBAGcsI7GfhvhAW325v1Lkr-B59tq1jfmH34O5&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=29eb5da1ce4f7955e6ca195e5c421818",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=bluesea_bidding&google_hm=OTU2OTlmZDEwMWNmN2RmMQ&google_push=AdBflioi09KnQQd3uHNMsUzmytT9HceWgv93W-Z6FfMlAQRQTnh5fB9ZuZMbTIZgJmYBAGcsI7GfhvhAW325v1Lkr-B59tq1jfmH34O5"
+        },
+        {
+          "status": 302,
+          "url": "https://ups.analytics.yahoo.com/ups/58933/cms?google_gid=CAESEL-mwkfzBn74QgYiHmL9d9k&google_cver=1&google_push=AdBfliomN_ozqaoSV6S_rBZrf0jjaw8ZZ2rooXrSVuV__uDkKnjpNRgC0qQGtzk8YRejwR80jB1H29dVPn7tjne_Gy7h1gOHWB-40UKiffIrTKlPDAV7Tg6VPUoIm-H1aTuurX3WRyeykOqxYWFJex3KHQhAKSY",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=yahoo&google_hm=eS1yZE9nQWQxRTJwR0ZJNGliTFBfM2FfSlF3SDFBV2xRNn5B&google_push=AdBfliomN_ozqaoSV6S_rBZrf0jjaw8ZZ2rooXrSVuV__uDkKnjpNRgC0qQGtzk8YRejwR80jB1H29dVPn7tjne_Gy7h1gOHWB-40UKiffIrTKlPDAV7Tg6VPUoIm-H1aTuurX3WRyeykOqxYWFJex3KHQhAKSY"
+        },
+        {
+          "status": 302,
+          "url": "https://ups.analytics.yahoo.com/ups/58933/cms?google_gid=CAESEL-mwkfzBn74QgYiHmL9d9k&google_cver=1&google_push=AdBflipSF-GIXb4eevqohRzeleUV2RiUrJYfosjoq633wszD5XgcvR2hSP0AvvhaubqeyONVUOzMJRZQ61LSFdzxSTEk1R7HBYUrI6M1WKDCaMNAOHQyJjr2chGbN3h5QxA0k-uAiLQvmDPNeObtF_0JDmrDOD0",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=yahoo&google_hm=eS1yZE9nQWQxRTJwR0ZJNGliTFBfM2FfSlF3SDFBV2xRNn5B&google_push=AdBflipSF-GIXb4eevqohRzeleUV2RiUrJYfosjoq633wszD5XgcvR2hSP0AvvhaubqeyONVUOzMJRZQ61LSFdzxSTEk1R7HBYUrI6M1WKDCaMNAOHQyJjr2chGbN3h5QxA0k-uAiLQvmDPNeObtF_0JDmrDOD0"
+        },
+        {
+          "status": 302,
+          "url": "https://ups.analytics.yahoo.com/ups/58933/cms?google_gid=CAESEL-mwkfzBn74QgYiHmL9d9k&google_cver=1&google_push=AdBfliphUnToDNZmToQydHUpPVbyXFzF4LPk3_0GXUfpkl1-wKi1Kgc0rkdhwcpJA47MgBdDM6xa1pHKI82iX8KPRZQZYCjm34ZZJGo",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=yahoo&google_hm=eS1yZE9nQWQxRTJwR0ZJNGliTFBfM2FfSlF3SDFBV2xRNn5B&google_push=AdBfliphUnToDNZmToQydHUpPVbyXFzF4LPk3_0GXUfpkl1-wKi1Kgc0rkdhwcpJA47MgBdDM6xa1pHKI82iX8KPRZQZYCjm34ZZJGo"
+        },
+        {
+          "status": 302,
+          "url": "https://analytics.pangle-ads.com/api/ad/union/gg_cookie_matching?google_gid=CAESEPgsUdVZIYrPiXF4AL4F168&google_cver=1&google_push=AdBfliqd_-zyfhYAeFwO3KukJbas-OJEDst-8_RaEnpJtk6a8fAuc93WqZcPIFGztAgUmXhKGkHFHzIN2sqV-dRMaxUAgaNscjpz08Y9B9yOyLGWU3LeFzxNvLXi1pBR3H4HqQp6aJQ9uxpiG-2L4jnuq0fNzXgG",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=toutiao_usd&google_push=AdBfliqd_-zyfhYAeFwO3KukJbas-OJEDst-8_RaEnpJtk6a8fAuc93WqZcPIFGztAgUmXhKGkHFHzIN2sqV-dRMaxUAgaNscjpz08Y9B9yOyLGWU3LeFzxNvLXi1pBR3H4HqQp6aJQ9uxpiG-2L4jnuq0fNzXgG"
+        },
+        {
+          "status": 302,
+          "url": "https://analytics.pangle-ads.com/api/ad/union/gg_cookie_matching?google_gid=CAESEPgsUdVZIYrPiXF4AL4F168&google_cver=1&google_push=AdBfliqL-AdKFDxkwVriUck8-a0P3VDMAtfsk61YFF97Aj446mau0Mxc1aERDrjMv4dTTWMjrOQMplpRtEeIFVuhWa0s_tYOIAmW8A0s7DeJWAyUnqw8sMfTNiPCqibRKvBEARPPvHr7BL2qV1ZKhr8B51D4mGGa",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=toutiao_usd&google_push=AdBfliqL-AdKFDxkwVriUck8-a0P3VDMAtfsk61YFF97Aj446mau0Mxc1aERDrjMv4dTTWMjrOQMplpRtEeIFVuhWa0s_tYOIAmW8A0s7DeJWAyUnqw8sMfTNiPCqibRKvBEARPPvHr7BL2qV1ZKhr8B51D4mGGa"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N5295.5087813DEMANDGEN/B34614698.437642213;dc_trk_aid=630742082;dc_trk_cid=246611925;ord=2244524474;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;dc_ctype=46;dc_pubid=8;dc_btype=1",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N5295.5087813DEMANDGEN/B34614698.437642213;dc_pre=CLbn08756JcDFTAxtwAd52w5Mw;dc_trk_aid=630742082;dc_trk_cid=246611925;ord=2244524474;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;dc_ctype=46;dc_pubid=8;dc_btype=1"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=312140134;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_pre=CPXY1s756JcDFYu4rAIdgc0sPA;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=312140134;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?"
+        },
+        {
+          "status": 302,
+          "url": "https://analytics.pangle-ads.com/api/ad/union/gg_cookie_matching?google_gid=CAESEPgsUdVZIYrPiXF4AL4F168&google_cver=1&google_push=AdBflippLX_bjx7juTq2xXpxcjBuE_8fWznqnVlEYJezVL_l0-HnfB5XUGJ--1mgodDxJA3SnupMt8Tw2fOnTCwFTjMxBYKXcxaPKroT",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=toutiao_usd&google_push=AdBflippLX_bjx7juTq2xXpxcjBuE_8fWznqnVlEYJezVL_l0-HnfB5XUGJ--1mgodDxJA3SnupMt8Tw2fOnTCwFTjMxBYKXcxaPKroT"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=25698556;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_pre=CMmF58756JcDFTBPnQkdMX4SNg;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=25698556;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?"
+        },
+        {
+          "status": 302,
+          "url": "https://dis.criteo.com/dis/usersync.aspx?r=4&p=14&cp=google&cu=1&url=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dcjp%26google_hm%3D%40%40CRITEO_USERID%40%40%26google_push%3DAdBflirFlfGFP81EkAH7-9tag2cv8PP4vZg4LvfnSEFkbr1PXmPM60IsqFhmZQ2ZXZQZbLAAxdgdpvF-wh1qixwJrMBg3J4FRPAAxfle2ORK1ikP8pYJiLNh73MBcnS3SFCYFVa7Ez2YVihxr7jB3KV63xQHcD4&google_gid=CAESEG5WlmamfSmoIZh6U5Bgxpo&google_cver=1",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=cjp&google_hm=ay05RTFRMHg4YjY1b2tGbE5PMXJISFZHTmh1UnVXTTR0NmlnQlBPUQ&google_push=AdBflirFlfGFP81EkAH7-9tag2cv8PP4vZg4LvfnSEFkbr1PXmPM60IsqFhmZQ2ZXZQZbLAAxdgdpvF-wh1qixwJrMBg3J4FRPAAxfle2ORK1ikP8pYJiLNh73MBcnS3SFCYFVa7Ez2YVihxr7jB3KV63xQHcD4"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/pixel?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflion12AUJpPmyEzlNRUEkl_4tTQCaEvBoNhUr2h5tKRq__EavLrhQ7pbkjvNtrK4T6-i65UUsSzlNckaXSZ_YXQl3y_7Vb3HTBHNJLzX4l2CZOMTU9DzWkWpyhLZL2kRO6m3LMGXYhZJFYrModJ7seJMOhLr&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1",
+          "location": "/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflion12AUJpPmyEzlNRUEkl_4tTQCaEvBoNhUr2h5tKRq__EavLrhQ7pbkjvNtrK4T6-i65UUsSzlNckaXSZ_YXQl3y_7Vb3HTBHNJLzX4l2CZOMTU9DzWkWpyhLZL2kRO6m3LMGXYhZJFYrModJ7seJMOhLr&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=1ebba60311273aa8eb2ba90536f879da"
+        },
+        {
+          "status": 302,
+          "url": "https://ipac.ctnsnet.com/int/cm?exc=1&acc=crimtan_au&google_gid=CAESEHt5JfTebyPmBQM-AJtwznE&google_cver=1&google_push=AdBflirrBctE3YqZ-8Y8Sj5JsHkWMlO8L66lF85pEV-byeg_99MfnGRyCQK-x7gnTiAbcq8vTavUQyzJv6mxdLpuMNXHyopMQjUwjke-0vmITuayxx7KsLyNjMR8ujf_tFENCFim1e_AGCWchPEQdt2wfGgAZJU",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=crimtan_au&google_push=AdBflirrBctE3YqZ-8Y8Sj5JsHkWMlO8L66lF85pEV-byeg_99MfnGRyCQK-x7gnTiAbcq8vTavUQyzJv6mxdLpuMNXHyopMQjUwjke-0vmITuayxx7KsLyNjMR8ujf_tFENCFim1e_AGCWchPEQdt2wfGgAZJU&google_hm=a54HY-2nQymEUjiKrNR6yCs"
+        },
+        {
+          "status": 302,
+          "url": "https://tracking.prismpartner.smt.docomo.ne.jp/sync/adx?google_gid=CAESEBR3rUROMR1__QkoAPkdT5A&google_cver=1&google_push=AdBflipbWX5OytKXlfOa_A3-LpwS5WCJsClWUclreiwp7aBFIMckEb1vwAQB0oOKZVxFx7X0EJIvoQueimYWA0O_joMpRIK4zoxi5NeftZeKQcmniT1AtgLmI_X1LDHPyq2Tzn2GL5pXd4xnTce96CL4ow_jQPsq",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=prism_partnerinc&google_hm=2Ro2rsF4R0i2F6EIljQVJQ&google_push=AdBflipbWX5OytKXlfOa_A3-LpwS5WCJsClWUclreiwp7aBFIMckEb1vwAQB0oOKZVxFx7X0EJIvoQueimYWA0O_joMpRIK4zoxi5NeftZeKQcmniT1AtgLmI_X1LDHPyq2Tzn2GL5pXd4xnTce96CL4ow_jQPsq"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflion12AUJpPmyEzlNRUEkl_4tTQCaEvBoNhUr2h5tKRq__EavLrhQ7pbkjvNtrK4T6-i65UUsSzlNckaXSZ_YXQl3y_7Vb3HTBHNJLzX4l2CZOMTU9DzWkWpyhLZL2kRO6m3LMGXYhZJFYrModJ7seJMOhLr&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=1ebba60311273aa8eb2ba90536f879da",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=bluesea_bidding&google_hm=OTU2OTlmZDEwMWNmN2RmMQ&google_push=AdBflion12AUJpPmyEzlNRUEkl_4tTQCaEvBoNhUr2h5tKRq__EavLrhQ7pbkjvNtrK4T6-i65UUsSzlNckaXSZ_YXQl3y_7Vb3HTBHNJLzX4l2CZOMTU9DzWkWpyhLZL2kRO6m3LMGXYhZJFYrModJ7seJMOhLr"
+        },
+        {
+          "status": 302,
+          "url": "https://ups.analytics.yahoo.com/ups/58933/cms?google_gid=CAESEL-mwkfzBn74QgYiHmL9d9k&google_cver=1&google_push=AdBflip5eTobUNbyuWRLQHbC7IW5hf-ao6x1O_msg3Ghjtih8tFp_S8gHUdwe8_qRKP2oO2HVgZPNmYxCntxm_dpxxOfAmcK9-ZGG7-lt7i1MZJO-YiQUuKG1kqs1leZpbJ_IYU0UwAjd7FvSUG-_AIoNNs9NSM",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=yahoo&google_hm=eS1yZE9nQWQxRTJwR0ZJNGliTFBfM2FfSlF3SDFBV2xRNn5B&google_push=AdBflip5eTobUNbyuWRLQHbC7IW5hf-ao6x1O_msg3Ghjtih8tFp_S8gHUdwe8_qRKP2oO2HVgZPNmYxCntxm_dpxxOfAmcK9-ZGG7-lt7i1MZJO-YiQUuKG1kqs1leZpbJ_IYU0UwAjd7FvSUG-_AIoNNs9NSM"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/pixel?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflioNHDo3A_uhsI56zKEYt06NaSTpZQPJl8v9jdMPv2DMVS2QkHzl8hV4ma8AqGFOU7nC5rmQC2INWhrNSGRkl65q8mF9HR9b1rODDpO2icSwOzCdB0_KTo_I3iNOq3xopgD-0b7gAzVs98szV-gGqkmYdoei&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1",
+          "location": "/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflioNHDo3A_uhsI56zKEYt06NaSTpZQPJl8v9jdMPv2DMVS2QkHzl8hV4ma8AqGFOU7nC5rmQC2INWhrNSGRkl65q8mF9HR9b1rODDpO2icSwOzCdB0_KTo_I3iNOq3xopgD-0b7gAzVs98szV-gGqkmYdoei&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=81f713cdb62901f4d8c7b4c78adf69b1"
+        },
+        {
+          "status": 302,
+          "url": "https://tr.blismedia.com/v1/api/sync/AdxPixel?google_gid=CAESEDzu7Pg0s6zGhm3PMzyl4BY&google_cver=1&google_push=AdBfliqytIwUbVg5gaJ61x7uQowPY1gnPMAl5-ou87b8Qmi1P4DrBHbqx84GFuBVjN8K3iCluGSRyNTg4swR8nRxQalYRwwzWsDSQrxiNU0F_0Gruh87VY3M8uSIkZKObzFzkTK5fF-9X65YWacmBXkjVACpxw",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=blismobile&google_push=AdBfliqytIwUbVg5gaJ61x7uQowPY1gnPMAl5-ou87b8Qmi1P4DrBHbqx84GFuBVjN8K3iCluGSRyNTg4swR8nRxQalYRwwzWsDSQrxiNU0F_0Gruh87VY3M8uSIkZKObzFzkTK5fF-9X65YWacmBXkjVACpxw&google_hm=hmroVOwTPhz6lhEhHg"
+        },
+        {
+          "status": 302,
+          "url": "https://c1.adform.net/serving/cookie/match/?party=1&google_gid=CAESEH_FJ_YWbaXVIFUCQpMYasA&google_cver=1&google_push=AdBflioCBohH_0EmyCx7tvu0NBWWYtPnwPJmG_A0lOW1tuyJA02-WtZQ6Mr1jLy7oGIpGEYe4B50th8mPwHFcvFP5Gfyxk0q-m5TIf0",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=1024&google_ula=1641347&google_hm=MTcyOTIyNTc2NDI2Nzc1NjI5Ng&google_push=AdBflioCBohH_0EmyCx7tvu0NBWWYtPnwPJmG_A0lOW1tuyJA02-WtZQ6Mr1jLy7oGIpGEYe4B50th8mPwHFcvFP5Gfyxk0q-m5TIf0"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/pixel?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflirS6kvWTdCoXkyH2UttPSyHaxmgZguzvgOIlS_y2Ha-hfatQ5XF56slV_8AX3UqrY1oaNKJMyujD0p7fYiM8RWQkhJN8AOFe29W&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1",
+          "location": "/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflirS6kvWTdCoXkyH2UttPSyHaxmgZguzvgOIlS_y2Ha-hfatQ5XF56slV_8AX3UqrY1oaNKJMyujD0p7fYiM8RWQkhJN8AOFe29W&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=00b9ab3a7b8b2fdb6266707bb0773aba"
+        },
+        {
+          "status": 302,
+          "url": "https://ipac.ctnsnet.com/int/cm?exc=1&acc=crimtan_au&google_gid=CAESEHt5JfTebyPmBQM-AJtwznE&google_cver=1&google_push=AdBfliqnntXwx1zUGtXkW4LvM5-5eoqzpROsxsCf-WT56wN7d2seT6zvMTZCvQxcW4Y9ZpKDmQeB739gbaogiUaHXBBouznv6xWuE-dc49-5GXfcJMD_82mJReR5deoczKClDEsLgd1mMr9uxu5HJ_0EvuAR0AI",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=crimtan_au&google_push=AdBfliqnntXwx1zUGtXkW4LvM5-5eoqzpROsxsCf-WT56wN7d2seT6zvMTZCvQxcW4Y9ZpKDmQeB739gbaogiUaHXBBouznv6xWuE-dc49-5GXfcJMD_82mJReR5deoczKClDEsLgd1mMr9uxu5HJ_0EvuAR0AI&google_hm=a54HY-2nQymEUjiKrNR6yCs"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflioNHDo3A_uhsI56zKEYt06NaSTpZQPJl8v9jdMPv2DMVS2QkHzl8hV4ma8AqGFOU7nC5rmQC2INWhrNSGRkl65q8mF9HR9b1rODDpO2icSwOzCdB0_KTo_I3iNOq3xopgD-0b7gAzVs98szV-gGqkmYdoei&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=81f713cdb62901f4d8c7b4c78adf69b1",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=bluesea_bidding&google_hm=OTU2OTlmZDEwMWNmN2RmMQ&google_push=AdBflioNHDo3A_uhsI56zKEYt06NaSTpZQPJl8v9jdMPv2DMVS2QkHzl8hV4ma8AqGFOU7nC5rmQC2INWhrNSGRkl65q8mF9HR9b1rODDpO2icSwOzCdB0_KTo_I3iNOq3xopgD-0b7gAzVs98szV-gGqkmYdoei"
+        },
+        {
+          "status": 302,
+          "url": "https://tracking.prismpartner.smt.docomo.ne.jp/sync/adx?google_gid=CAESEBR3rUROMR1__QkoAPkdT5A&google_cver=1&google_push=AdBfliqPkrs9j1RduCIAPvx9v68o6I7d1JUIH_kMoyNZ7CY8W8hvwZTdW2OvIfgbaVHtdKQmarXUGekA9M-Dg_PgISzlEcI6MdVR-aNNO2m_Fdi6L67U7QxfE16v2zPm7cnoc0yh6uVgXfdF2NoTVMvZrIfWxfBl",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=prism_partnerinc&google_hm=2Ro2rsF4R0i2F6EIljQVJQ&google_push=AdBfliqPkrs9j1RduCIAPvx9v68o6I7d1JUIH_kMoyNZ7CY8W8hvwZTdW2OvIfgbaVHtdKQmarXUGekA9M-Dg_PgISzlEcI6MdVR-aNNO2m_Fdi6L67U7QxfE16v2zPm7cnoc0yh6uVgXfdF2NoTVMvZrIfWxfBl"
+        },
+        {
+          "status": 302,
+          "url": "https://creativecdn.com/cm-notify?pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBflirFL_ovmSTos8PdsrYjpq2luAjO4uiq0NWtMubhpw2icoy-SkRyQqTstMPJDHWsK_J1RmRtUO2f-U37AQKbF_7kBtYrMR580ZohBRkgz09FsynvZmrSIVH6AjEeunErOboii5BWnlEUiKCgJ22XP4uFOw",
+          "location": "https://cm.g.doubleclick.net/pixel?google_ula=5153224&google_hm=CguWk7lRaQNdf7JEtYMvHagQj9FSSUe87e3q6LfKT2I&pi=adx&tdc=ams&pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBflirFL_ovmSTos8PdsrYjpq2luAjO4uiq0NWtMubhpw2icoy-SkRyQqTstMPJDHWsK_J1RmRtUO2f-U37AQKbF_7kBtYrMR580ZohBRkgz09FsynvZmrSIVH6AjEeunErOboii5BWnlEUiKCgJ22XP4uFOw"
+        },
+        {
+          "status": 302,
+          "url": "https://ipac.ctnsnet.com/int/cm?exc=1&acc=crimtan_au&google_gid=CAESEHt5JfTebyPmBQM-AJtwznE&google_cver=1&google_push=AdBflirHAHs9amGKdroSCfdof39QVU7AzRDF9Ea-aHK2otE_Vws0Ha8BoqUg1hMvmlscwWrV2ZLk5SmABCEvor2dA0SzQwJAQQMSBQ",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=crimtan_au&google_push=AdBflirHAHs9amGKdroSCfdof39QVU7AzRDF9Ea-aHK2otE_Vws0Ha8BoqUg1hMvmlscwWrV2ZLk5SmABCEvor2dA0SzQwJAQQMSBQ&google_hm=a54HY-2nQymEUjiKrNR6yCs"
+        },
+        {
+          "status": 302,
+          "url": "https://tracking.prismpartner.smt.docomo.ne.jp/sync/adx?google_gid=CAESEBR3rUROMR1__QkoAPkdT5A&google_cver=1&google_push=AdBfliqRm3-8bpZVbaRL2pLeUI9VUALpQ9WtmpcgWzLPSUpbUXP_77spAGfXjRhomhXnLqQMoofhIHhY2qjFjrgJjKLqRacjg3PnYubQ",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=prism_partnerinc&google_hm=2Ro2rsF4R0i2F6EIljQVJQ&google_push=AdBfliqRm3-8bpZVbaRL2pLeUI9VUALpQ9WtmpcgWzLPSUpbUXP_77spAGfXjRhomhXnLqQMoofhIHhY2qjFjrgJjKLqRacjg3PnYubQ"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflirS6kvWTdCoXkyH2UttPSyHaxmgZguzvgOIlS_y2Ha-hfatQ5XF56slV_8AX3UqrY1oaNKJMyujD0p7fYiM8RWQkhJN8AOFe29W&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=00b9ab3a7b8b2fdb6266707bb0773aba",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=bluesea_bidding&google_hm=OTU2OTlmZDEwMWNmN2RmMQ&google_push=AdBflirS6kvWTdCoXkyH2UttPSyHaxmgZguzvgOIlS_y2Ha-hfatQ5XF56slV_8AX3UqrY1oaNKJMyujD0p7fYiM8RWQkhJN8AOFe29W"
+        },
+        {
+          "status": 302,
+          "url": "https://ups.analytics.yahoo.com/ups/58933/cms?google_gid=CAESEL-mwkfzBn74QgYiHmL9d9k&google_cver=1&google_push=AdBflirrO2eiqPbhw17TNgt89yQF038eTcSMcXeN620aQNvvhi3CHe8xh-DZI41QVbwo0n4YRdXFngZg5EN1EUJ0wshVnZ7ozXrZUiY",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=yahoo&google_hm=eS1yZE9nQWQxRTJwR0ZJNGliTFBfM2FfSlF3SDFBV2xRNn5B&google_push=AdBflirrO2eiqPbhw17TNgt89yQF038eTcSMcXeN620aQNvvhi3CHe8xh-DZI41QVbwo0n4YRdXFngZg5EN1EUJ0wshVnZ7ozXrZUiY"
+        },
+        {
+          "status": 302,
+          "url": "https://analytics.pangle-ads.com/api/ad/union/gg_cookie_matching?google_gid=CAESEPgsUdVZIYrPiXF4AL4F168&google_cver=1&google_push=AdBfliqLf2uqrdb9Z3dtHyqKejIBW-cSgDcUaWgVovBZknIm9VgjZ4B_ipeuDYdj6L1PE06zuiSO_XU1nebXcSWrdbWRYGltzObiquOGSoc6GzO5yYHMYzYvCGc6J71zR-D7PJNfe-pzItp5LKcogz9_prTl7QY",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=toutiao_usd&google_push=AdBfliqLf2uqrdb9Z3dtHyqKejIBW-cSgDcUaWgVovBZknIm9VgjZ4B_ipeuDYdj6L1PE06zuiSO_XU1nebXcSWrdbWRYGltzObiquOGSoc6GzO5yYHMYzYvCGc6J71zR-D7PJNfe-pzItp5LKcogz9_prTl7QY"
+        },
+        {
+          "status": 302,
+          "url": "https://analytics.pangle-ads.com/api/ad/union/gg_cookie_matching?google_gid=CAESEPgsUdVZIYrPiXF4AL4F168&google_cver=1&google_push=AdBfliqWFro6avP78eljKSjEHqqIVLyUjjrnWFw6dtb8qN3UQZHLK19RzJoQ17j9jKl8WGg5E22FHybU13DSqb0Dj1k_hp2_bQQEafScRoWehFtc9bp1I6mhi_ASS6CbgKPCITQ6R4VdJHc7Grvw83A2Em5J9nqj",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=toutiao_usd&google_push=AdBfliqWFro6avP78eljKSjEHqqIVLyUjjrnWFw6dtb8qN3UQZHLK19RzJoQ17j9jKl8WGg5E22FHybU13DSqb0Dj1k_hp2_bQQEafScRoWehFtc9bp1I6mhi_ASS6CbgKPCITQ6R4VdJHc7Grvw83A2Em5J9nqj"
+        },
+        {
+          "status": 302,
+          "url": "https://analytics.pangle-ads.com/api/ad/union/gg_cookie_matching?google_gid=CAESEPgsUdVZIYrPiXF4AL4F168&google_cver=1&google_push=AdBfliqijMN7IycFrgkggECADLXZizWJT37B107j9bQ0dvFzRXjdvLk3f6JzO6xSuaHPijLTR43BA9AkIUH293KT_3cFL-nl47ZNXTqc",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=toutiao_usd&google_push=AdBfliqijMN7IycFrgkggECADLXZizWJT37B107j9bQ0dvFzRXjdvLk3f6JzO6xSuaHPijLTR43BA9AkIUH293KT_3cFL-nl47ZNXTqc"
+        },
+        {
+          "status": 302,
+          "url": "https://sync.srv.stackadapt.com/sync?nid=154&google_gid=CAESEB69y49lS3l-cQeTmTG6Zfo&google_cver=1&google_push=AdBfliqSL7Ouq48DddB7Ych0jOQHQgwTNIPcGtkmertyk9d2y2EuRVPQQZU3mScR3DBkF4uvKbXY1l58C9fyAbGol-Ro6eVe-HtoTwGWunRkCHVODpjJYTf_knxZhkIfG_pzeFXKptHkZNfu83KknDBSJImRBDA",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=stackadapt_usd&google_hm=CiQwMWExOWI4Yi04NmI5LTc2MjAtYjQzMi1mMTIyMzBjM2Y1NTYQBBoEQVBBQyAH&google_push=AdBfliqSL7Ouq48DddB7Ych0jOQHQgwTNIPcGtkmertyk9d2y2EuRVPQQZU3mScR3DBkF4uvKbXY1l58C9fyAbGol-Ro6eVe-HtoTwGWunRkCHVODpjJYTf_knxZhkIfG_pzeFXKptHkZNfu83KknDBSJImRBDA"
+        }
+      ],
+      "cross_origin_requests": [
+        "https://www.googletagmanager.com/gtag/js?id=G-S8S5GW598W",
+        "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/mixpanel-browser@2",
+        "https://cdn7.gametop.com/img/gt-logo-red.png",
+        "https://cdn8.gametop.com/sb-icons/home.svg",
+        "https://cdn8.gametop.com/sb-icons/pc-games.svg",
+        "https://cdn8.gametop.com/sb-icons/online-games.svg",
+        "https://cdn8.gametop.com/sb-icons/news2.svg",
+        "https://cdn8.gametop.com/sb-icons/trending.svg",
+        "https://cdn8.gametop.com/sb-icons/hidden-object.svg",
+        "https://cdn8.gametop.com/sb-icons/match3.svg",
+        "https://cdn8.gametop.com/sb-icons/time-management.svg",
+        "https://cdn8.gametop.com/sb-icons/puzzle.svg",
+        "https://cdn8.gametop.com/sb-icons/solitaire.svg",
+        "https://cdn8.gametop.com/sb-icons/action.svg",
+        "https://cdn8.gametop.com/sb-icons/arcade2.svg",
+        "https://cdn8.gametop.com/sb-icons/racing.svg",
+        "https://cdn8.gametop.com/sb-icons/all-categories.svg",
+        "https://cdn8.gametop.com/sb-icons/all-series.svg",
+        "https://cdn8.gametop.com/img/search.svg"
+      ],
+      "navigated_to": "https://www.gametop.com/download-free-games/city-racing/",
+      "error": "locator.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a, button, input[type=\"button\"], input[type=\"submit\"]').nth(5)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"nav-link\" href=\"https://www.gametop.com/category/index.html\">…</a>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 100ms\u001b[22m\n\u001b[2m    9 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 500ms\u001b[22m\n"
+    },
+    {
+      "index": 3,
+      "text": "Download Safety Policy",
+      "href": "https://www.gametop.com/download-safety-policy.html",
+      "popups": [],
+      "downloads": [],
+      "redirects": [
+        {
+          "status": 302,
+          "url": "https://um.simpli.fi/gp_match?google_gid=CAESECj8v_0sE3axgPbd2r9EF_4&google_cver=1&google_push=AdBfliqgmDtp1PWN5CPs9UGd8ZWumgVfhyMHcPmPBKeU0_UPSU7VDcoBcjB2QrigDXMcYmg0EiG_pE63Nq27Ryb-NFErrjPUGBC689zu23KZX58gWFdBKAd7hjhAluCJyp_Ru7jaGMcV_Sew",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=simplifi&google_hm=EEEBC3E3CAB44D5E9FA0C14CD3244569&google_push=AdBfliqgmDtp1PWN5CPs9UGd8ZWumgVfhyMHcPmPBKeU0_UPSU7VDcoBcjB2QrigDXMcYmg0EiG_pE63Nq27Ryb-NFErrjPUGBC689zu23KZX58gWFdBKAd7hjhAluCJyp_Ru7jaGMcV_Sew"
+        },
+        {
+          "status": 302,
+          "url": "https://tr.blismedia.com/v1/api/sync/AdxPixel?google_gid=CAESEDzu7Pg0s6zGhm3PMzyl4BY&google_cver=1&google_push=AdBflioC7jeMOhgW1LoyVMvUEUKPaXvho7Jt1_-8sw2ySjKWywrt4HJ4ahh1uHY2K7LAPogJLGsqKIW8vgkXhbUaMX-xp-_uyEy1z_uDRlP6WH4vPFELS8Uz1kaHkcduiGXa5sdmIGglVkeR",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=blismobile&google_push=AdBflioC7jeMOhgW1LoyVMvUEUKPaXvho7Jt1_-8sw2ySjKWywrt4HJ4ahh1uHY2K7LAPogJLGsqKIW8vgkXhbUaMX-xp-_uyEy1z_uDRlP6WH4vPFELS8Uz1kaHkcduiGXa5sdmIGglVkeR&google_hm=hmroVOwTPhz6lhEhHg"
+        },
+        {
+          "status": 302,
+          "url": "https://cr-p1.ladsp.com/cookiesender/1?google_push=AdBflip7T0WuqnaUYhjwNj6UKuXeg2gGm3T7x-RaW4M9qtLU_Fd2HWOAl9KdC8TB_JC55s-X-61_NlyOKaC-qfKgK9bFPT-JxRSlBpffQ2O4ZAiYhoSjEKY_WZHNuNSmDCBIf8d1Qs8YCOBeGg&google_gid=CAESED78VXoLuqNGqbNYyDir6DM&google_cver=1",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=sonet&google_push=AdBflip7T0WuqnaUYhjwNj6UKuXeg2gGm3T7x-RaW4M9qtLU_Fd2HWOAl9KdC8TB_JC55s-X-61_NlyOKaC-qfKgK9bFPT-JxRSlBpffQ2O4ZAiYhoSjEKY_WZHNuNSmDCBIf8d1Qs8YCOBeGg&google_hm=Aemsco5X1X4Yks8AKdgHZ28r8cA"
+        },
+        {
+          "status": 302,
+          "url": "https://a.tribalfusion.com/i.match?p=b6&u=CAESEJCCo9fU-I9-stdPqVhoYL0&google_cver=1&google_push=AdBflirIVE8iZtLzWSxUlFsVeos261260nkSmLH-X04w-5hp3fTUkajtxa6gl120jNCRjqpHVt1XnnG99Un9ZtT1qGIIRVPzEs8hoLAAr1zp-KBX7xNNrmPWnPu1VV1bdSGn2z9kfOIiBwqeoQ&redirect=https%3A//cm.g.doubleclick.net/pixel%3Fgoogle_nid%3Dexp%26google_push%3DAdBflirIVE8iZtLzWSxUlFsVeos261260nkSmLH-X04w-5hp3fTUkajtxa6gl120jNCRjqpHVt1XnnG99Un9ZtT1qGIIRVPzEs8hoLAAr1zp-KBX7xNNrmPWnPu1VV1bdSGn2z9kfOIiBwqeoQ%26google_ula%3D2786954%26google_hm%3D%24TF_USER_ID_ENC%24",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=exp&google_push=AdBflirIVE8iZtLzWSxUlFsVeos261260nkSmLH-X04w-5hp3fTUkajtxa6gl120jNCRjqpHVt1XnnG99Un9ZtT1qGIIRVPzEs8hoLAAr1zp-KBX7xNNrmPWnPu1VV1bdSGn2z9kfOIiBwqeoQ&google_ula=2786954&google_hm=18072661916712296230"
+        },
+        {
+          "status": 302,
+          "url": "https://sync-tm.everesttech.net/upi/pid/5w3jqr4k?redir=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dg8f47s39e399f3fe%26google_hm%3D%24%7BTM_USER_ID_BASE64ENC_URLENC%7D&google_gid=CAESEGOrT1yzYJv7TYyHr48pXhs&google_cver=1&google_push=AdBflirazCPAG_6vL4yaawAlxf43Swpw5EHZiyo6VPQoEtlxPrDkq14Eyz_GZFao8FJxlMqCBpdeBqpjASuIan4zu321mBcIyLiSqXTRouOCsCx1wis3oyZ0jeU4cMzLSy0imVqOowL6i8Is",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=g8f47s39e399f3fe&google_hm=&google_cver=1&google_gid=CAESEGOrT1yzYJv7TYyHr48pXhs&google_push=AdBflirazCPAG_6vL4yaawAlxf43Swpw5EHZiyo6VPQoEtlxPrDkq14Eyz_GZFao8FJxlMqCBpdeBqpjASuIan4zu321mBcIyLiSqXTRouOCsCx1wis3oyZ0jeU4cMzLSy0imVqOowL6i8Is"
+        },
+        {
+          "status": 302,
+          "url": "https://px.ads.linkedin.com/setuid?partner=googleadxdb&google_gid=CAESEO3OvuePrscKaW_kuXA6Flg&google_cver=1&google_push=AdBflipGGIbYiLXgqhymWQ6PoL-R6q2M8l6qXAai04uBPymONg9fjoGNBJOD_Yk-ICBs5BDNd7hqmtKr0GjXq_Uym2R9I9cIMmMcaG1ZtPxTPbJjeal8ogQ_5j8bTd5EzQf0UOOCOKe-3YxtNQ",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=linkedin&google_push=AdBflipGGIbYiLXgqhymWQ6PoL-R6q2M8l6qXAai04uBPymONg9fjoGNBJOD_Yk-ICBs5BDNd7hqmtKr0GjXq_Uym2R9I9cIMmMcaG1ZtPxTPbJjeal8ogQ_5j8bTd5EzQf0UOOCOKe-3YxtNQ"
+        },
+        {
+          "status": 302,
+          "url": "https://dis.criteo.com/dis/usersync.aspx?r=4&p=14&cp=google&cu=1&url=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dcjp%26google_hm%3D%40%40CRITEO_USERID%40%40%26google_push%3DAdBfliqtCy7l7XfeYEZp0pJQJcRJxT5XfnxmpDbddmaLCgXKzJYgNqnQVCbU1FtIAbw4RsDepUpY2RMX7GFRCaucNRaJw70hODta5Z4&google_gid=CAESEG5WlmamfSmoIZh6U5Bgxpo&google_cver=1",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=cjp&google_hm=ay05RTFRMHg4YjY1b2tGbE5PMXJISFZHTmh1UnVXTTR0NmlnQlBPUQ&google_push=AdBfliqtCy7l7XfeYEZp0pJQJcRJxT5XfnxmpDbddmaLCgXKzJYgNqnQVCbU1FtIAbw4RsDepUpY2RMX7GFRCaucNRaJw70hODta5Z4"
+        },
+        {
+          "status": 302,
+          "url": "https://match.adsrvr.org/track/cmf/google?google_gid=CAESEIm41QkNHj-RMiCf2-90EJ8&google_cver=1&google_push=AdBflipPCyuXoYjNcqIBYy9Bz0VbmgA5_MAoMOV4wB9sOPdVu6kkSDnUKn0s1OelOpjXfZR9ZfcX2KVoxOKljrPw1AVyf6RqpJbtK78",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_hm=YWE0MmIzYTktODY1Ni00ZWY1LWJhZWUtNGZkOTg4Yjk4Zjg0&google_push&gdpr=0&gdpr_consent=&ttd_tdid=aa42b3a9-8656-4ef5-baee-4fd988b98f84"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/pixel?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflirX-1IhuLEzhEk4xXb2IpjtNfrphEx1dhmsQf8BVQEBfYeAIsdH8sQwCpPKvAG0q9gvGKChIRLdG6ozcB2ctzzUNZUWdKza_Aw&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1",
+          "location": "/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflirX-1IhuLEzhEk4xXb2IpjtNfrphEx1dhmsQf8BVQEBfYeAIsdH8sQwCpPKvAG0q9gvGKChIRLdG6ozcB2ctzzUNZUWdKza_Aw&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=060a39e22633762c01fe5cbf5f82e95e"
+        },
+        {
+          "status": 302,
+          "url": "https://tr.blismedia.com/v1/api/sync/AdxPixel?google_gid=CAESEDzu7Pg0s6zGhm3PMzyl4BY&google_cver=1&google_push=AdBflipQWFrP1z-zMmiN9IDbR8UlKR2RgmLv4S6QqUZUQ6xruS56xYyQ0S2ZbPg8TKZixXZZh1r4qfr6K0R-n0QR0Ir8SSDeytafjmw",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=blismobile&google_push=AdBflipQWFrP1z-zMmiN9IDbR8UlKR2RgmLv4S6QqUZUQ6xruS56xYyQ0S2ZbPg8TKZixXZZh1r4qfr6K0R-n0QR0Ir8SSDeytafjmw&google_hm=hmroVOwTPhz6lhEhHg"
+        },
+        {
+          "status": 302,
+          "url": "https://tr.blismedia.com/v1/api/sync/AdxPixel?google_gid=CAESEDzu7Pg0s6zGhm3PMzyl4BY&google_cver=1&google_push=AdBflipxTBaXZUEnoKkodwZ-hIrEaCOx8U0aktp3xCQQFsra_TG9UNJRmmO2LT6qrc_zagqRiOgzaszgJrJ6EmeLo8VNdPapk5tA-Q",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=blismobile&google_push=AdBflipxTBaXZUEnoKkodwZ-hIrEaCOx8U0aktp3xCQQFsra_TG9UNJRmmO2LT6qrc_zagqRiOgzaszgJrJ6EmeLo8VNdPapk5tA-Q&google_hm=hmroVOwTPhz6lhEhHg"
+        },
+        {
+          "status": 302,
+          "url": "https://ipac.ctnsnet.com/int/cm?exc=1&acc=crimtan_au&google_gid=CAESEHt5JfTebyPmBQM-AJtwznE&google_cver=1&google_push=AdBfliqaWKsLD9YL8mVhVJ5rQ54qPFxPy5kHVVDltWRHjKvdLlHx-UFXayyXFmXv55m-eeQ6EmD7WKVyzGNK0-SO3q4Wsn0Mb1puuwE",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=crimtan_au&google_push=AdBfliqaWKsLD9YL8mVhVJ5rQ54qPFxPy5kHVVDltWRHjKvdLlHx-UFXayyXFmXv55m-eeQ6EmD7WKVyzGNK0-SO3q4Wsn0Mb1puuwE&google_hm=a54HY-2nQymEUjiKrNR6yCs"
+        },
+        {
+          "status": 302,
+          "url": "https://ipac.ctnsnet.com/int/cm?exc=1&acc=crimtan_au&google_gid=CAESEHt5JfTebyPmBQM-AJtwznE&google_cver=1&google_push=AdBflioynB99kyfZH0BNE8rDd244Rwny_zOSIlb0WDwWabOk-_Pwb6TEWtZLRGwhehGLkadl2_Rz2A1f3RDFmcafvxOiPIr_y9veWA",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=crimtan_au&google_push=AdBflioynB99kyfZH0BNE8rDd244Rwny_zOSIlb0WDwWabOk-_Pwb6TEWtZLRGwhehGLkadl2_Rz2A1f3RDFmcafvxOiPIr_y9veWA&google_hm=a54HY-2nQymEUjiKrNR6yCs"
+        },
+        {
+          "status": 302,
+          "url": "https://ds.uncn.jp/doubleclick/0/sync_push?google_gid=CAESEA55035DfZAYp_kvSYdU6E8&google_cver=1&google_push=AdBfliqJtJcEyHWUrVd2fev14C9pj1bKZWNqqGYCwlGpo6_yfM879mCLZdse6rjW3VqAy_NcQ63ve-7-hnHlK156svuX1djlP8Tw7g",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=unicorn&google_push=AdBfliqJtJcEyHWUrVd2fev14C9pj1bKZWNqqGYCwlGpo6_yfM879mCLZdse6rjW3VqAy_NcQ63ve-7-hnHlK156svuX1djlP8Tw7g&google_hm=dl85ODFiYWU5NC01Y2ZmLTQ3MzYtOWE3My0xMWJkMDY2MzFkMTM"
+        },
+        {
+          "status": 302,
+          "url": "https://creativecdn.com/cm-notify?pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBflioU3Z3zLEKNhgsjNQYsbICBhUwUXAPPy02d5BssD4LVq-wKAU-9aFL9Mr-YAmY2QzIpMgWMMPL3wetOI5SrDZchbPfzTB9Egn4",
+          "location": "https://cm.g.doubleclick.net/pixel?google_ula=5153224&google_hm=CguWk7lRaQNdf7JEtYMvHagQj9FSSUe87e3q6LfKT2I&pi=adx&tdc=ams&pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBflioU3Z3zLEKNhgsjNQYsbICBhUwUXAPPy02d5BssD4LVq-wKAU-9aFL9Mr-YAmY2QzIpMgWMMPL3wetOI5SrDZchbPfzTB9Egn4"
+        },
+        {
+          "status": 302,
+          "url": "https://creativecdn.com/cm-notify?pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBfliphKMxQQSqE4rX9St9L-URhvWYBViT8VqiAxt8vr3yb-VkJUSoBaH6xfD6N1eS4rxIqNJRjw04ZbToG5qKwHGpfBYlehndq0Xk",
+          "location": "https://cm.g.doubleclick.net/pixel?google_ula=5153224&google_hm=CguWk7lRaQNdf7JEtYMvHagQj9FSSUe87e3q6LfKT2I&pi=adx&tdc=ams&pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBfliphKMxQQSqE4rX9St9L-URhvWYBViT8VqiAxt8vr3yb-VkJUSoBaH6xfD6N1eS4rxIqNJRjw04ZbToG5qKwHGpfBYlehndq0Xk"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflirX-1IhuLEzhEk4xXb2IpjtNfrphEx1dhmsQf8BVQEBfYeAIsdH8sQwCpPKvAG0q9gvGKChIRLdG6ozcB2ctzzUNZUWdKza_Aw&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=060a39e22633762c01fe5cbf5f82e95e",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=bluesea_bidding&google_hm=OTU2OTlmZDEwMWNmN2RmMQ&google_push=AdBflirX-1IhuLEzhEk4xXb2IpjtNfrphEx1dhmsQf8BVQEBfYeAIsdH8sQwCpPKvAG0q9gvGKChIRLdG6ozcB2ctzzUNZUWdKza_Aw"
+        },
+        {
+          "status": 302,
+          "url": "https://sync.fout.jp/sync?xid=googleadex&g_pixel=&google_gid=CAESEBg4RNFTTq57QLzcVYwb6HI&google_cver=1&google_push=AdBflirah-HQJAE3TSLsqfks3ZNbcxzdgi2PUyEyhPryn3cB7rcyadXjOgO7sqkX9eovDoYWuR9CkvHjznoCegIeDRXqsQ_779fVZ8Ley2SvwYGHhOUbYMYaZQt-osmgusCAIVyev6MhtanxkA",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=freakout&google_push=AdBflirah-HQJAE3TSLsqfks3ZNbcxzdgi2PUyEyhPryn3cB7rcyadXjOgO7sqkX9eovDoYWuR9CkvHjznoCegIeDRXqsQ_779fVZ8Ley2SvwYGHhOUbYMYaZQt-osmgusCAIVyev6MhtanxkA&google_hm=&from_google=pc1"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=684714550;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_pre=CKjWr9L56JcDFftLnQkdlns3Bg;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=684714550;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N5295.5087813DEMANDGEN/B34614698.435164561;dc_trk_aid=628523209;dc_trk_cid=246611925;ord=1055700628;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;dc_ctype=46;dc_pubid=8;dc_btype=1",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N5295.5087813DEMANDGEN/B34614698.435164561;dc_pre=CKyOttL56JcDFQ3jhAAd5ys5Lw;dc_trk_aid=628523209;dc_trk_cid=246611925;ord=1055700628;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;dc_ctype=46;dc_pubid=8;dc_btype=1"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=2639124552;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_pre=CNiMu9L56JcDFTFWnQkdrnIxzg;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=2639124552;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?"
+        },
+        {
+          "status": 302,
+          "url": "https://analytics.pangle-ads.com/api/ad/union/gg_cookie_matching?google_gid=CAESEPgsUdVZIYrPiXF4AL4F168&google_cver=1&google_push=AdBfliqFFlht9HEHJzvysH8T-7cJgFuiddEHB3O0t0juaAky-C9UTSye-Hhu1vxYtOXL5CuXg_rUvQi_RVAPrPmjPRVJTs-N0Emqbg0",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=toutiao_usd&google_push=AdBfliqFFlht9HEHJzvysH8T-7cJgFuiddEHB3O0t0juaAky-C9UTSye-Hhu1vxYtOXL5CuXg_rUvQi_RVAPrPmjPRVJTs-N0Emqbg0"
+        },
+        {
+          "status": 302,
+          "url": "https://analytics.pangle-ads.com/api/ad/union/gg_cookie_matching?google_gid=CAESEPgsUdVZIYrPiXF4AL4F168&google_cver=1&google_push=AdBfliqdDGBExsW3jszDQ4pRcL7WJLCemOdafyuRFMaxcK5cSQ3PwAZgdu8V_ll4-lKxqaESraecQgSMFa7gzdeAaJ7PxB6gUg_MgxD-",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=toutiao_usd&google_push=AdBfliqdDGBExsW3jszDQ4pRcL7WJLCemOdafyuRFMaxcK5cSQ3PwAZgdu8V_ll4-lKxqaESraecQgSMFa7gzdeAaJ7PxB6gUg_MgxD-"
+        },
+        {
+          "status": 302,
+          "url": "https://match.adsrvr.org/track/cmf/google?google_gid=CAESEIm41QkNHj-RMiCf2-90EJ8&google_cver=1&google_push=AdBflip1z3QBwGhbaWJFKy04JME0tntFrKRhgKjFNtDXK1txtJ-8cuaN7dnYP9KzyN2djBszQDzVWJTWz8XiccC3oaCwQ_ayrJ97WslCi2utq5u7ATIf5XWlmReae1wkqERTonz3BoDqcvoAvED5URuMT0ho_nI",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_hm=YWE0MmIzYTktODY1Ni00ZWY1LWJhZWUtNGZkOTg4Yjk4Zjg0&google_push&gdpr=0&gdpr_consent=&ttd_tdid=aa42b3a9-8656-4ef5-baee-4fd988b98f84"
+        },
+        {
+          "status": 302,
+          "url": "https://dis.criteo.com/dis/usersync.aspx?r=4&p=14&cp=google&cu=1&url=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dcjp%26google_hm%3D%40%40CRITEO_USERID%40%40%26google_push%3DAdBflip2PirRAcqVFxr6x8NxwDZO6i3JWX4LUjY2teh9opsyVi3IIquk6_ouKn4Qdyd2WhmNJxsTGzg3Cv3r-4jlna6xcdbtTy-Jw8SKJB6G2R01rqHIyDo692TNuMX8WV60RSf4sZPhi5vjL4qrCu2oXwOS0RE&google_gid=CAESEG5WlmamfSmoIZh6U5Bgxpo&google_cver=1",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=cjp&google_hm=ay05RTFRMHg4YjY1b2tGbE5PMXJISFZHTmh1UnVXTTR0NmlnQlBPUQ&google_push=AdBflip2PirRAcqVFxr6x8NxwDZO6i3JWX4LUjY2teh9opsyVi3IIquk6_ouKn4Qdyd2WhmNJxsTGzg3Cv3r-4jlna6xcdbtTy-Jw8SKJB6G2R01rqHIyDo692TNuMX8WV60RSf4sZPhi5vjL4qrCu2oXwOS0RE"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/pixel?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflioYdR-Sn-OGMyXV85Faj5tIny4khDC1hUY-QP7p0VaK1XDutv_nGAdpUqRNcrY5krXG-yX5vfR5jdIJWlhYk0AgmxAITZcrH_pCKjlDKW5DOpmHXJKrPsgmZin9xs2lnFfKrb4T8DduPYycDExzm9enbnRn&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1",
+          "location": "/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflioYdR-Sn-OGMyXV85Faj5tIny4khDC1hUY-QP7p0VaK1XDutv_nGAdpUqRNcrY5krXG-yX5vfR5jdIJWlhYk0AgmxAITZcrH_pCKjlDKW5DOpmHXJKrPsgmZin9xs2lnFfKrb4T8DduPYycDExzm9enbnRn&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=9216cdc358830a955bdd30937aae1297"
+        },
+        {
+          "status": 302,
+          "url": "https://ipac.ctnsnet.com/int/cm?exc=1&acc=crimtan_au&google_gid=CAESEHt5JfTebyPmBQM-AJtwznE&google_cver=1&google_push=AdBflipubII4UdaQ3l_HDDRaoNohAUDtuRDPRC0wzF8uy_ncsAJAfwCkPUyKuRRDe3g4RgjtXjIk4wajJMynMbEDKZHRwsY5fxnPtRIVfw3PRRTWI7ygVf-sZOPfaxQYcLBjH_aJf7blAOIuPQzKzZJ3Z7Em8Ac",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=crimtan_au&google_push=AdBflipubII4UdaQ3l_HDDRaoNohAUDtuRDPRC0wzF8uy_ncsAJAfwCkPUyKuRRDe3g4RgjtXjIk4wajJMynMbEDKZHRwsY5fxnPtRIVfw3PRRTWI7ygVf-sZOPfaxQYcLBjH_aJf7blAOIuPQzKzZJ3Z7Em8Ac&google_hm=a54HY-2nQymEUjiKrNR6yCs"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflioYdR-Sn-OGMyXV85Faj5tIny4khDC1hUY-QP7p0VaK1XDutv_nGAdpUqRNcrY5krXG-yX5vfR5jdIJWlhYk0AgmxAITZcrH_pCKjlDKW5DOpmHXJKrPsgmZin9xs2lnFfKrb4T8DduPYycDExzm9enbnRn&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=9216cdc358830a955bdd30937aae1297",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=bluesea_bidding&google_hm=OTU2OTlmZDEwMWNmN2RmMQ&google_push=AdBflioYdR-Sn-OGMyXV85Faj5tIny4khDC1hUY-QP7p0VaK1XDutv_nGAdpUqRNcrY5krXG-yX5vfR5jdIJWlhYk0AgmxAITZcrH_pCKjlDKW5DOpmHXJKrPsgmZin9xs2lnFfKrb4T8DduPYycDExzm9enbnRn"
+        },
+        {
+          "status": 302,
+          "url": "https://creativecdn.com/cm-notify?pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBflirdlEKP6yyzBJRlsID5SKcMR4U9p3P6_MRGtUGctMPJQDFlKEwa9wy3Z7-CtioO8d441KST1b44adDzKsUSGIze729bozXcNOHo311b0LCS0WWFo0IaYm1NJRgOX2PTieF6o5MYE0xVUnSUQh0EGyvIvm8",
+          "location": "https://cm.g.doubleclick.net/pixel?google_ula=5153224&google_hm=CguWk7lRaQNdf7JEtYMvHagQj9FSSUe87e3q6LfKT2I&pi=adx&tdc=ams&pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBflirdlEKP6yyzBJRlsID5SKcMR4U9p3P6_MRGtUGctMPJQDFlKEwa9wy3Z7-CtioO8d441KST1b44adDzKsUSGIze729bozXcNOHo311b0LCS0WWFo0IaYm1NJRgOX2PTieF6o5MYE0xVUnSUQh0EGyvIvm8"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=3538413030;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_pre=CMHOx9L56JcDFajFGwAdEx4l8A;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=3538413030;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?"
+        },
+        {
+          "status": 302,
+          "url": "https://ups.analytics.yahoo.com/ups/58933/cms?google_gid=CAESEL-mwkfzBn74QgYiHmL9d9k&google_cver=1&google_push=AdBflipjhFaKYP-VQVOq1xndMAkI4pTKvXtQBuVsmBau8FhqxEjks904Kby8SBWWZp9QDqdd4LG7fiWFjcc1QXlnSN6Ds0idiXQFLnVeOvAEC-14Z5hZS4GX0VL-Ej2qdmT5v2MQQIdqmQwf2xRpHBSchQFP4T0",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=yahoo&google_hm=eS1yZE9nQWQxRTJwR0ZJNGliTFBfM2FfSlF3SDFBV2xRNn5B&google_push=AdBflipjhFaKYP-VQVOq1xndMAkI4pTKvXtQBuVsmBau8FhqxEjks904Kby8SBWWZp9QDqdd4LG7fiWFjcc1QXlnSN6Ds0idiXQFLnVeOvAEC-14Z5hZS4GX0VL-Ej2qdmT5v2MQQIdqmQwf2xRpHBSchQFP4T0"
+        },
+        {
+          "status": 302,
+          "url": "https://onetag-sys.com/match/?int_id=19&redir=1&google_gid=CAESEKbAKukQcl2qYU2QJY9JZ2w&google_cver=1&google_push=AdBfliqTsPTQjQaKTobBauA128DelT9tCNzPU6x-x-8YWrqEADqQ2DRWmGqbPJQtWq0RvR7UiR-AImg4Vm24-7nuskGzaQT59oZJdmgc6KfSLX8PSxleDx6Wy1oQCmiGXTZgwJFw0k6z9RaQkYqSTT6GoFS5mpE",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=one_tag&google_hm=&google_push=AdBfliqTsPTQjQaKTobBauA128DelT9tCNzPU6x-x-8YWrqEADqQ2DRWmGqbPJQtWq0RvR7UiR-AImg4Vm24-7nuskGzaQT59oZJdmgc6KfSLX8PSxleDx6Wy1oQCmiGXTZgwJFw0k6z9RaQkYqSTT6GoFS5mpE"
+        },
+        {
+          "status": 302,
+          "url": "https://um.simpli.fi/gp_match?google_gid=CAESECj8v_0sE3axgPbd2r9EF_4&google_cver=1&google_push=AdBflirPcCwFJj-C1lUj_olOP3VCx28PAJ-yq-nBZ_lH8kjwLZXWItTIv0HilMB2vomLc7L3mrDtu4lfNx_qcyKr2TduwcgB6wbXf1hj5RfzMSLzF3sUrrr-zuNA03aASOJdIOYvttIRRMbpHzJ6YqinENV-DFg",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=simplifi&google_hm=EEEBC3E3CAB44D5E9FA0C14CD3244569&google_push=AdBflirPcCwFJj-C1lUj_olOP3VCx28PAJ-yq-nBZ_lH8kjwLZXWItTIv0HilMB2vomLc7L3mrDtu4lfNx_qcyKr2TduwcgB6wbXf1hj5RfzMSLzF3sUrrr-zuNA03aASOJdIOYvttIRRMbpHzJ6YqinENV-DFg"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/pixel?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBfliphV8j6cUwOfQr3U416L1J2cdtUr2vMNNu7ZUSYQCFK5gP7N6MQHESz-YoxQyyOsnnDqbUdfY4ogLbJO49lw8Qd607nsrCDVo7KU-esO0KjCmBarsHJmfJ-yYcuPBewoFxLF0BGJv1k9rVg-o8qjqZMW3Y&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1",
+          "location": "/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBfliphV8j6cUwOfQr3U416L1J2cdtUr2vMNNu7ZUSYQCFK5gP7N6MQHESz-YoxQyyOsnnDqbUdfY4ogLbJO49lw8Qd607nsrCDVo7KU-esO0KjCmBarsHJmfJ-yYcuPBewoFxLF0BGJv1k9rVg-o8qjqZMW3Y&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=49829abd91df41f3e1a83d238ba22180"
+        },
+        {
+          "status": 302,
+          "url": "https://tr.blismedia.com/v1/api/sync/AdxPixel?google_gid=CAESEDzu7Pg0s6zGhm3PMzyl4BY&google_cver=1&google_push=AbeoXYwzlqln8JVE1cI2YdVxZHiMG6fMfV2LAeSvJ9Y-2_lCDznuaGAHSrcaLyEMZlSB55vPKh_zWc8ALke7LGAQX79hv7Ru9HwaSsNzn7mA7PMeY5_my-k1IicnxS2OwWnww5MJEX74icgYRRV4IBgQFtHDgw",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=blismobile&google_push=AbeoXYwzlqln8JVE1cI2YdVxZHiMG6fMfV2LAeSvJ9Y-2_lCDznuaGAHSrcaLyEMZlSB55vPKh_zWc8ALke7LGAQX79hv7Ru9HwaSsNzn7mA7PMeY5_my-k1IicnxS2OwWnww5MJEX74icgYRRV4IBgQFtHDgw&google_hm=hmroVOwTPhz6lhEhHg"
+        },
+        {
+          "status": 302,
+          "url": "https://sync.teads.tv/um?ssb_provider_id=3&uid=&google_nid=teadstv_ab&fb=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dteadstv_ab%26google_hm%3D%5BVID_B64%5D&google_gid=CAESEJOtmDClCfTIcx3Az30Ivu0&google_cver=1&google_push=AdBflirP5JqR1NQcyA_y1NEbXn9RkjvTxM4kUOWt0zXJj3dpaqxyZoq9BiXvr-bJfyaazmrR9DPmnWXHf42M-zolSUNVshl-DSayG5hTmbfaZFrqWTjIv5QxO6Cd9tgG4gLlbBVip5aUWoAc_K96LVWyTpcHzqQ",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=teadstv_ab&google_hm=MTJiZThlZTgtMTc2OC00ZTBmLWI5ZWItOTM5OWVjNmNhNTIx&google_push=AdBflirP5JqR1NQcyA_y1NEbXn9RkjvTxM4kUOWt0zXJj3dpaqxyZoq9BiXvr-bJfyaazmrR9DPmnWXHf42M-zolSUNVshl-DSayG5hTmbfaZFrqWTjIv5QxO6Cd9tgG4gLlbBVip5aUWoAc_K96LVWyTpcHzqQ"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBfliphV8j6cUwOfQr3U416L1J2cdtUr2vMNNu7ZUSYQCFK5gP7N6MQHESz-YoxQyyOsnnDqbUdfY4ogLbJO49lw8Qd607nsrCDVo7KU-esO0KjCmBarsHJmfJ-yYcuPBewoFxLF0BGJv1k9rVg-o8qjqZMW3Y&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=49829abd91df41f3e1a83d238ba22180",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=bluesea_bidding&google_hm=OTU2OTlmZDEwMWNmN2RmMQ&google_push=AdBfliphV8j6cUwOfQr3U416L1J2cdtUr2vMNNu7ZUSYQCFK5gP7N6MQHESz-YoxQyyOsnnDqbUdfY4ogLbJO49lw8Qd607nsrCDVo7KU-esO0KjCmBarsHJmfJ-yYcuPBewoFxLF0BGJv1k9rVg-o8qjqZMW3Y"
+        },
+        {
+          "status": 302,
+          "url": "https://tracking.prismpartner.smt.docomo.ne.jp/sync/adx?google_gid=CAESEBR3rUROMR1__QkoAPkdT5A&google_cver=1&google_push=AbeoXYzCn_LqZCkiHCbpMxY7bb95P-Zo5I82PghsID7IaY3bZOBs7FZPJkkObiF6ozq8p53v2n9uz2FzPtznQgaeMMotlbBshpcfB34-40z3bUXp8VlKXQRIXVz5CP7HeD_J_SxpppdWN6dSiLlm2U-Qj-hqiL8i",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=prism_partnerinc&google_hm=2Ro2rsF4R0i2F6EIljQVJQ&google_push=AbeoXYzCn_LqZCkiHCbpMxY7bb95P-Zo5I82PghsID7IaY3bZOBs7FZPJkkObiF6ozq8p53v2n9uz2FzPtznQgaeMMotlbBshpcfB34-40z3bUXp8VlKXQRIXVz5CP7HeD_J_SxpppdWN6dSiLlm2U-Qj-hqiL8i"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.g.doubleclick.net/pixel?google_nid=teadstv_ab&google_hm=MTJiZThlZTgtMTc2OC00ZTBmLWI5ZWItOTM5OWVjNmNhNTIx&google_push=AdBflirP5JqR1NQcyA_y1NEbXn9RkjvTxM4kUOWt0zXJj3dpaqxyZoq9BiXvr-bJfyaazmrR9DPmnWXHf42M-zolSUNVshl-DSayG5hTmbfaZFrqWTjIv5QxO6Cd9tgG4gLlbBVip5aUWoAc_K96LVWyTpcHzqQ",
+          "location": "https://sync.teads.tv/um/report?eid=3&google_nid=teadstv_ab"
+        },
+        {
+          "status": 302,
+          "url": "https://sync.srv.stackadapt.com/sync?nid=154&google_gid=CAESEB69y49lS3l-cQeTmTG6Zfo&google_cver=1&google_push=AdBflip8NpqUPEUeJllohyFOanbdH8EpFl_uzH6cbFhD3rBbiUoYuKDTYUZ1MY0o5ZU3aCtiJpLH3T8DsAuxU7qaEwvb6LXKmFLzqAsNe4Io2bqa3ezMWQbV0DCG1_munwEkB83JWDy2AkpDfvXRf4scFqDB_cI",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=stackadapt_usd&google_hm=CiQwMWExOWI4Yi04NmI5LTc2MjAtYjQzMi1mMTIyMzBjM2Y1NTYQBBoEQVBBQyAH&google_push=AdBflip8NpqUPEUeJllohyFOanbdH8EpFl_uzH6cbFhD3rBbiUoYuKDTYUZ1MY0o5ZU3aCtiJpLH3T8DsAuxU7qaEwvb6LXKmFLzqAsNe4Io2bqa3ezMWQbV0DCG1_munwEkB83JWDy2AkpDfvXRf4scFqDB_cI"
+        },
+        {
+          "status": 302,
+          "url": "https://dclk-match.dotomi.com/match/bounce/current?networkId=14000&version=1&google_gid=CAESELcfYwPSzjkK7bm945f2stI&google_cver=1&google_push=AbeoXYzsDQQWRWIp1tJvlRwnTa80P2nrLL2BTMcgWgxPzqgQdQjB4nFpdbkzNwrKvyM_hFrqq8diCqbSO6WPkDzcunSYI2oZUh9Qrmsyzg8OZniSCZ56jclZwg-40nOzTmCFjAjhbuQOdNU1QHJMRHlfYRtS6hE",
+          "location": "https://dclk-match.dotomi.com/match/bounce/current?DotomiTest=57142e8463f41f2c&is_secure=true&networkId=14000&version=1&google_gid=CAESELcfYwPSzjkK7bm945f2stI&google_cver=1&google_push=AbeoXYzsDQQWRWIp1tJvlRwnTa80P2nrLL2BTMcgWgxPzqgQdQjB4nFpdbkzNwrKvyM_hFrqq8diCqbSO6WPkDzcunSYI2oZUh9Qrmsyzg8OZniSCZ56jclZwg-40nOzTmCFjAjhbuQOdNU1QHJMRHlfYRtS6hE"
+        },
+        {
+          "status": 302,
+          "url": "https://gtrace.mediago.io/ju/cs/google?google_gid=CAESEEdMU7UYZzozr3uN3f-zLq4&google_cver=1&google_push=AdBfliqpFIegG4CkJXqsQKWyfWTYIJMZsjOU0kfokTl0wnTnxyym9MEkKVqvqMrF7KYrNsu5v5YiRadh0j1zdypUvtNQ787eDg9cOSgn8V7WD3nnFaaNBsGMEx3MJi6mHNWx35h6x4Oaygqa1RLhk-UUSsa0is9O",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=baidu_mediago&google_push=AdBfliqpFIegG4CkJXqsQKWyfWTYIJMZsjOU0kfokTl0wnTnxyym9MEkKVqvqMrF7KYrNsu5v5YiRadh0j1zdypUvtNQ787eDg9cOSgn8V7WD3nnFaaNBsGMEx3MJi6mHNWx35h6x4Oaygqa1RLhk-UUSsa0is9O&google_hm=8544df913067a2312mw70y00mvz1oevw"
+        },
+        {
+          "status": 302,
+          "url": "https://b1sync.outbrain.com/usersync/googleadx/?google_gid=CAESEIlQVogOyvSH461achqNccc&google_cver=1&google_push=AbeoXYy-VPHgjpHvEy8zj_rrayjTkYMbdNKY1QgjgB1u7Wh4V3-eAezXQt54Sv6NF0kWJD0rPN-jDsTuswnf47v74fbTwJF4FVR5coIhfOiMLmF-nQTYmA1y0LcMq3USLv7Y5MMHB23fOvp7E5XnO2C3f5bmgKo",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=zemanta&google_push=AbeoXYy-VPHgjpHvEy8zj_rrayjTkYMbdNKY1QgjgB1u7Wh4V3-eAezXQt54Sv6NF0kWJD0rPN-jDsTuswnf47v74fbTwJF4FVR5coIhfOiMLmF-nQTYmA1y0LcMq3USLv7Y5MMHB23fOvp7E5XnO2C3f5bmgKo&google_hm=NDVhYjZjMjgtY2VjYi00MDdlLWIyY2ItZmM3MWFkNDRhZDFl"
+        },
+        {
+          "status": 302,
+          "url": "https://sync-tm.everesttech.net/upi/pid/5w3jqr4k?redir=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dg8f47s39e399f3fe%26google_hm%3D%24%7BTM_USER_ID_BASE64ENC_URLENC%7D&google_gid=CAESEGOrT1yzYJv7TYyHr48pXhs&google_cver=1&google_push=AbeoXYz3eWorWmrzlb6o2MBVPbmNL5We4lTwd6X5q0HKacbXu8rABwv2JvIfinY2NtJmBvzj0gyqHav4RG4jO9f8DY425oe18MkwpgLYU4SmzVI4E9VlvtjJ2TzoKsyxP0R-VcJnpe8iYEQCShw7c8hUtm-XVQ",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=g8f47s39e399f3fe&google_hm=&google_cver=1&google_gid=CAESEGOrT1yzYJv7TYyHr48pXhs&google_push=AbeoXYz3eWorWmrzlb6o2MBVPbmNL5We4lTwd6X5q0HKacbXu8rABwv2JvIfinY2NtJmBvzj0gyqHav4RG4jO9f8DY425oe18MkwpgLYU4SmzVI4E9VlvtjJ2TzoKsyxP0R-VcJnpe8iYEQCShw7c8hUtm-XVQ"
+        },
+        {
+          "status": 302,
+          "url": "https://dclk-match.dotomi.com/match/bounce/current?DotomiTest=57142e8463f41f2c&is_secure=true&networkId=14000&version=1&google_gid=CAESELcfYwPSzjkK7bm945f2stI&google_cver=1&google_push=AbeoXYzsDQQWRWIp1tJvlRwnTa80P2nrLL2BTMcgWgxPzqgQdQjB4nFpdbkzNwrKvyM_hFrqq8diCqbSO6WPkDzcunSYI2oZUh9Qrmsyzg8OZniSCZ56jclZwg-40nOzTmCFjAjhbuQOdNU1QHJMRHlfYRtS6hE",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=dotomi&google_ula=17128,0&google_hm=AQAKIsp3vbtZkwIx76G7AQEBAQEBAQCgmoreGwEBAKCait4b&expiration=1793697397&google_cver=1&is_secure=true&google_gid=CAESELcfYwPSzjkK7bm945f2stI&google_push=AbeoXYzsDQQWRWIp1tJvlRwnTa80P2nrLL2BTMcgWgxPzqgQdQjB4nFpdbkzNwrKvyM_hFrqq8diCqbSO6WPkDzcunSYI2oZUh9Qrmsyzg8OZniSCZ56jclZwg-40nOzTmCFjAjhbuQOdNU1QHJMRHlfYRtS6hE"
+        },
+        {
+          "status": 302,
+          "url": "https://analytics.pangle-ads.com/api/ad/union/gg_cookie_matching?google_gid=CAESEPgsUdVZIYrPiXF4AL4F168&google_cver=1&google_push=AdBflip5M-j5e1gbQTJIVpndgJ_b0smmCCvtiwgz7a1QxoLNvz3hgTLutVCn-7KUPBdGXAjsZ-aEwSjOIcZ5J3EpxatfbdSYK3d_EYoAXfycB1m54njBWdUP1Kwwz9nYfNExBc3Pg5-BVKDijlSkEQo3P7ESF8wV",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=toutiao_usd&google_push=AdBflip5M-j5e1gbQTJIVpndgJ_b0smmCCvtiwgz7a1QxoLNvz3hgTLutVCn-7KUPBdGXAjsZ-aEwSjOIcZ5J3EpxatfbdSYK3d_EYoAXfycB1m54njBWdUP1Kwwz9nYfNExBc3Pg5-BVKDijlSkEQo3P7ESF8wV"
+        },
+        {
+          "status": 302,
+          "url": "https://sync.ipredictive.com/d/sync/cookie/generic?https://cm.g.doubleclick.net/pixel?google_nid=adelphic_mobile&google_gid=CAESEHTRL0GvnAKuMObZxUJUeQs&google_cver=1&google_push=AdBfliooZbTRQ6zR7329rZKcvNOmetEgn9Wup2MRLLuPFVat6JaowvoAKQ8zF3hazHLsLuvRHhMUSfZ12GSP38XPu4-F5lo0HyZCxj5sMq0wVWfbq7XceV1ox37ny4wZcHFzBKOglUAL3Ux45Mg4bzgwfN31uw&google_hm=${ADELPHIC_CUID_B64}",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=adelphic_mobile&google_gid=CAESEHTRL0GvnAKuMObZxUJUeQs&google_cver=1&google_push=AdBfliooZbTRQ6zR7329rZKcvNOmetEgn9Wup2MRLLuPFVat6JaowvoAKQ8zF3hazHLsLuvRHhMUSfZ12GSP38XPu4-F5lo0HyZCxj5sMq0wVWfbq7XceV1ox37ny4wZcHFzBKOglUAL3Ux45Mg4bzgwfN31uw&google_hm=9sl4HlIwSHa3kfdGuR57RQ=="
+        },
+        {
+          "status": 302,
+          "url": "https://cm-mx.advolve.io/pixel?google_gid=CAESEAPGfOFY8c7mnLXGy-aJeAQ&google_cver=1&google_push=AbeoXYy048xrIfSwQepIPYXDLKSeVBmPWD-PfJ07cVLLJ0TN-eRQwGBUspPIHYbjreJX_MqjybQWEPvqXEPtBnrxzA2ejoCoMMfFlR96grpjEmqAvWWxma2foZG_nGQ9FuNEbRdB1P4tgZtCBKjLqDCw8hoGSo-Y",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=advolve&google_push=AbeoXYy048xrIfSwQepIPYXDLKSeVBmPWD-PfJ07cVLLJ0TN-eRQwGBUspPIHYbjreJX_MqjybQWEPvqXEPtBnrxzA2ejoCoMMfFlR96grpjEmqAvWWxma2foZG_nGQ9FuNEbRdB1P4tgZtCBKjLqDCw8hoGSo-Y&google_hm=6ae854ddecb04dab0da2f88b&google_ula=9190312969"
+        }
+      ],
+      "cross_origin_requests": [
+        "https://www.googletagmanager.com/gtag/js?id=G-S8S5GW598W",
+        "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/mixpanel-browser@2",
+        "https://www.googletagmanager.com/gtag/js?id=AW-16473876303&cx=c&gtm=4e6as1",
+        "https://cdn7.gametop.com/img/gt-logo-red.png",
+        "https://cdn8.gametop.com/sb-icons/home.svg",
+        "https://cdn8.gametop.com/sb-icons/pc-games.svg",
+        "https://cdn8.gametop.com/sb-icons/online-games.svg",
+        "https://cdn8.gametop.com/sb-icons/news2.svg",
+        "https://cdn8.gametop.com/sb-icons/trending.svg",
+        "https://cdn8.gametop.com/sb-icons/hidden-object.svg",
+        "https://cdn8.gametop.com/sb-icons/match3.svg",
+        "https://cdn8.gametop.com/sb-icons/time-management.svg",
+        "https://cdn8.gametop.com/sb-icons/puzzle.svg",
+        "https://cdn8.gametop.com/sb-icons/solitaire.svg",
+        "https://cdn8.gametop.com/sb-icons/action.svg",
+        "https://cdn8.gametop.com/sb-icons/arcade2.svg",
+        "https://cdn8.gametop.com/sb-icons/racing.svg",
+        "https://cdn8.gametop.com/sb-icons/all-categories.svg",
+        "https://cdn8.gametop.com/sb-icons/all-series.svg"
+      ],
+      "navigated_to": "https://www.gametop.com/download-free-games/city-racing/",
+      "error": "locator.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a, button, input[type=\"button\"], input[type=\"submit\"]').nth(41)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"nav-link\" href=\"/download-safety-policy.html\">Download Safety Policy</a>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 100ms\u001b[22m\n\u001b[2m    8 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 500ms\u001b[22m\n"
+    },
+    {
+      "index": 4,
+      "text": "Download Games",
+      "href": "https://www.gametop.com/category/index.html",
+      "popups": [],
+      "downloads": [],
+      "redirects": [
+        {
+          "status": 302,
+          "url": "https://match.adsrvr.org/track/cmf/google?google_gid=CAESEIm41QkNHj-RMiCf2-90EJ8&google_cver=1&google_push=AdBflioL5B725u0psQl46noAVzlnNcwJTv2s-wbAm-pBe1uPccW55oTemk1SBaozpB4euhCHkUdB57_7eyo5pp-PONaHBpeNqM29IWQ",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_hm=YWE0MmIzYTktODY1Ni00ZWY1LWJhZWUtNGZkOTg4Yjk4Zjg0&google_push&gdpr=0&gdpr_consent=&ttd_tdid=aa42b3a9-8656-4ef5-baee-4fd988b98f84"
+        },
+        {
+          "status": 302,
+          "url": "https://match.adsrvr.org/track/cmf/google?google_gid=CAESEIm41QkNHj-RMiCf2-90EJ8&google_cver=1&google_push=AdBflioBgTet859CGnQCYr_s-j4lo-ze1bNUTfmFHhdLuzL18xaOTwOppm3y08GGVFquP3OXljppGI24nYr5rumTGOLuIbSg-3m3",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_hm=YWE0MmIzYTktODY1Ni00ZWY1LWJhZWUtNGZkOTg4Yjk4Zjg0&google_push&gdpr=0&gdpr_consent=&ttd_tdid=aa42b3a9-8656-4ef5-baee-4fd988b98f84"
+        },
+        {
+          "status": 302,
+          "url": "https://match.adsrvr.org/track/cmf/google?google_gid=CAESEIm41QkNHj-RMiCf2-90EJ8&google_cver=1&google_push=AdBfliquwQ6jOVYrsvnMC2R0pEGdtzIbA0cN2gZI5fNbvQNEiUPI3tVejaWxuaM8CICI-PAJIDequK-vqK-vRQhWWlMYHJfp62D_pDBvzDI4nQvY6oQVaEaOqq95TEt16bQWE59bu5O_1hARpl6KbIKW71AF9Uo",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_hm=YWE0MmIzYTktODY1Ni00ZWY1LWJhZWUtNGZkOTg4Yjk4Zjg0&google_push&gdpr=0&gdpr_consent=&ttd_tdid=aa42b3a9-8656-4ef5-baee-4fd988b98f84"
+        },
+        {
+          "status": 302,
+          "url": "https://ds.uncn.jp/doubleclick/0/sync_push?google_gid=CAESEA55035DfZAYp_kvSYdU6E8&google_cver=1&google_push=AdBfliqIpFUifXmNNEKavOTPi-B3UbSuMlBWaWd0hZ1HiKdCbZUt3zL7LX4ZbQRYhGgj-5XCdPtNFjPWuVDkH4jMXFPIxBC1WrSVHSk",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=unicorn&google_push=AdBfliqIpFUifXmNNEKavOTPi-B3UbSuMlBWaWd0hZ1HiKdCbZUt3zL7LX4ZbQRYhGgj-5XCdPtNFjPWuVDkH4jMXFPIxBC1WrSVHSk&google_hm=dl85ODFiYWU5NC01Y2ZmLTQ3MzYtOWE3My0xMWJkMDY2MzFkMTM"
+        },
+        {
+          "status": 302,
+          "url": "https://ipac.ctnsnet.com/int/cm?exc=1&acc=crimtan_au&google_gid=CAESEHt5JfTebyPmBQM-AJtwznE&google_cver=1&google_push=AdBflipsoFmjKlVTN1svOHH_VV-v34zkIR_8_UibRCA-htXbPa7_owFFuIyYJ2PV36trNnuT4y_Tmctw7RK3PHTnRw8v6WYwR9CRafE",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=crimtan_au&google_push=AdBflipsoFmjKlVTN1svOHH_VV-v34zkIR_8_UibRCA-htXbPa7_owFFuIyYJ2PV36trNnuT4y_Tmctw7RK3PHTnRw8v6WYwR9CRafE&google_hm=a54HY-2nQymEUjiKrNR6yCs"
+        },
+        {
+          "status": 302,
+          "url": "https://tracking.prismpartner.smt.docomo.ne.jp/sync/adx?google_gid=CAESEBR3rUROMR1__QkoAPkdT5A&google_cver=1&google_push=AdBflio2_tLdI0aDZXXOV4--pW5Ay3OCK4SOhdtaLl6Aetu3dLC-sRJtHqB2URrveImqFwknqlaxyuHYYUDKYBnjjWjS_ZQDE9V4VTHo",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=prism_partnerinc&google_hm=2Ro2rsF4R0i2F6EIljQVJQ&google_push=AdBflio2_tLdI0aDZXXOV4--pW5Ay3OCK4SOhdtaLl6Aetu3dLC-sRJtHqB2URrveImqFwknqlaxyuHYYUDKYBnjjWjS_ZQDE9V4VTHo"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/pixel?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflir8Xq3s6cqRpSgpSMI5U2kf1DuMRMUQ_aU_o23Y4cy3s_pioyprwggZFW9aCbTD-N8qEe_oVgo7J7bCQUJNMnhDXg7TaFFtX2eLKKXK7e2DLy4Sz6sGTmbmwHpUo0u88UNIXyZO1bBLpBb85_YsMiM4rJs&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1",
+          "location": "/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflir8Xq3s6cqRpSgpSMI5U2kf1DuMRMUQ_aU_o23Y4cy3s_pioyprwggZFW9aCbTD-N8qEe_oVgo7J7bCQUJNMnhDXg7TaFFtX2eLKKXK7e2DLy4Sz6sGTmbmwHpUo0u88UNIXyZO1bBLpBb85_YsMiM4rJs&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=12a27d1ebf8c9bdd3c648667c267ac98"
+        },
+        {
+          "status": 302,
+          "url": "https://tr.blismedia.com/v1/api/sync/AdxPixel?google_gid=CAESEDzu7Pg0s6zGhm3PMzyl4BY&google_cver=1&google_push=AdBflio1Nsx7koOZYC-F0b7rKBJ8wHZc1O7HZacUw73kOhTXJqbtLeY-hhesTYeTxypQVSyAcV1nbiatBDIhWpGTFKG9IiiseMfrNWm-xmWLJhx1LHNZvK9wgtuRPnn0RRbRXFTBUuvVjEXrFP4hkROJusllAbc",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=blismobile&google_push=AdBflio1Nsx7koOZYC-F0b7rKBJ8wHZc1O7HZacUw73kOhTXJqbtLeY-hhesTYeTxypQVSyAcV1nbiatBDIhWpGTFKG9IiiseMfrNWm-xmWLJhx1LHNZvK9wgtuRPnn0RRbRXFTBUuvVjEXrFP4hkROJusllAbc&google_hm=hmroVOwTPhz6lhEhHg"
+        },
+        {
+          "status": 302,
+          "url": "https://ipac.ctnsnet.com/int/cm?exc=1&acc=crimtan_au&google_gid=CAESEHt5JfTebyPmBQM-AJtwznE&google_cver=1&google_push=AdBfliqKeENZhLZCUR1k8sRStieF5O9S2Ou-fxL2Rfh9ug8GFj1RulgIqIPm4KSe52q4LAa_P85BQ6-Yg1HkajdHnaM8GG1lb0Py",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=crimtan_au&google_push=AdBfliqKeENZhLZCUR1k8sRStieF5O9S2Ou-fxL2Rfh9ug8GFj1RulgIqIPm4KSe52q4LAa_P85BQ6-Yg1HkajdHnaM8GG1lb0Py&google_hm=a54HY-2nQymEUjiKrNR6yCs"
+        },
+        {
+          "status": 302,
+          "url": "https://tracking.prismpartner.smt.docomo.ne.jp/sync/adx?google_gid=CAESEBR3rUROMR1__QkoAPkdT5A&google_cver=1&google_push=AdBfliqNdjXyUafJKgjTvBcxttjyzhrRP3WVfMVgaFLlpkVy1W66vwICO8snZ98AiHgsHPiZxEiYk6wyDflniNVfl7khRaY55vftwJI",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=prism_partnerinc&google_hm=2Ro2rsF4R0i2F6EIljQVJQ&google_push=AdBfliqNdjXyUafJKgjTvBcxttjyzhrRP3WVfMVgaFLlpkVy1W66vwICO8snZ98AiHgsHPiZxEiYk6wyDflniNVfl7khRaY55vftwJI"
+        },
+        {
+          "status": 302,
+          "url": "https://ds.uncn.jp/doubleclick/0/sync_push?google_gid=CAESEA55035DfZAYp_kvSYdU6E8&google_cver=1&google_push=AdBfliphAWThzdMWDYeXcsSvcd-GKYAItsgB293Nf2kahqJsgvKdtqYwvQ7vxVEuvrjGs2tTBRufpjqqIQKlBrMDqBTrOmCUoSwoGjOVmUaNlVXtY04qbjg42esj7a3O8g0nK0qNFswd_I_ULQEW4dDAR-r-76w",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=unicorn&google_push=AdBfliphAWThzdMWDYeXcsSvcd-GKYAItsgB293Nf2kahqJsgvKdtqYwvQ7vxVEuvrjGs2tTBRufpjqqIQKlBrMDqBTrOmCUoSwoGjOVmUaNlVXtY04qbjg42esj7a3O8g0nK0qNFswd_I_ULQEW4dDAR-r-76w&google_hm=dl85ODFiYWU5NC01Y2ZmLTQ3MzYtOWE3My0xMWJkMDY2MzFkMTM"
+        },
+        {
+          "status": 302,
+          "url": "https://ipac.ctnsnet.com/int/cm?exc=1&acc=crimtan_au&google_gid=CAESEHt5JfTebyPmBQM-AJtwznE&google_cver=1&google_push=AdBfliqwhctZIWhSHo938Yx4uIs93SBbtt-02PEKhhNIH7yHEt2D_zYyE23fBv3lhJzFjTzbLSqEzVKwgL5CZLHSykrKIKD7O7LCOJwSe2vmpCvhuC2Y3tAc1ryK08hz2pNoTcekyqXbHz72mvc_9qY9XF9aVlc",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=crimtan_au&google_push=AdBfliqwhctZIWhSHo938Yx4uIs93SBbtt-02PEKhhNIH7yHEt2D_zYyE23fBv3lhJzFjTzbLSqEzVKwgL5CZLHSykrKIKD7O7LCOJwSe2vmpCvhuC2Y3tAc1ryK08hz2pNoTcekyqXbHz72mvc_9qY9XF9aVlc&google_hm=a54HY-2nQymEUjiKrNR6yCs"
+        },
+        {
+          "status": 302,
+          "url": "https://creativecdn.com/cm-notify?pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBfliozb-0CTT8ajJS-trs3Zj7hETVaq7BoKNGxHB-L8MpEMoLFUULWQfYIABlmg3TB3fFdYAhY2tyor2A84m_KK7xpCVTKMMg",
+          "location": "https://cm.g.doubleclick.net/pixel?google_ula=5153224&google_hm=CguWk7lRaQNdf7JEtYMvHagQj9FSSUe87e3q6LfKT2I&pi=adx&tdc=ams&pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBfliozb-0CTT8ajJS-trs3Zj7hETVaq7BoKNGxHB-L8MpEMoLFUULWQfYIABlmg3TB3fFdYAhY2tyor2A84m_KK7xpCVTKMMg"
+        },
+        {
+          "status": 302,
+          "url": "https://creativecdn.com/cm-notify?pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBfliowkDst1DOzQmQ8VbSn2bEXfZTjazSkudFFjSum0zKLgXQGYaF0cvAi1k4IsJxhgMTi2tZR5rnBO0JMnKRK-Tpw1MXdUX91Cs5uj2Dl6JiCp12GJd9S9wxwLNsUYeWnaLqSQk2cXj30HAxKey4GytisZkY",
+          "location": "https://cm.g.doubleclick.net/pixel?google_ula=5153224&google_hm=CguWk7lRaQNdf7JEtYMvHagQj9FSSUe87e3q6LfKT2I&pi=adx&tdc=ams&pi=adxab&google_nid=rtb_house&google_gid=CAESELiRit5qtWsljV7FMRvx7jY&google_cver=1&google_push=AdBfliowkDst1DOzQmQ8VbSn2bEXfZTjazSkudFFjSum0zKLgXQGYaF0cvAi1k4IsJxhgMTi2tZR5rnBO0JMnKRK-Tpw1MXdUX91Cs5uj2Dl6JiCp12GJd9S9wxwLNsUYeWnaLqSQk2cXj30HAxKey4GytisZkY"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflir8Xq3s6cqRpSgpSMI5U2kf1DuMRMUQ_aU_o23Y4cy3s_pioyprwggZFW9aCbTD-N8qEe_oVgo7J7bCQUJNMnhDXg7TaFFtX2eLKKXK7e2DLy4Sz6sGTmbmwHpUo0u88UNIXyZO1bBLpBb85_YsMiM4rJs&google_gid=CAESENfX6f0ycBd7LakmX2YVqXI&google_cver=1&trace_id=12a27d1ebf8c9bdd3c648667c267ac98",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=bluesea_bidding&google_hm=OTU2OTlmZDEwMWNmN2RmMQ&google_push=AdBflir8Xq3s6cqRpSgpSMI5U2kf1DuMRMUQ_aU_o23Y4cy3s_pioyprwggZFW9aCbTD-N8qEe_oVgo7J7bCQUJNMnhDXg7TaFFtX2eLKKXK7e2DLy4Sz6sGTmbmwHpUo0u88UNIXyZO1bBLpBb85_YsMiM4rJs"
+        },
+        {
+          "status": 302,
+          "url": "https://ups.analytics.yahoo.com/ups/58933/cms?google_gid=CAESEL-mwkfzBn74QgYiHmL9d9k&google_cver=1&google_push=AdBfliqHg7x33D34h53cjQAzpe0ACDRAU14nd3i59STB2nuAFTZjP-k_NQQBmhMNIprPB7iv0Mr-5Ni-vJ-IB4yJ0XdBjq5UV6uNRP8",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=yahoo&google_hm=eS1yZE9nQWQxRTJwR0ZJNGliTFBfM2FfSlF3SDFBV2xRNn5B&google_push=AdBfliqHg7x33D34h53cjQAzpe0ACDRAU14nd3i59STB2nuAFTZjP-k_NQQBmhMNIprPB7iv0Mr-5Ni-vJ-IB4yJ0XdBjq5UV6uNRP8"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N5295.5087813DEMANDGEN/B34614698.437642213;dc_trk_aid=630742082;dc_trk_cid=246611925;ord=1543993724;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;dc_ctype=46;dc_pubid=8;dc_btype=1",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N5295.5087813DEMANDGEN/B34614698.437642213;dc_pre=CLfOwNb56JcDFZHPcwEdaOE1pw;dc_trk_aid=630742082;dc_trk_cid=246611925;ord=1543993724;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;dc_ctype=46;dc_pubid=8;dc_btype=1"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=1897352957;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_pre=CLbVwtb56JcDFfQKtwAdEuIfmw;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=1897352957;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=3030184541;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_pre=CJqmw9b56JcDFUNhnQkdXD0ocg;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=3030184541;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?"
+        },
+        {
+          "status": 302,
+          "url": "https://analytics.pangle-ads.com/api/ad/union/gg_cookie_matching?google_gid=CAESEPgsUdVZIYrPiXF4AL4F168&google_cver=1&google_push=AdBflipektHhhYJFiUedHW1tuz9Awzj4KnkE0p3djoWHsOwaaZqKaIEcFfEj-Y8Xh3AWD8pR3P_3ZHC1xhqlZIZ5_g_A0TA84G9fyE21",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=toutiao_usd&google_push=AdBflipektHhhYJFiUedHW1tuz9Awzj4KnkE0p3djoWHsOwaaZqKaIEcFfEj-Y8Xh3AWD8pR3P_3ZHC1xhqlZIZ5_g_A0TA84G9fyE21"
+        },
+        {
+          "status": 302,
+          "url": "https://analytics.pangle-ads.com/api/ad/union/gg_cookie_matching?google_gid=CAESEPgsUdVZIYrPiXF4AL4F168&google_cver=1&google_push=AdBfliqNJw_VKLjKFwSxYZVxXJgxieyzEV9LHrHZ1A0yx7Pz9ZJeSNyu7QrPBrGhNtdhVPta3JARpjg9lGvLBB8PKvSQk4uyzmLoCdY",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=toutiao_usd&google_push=AdBfliqNJw_VKLjKFwSxYZVxXJgxieyzEV9LHrHZ1A0yx7Pz9ZJeSNyu7QrPBrGhNtdhVPta3JARpjg9lGvLBB8PKvSQk4uyzmLoCdY"
+        },
+        {
+          "status": 302,
+          "url": "https://analytics.pangle-ads.com/api/ad/union/gg_cookie_matching?google_gid=CAESEPgsUdVZIYrPiXF4AL4F168&google_cver=1&google_push=AdBfliqmij5OJ259zM0PRo-qsZCM8F_zSDm0veDZfyWlTc3n4SbMSt-3xrZiom61-Q489I0Z7XiR_67UFuHd1Z2j5c_3mHlutkG6ykHrbzp-RIJrxkIaxdLqYap6CK721RPrWDT60CyazuXlSg64Jtx9a27zCgo",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=toutiao_usd&google_push=AdBfliqmij5OJ259zM0PRo-qsZCM8F_zSDm0veDZfyWlTc3n4SbMSt-3xrZiom61-Q489I0Z7XiR_67UFuHd1Z2j5c_3mHlutkG6ykHrbzp-RIJrxkIaxdLqYap6CK721RPrWDT60CyazuXlSg64Jtx9a27zCgo"
+        },
+        {
+          "status": 302,
+          "url": "https://match.adsrvr.org/track/cmf/google?google_gid=CAESEIm41QkNHj-RMiCf2-90EJ8&google_cver=1&google_push=AdBfliqr1yCbNNQDzCdXd-aAkv_dRkQr9D6ALgmgysnS8H5DaACICB8fj9zsgUMNP9hYj9PrCt0bCfNj2ojXyIrwOMLtEvKOOhTlXprVVdJTwuq7jXeBojl0xgNa4p2_zbjiVWwwMaQQg_AlSomSa8Jb1N8VZQ",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_hm=YWE0MmIzYTktODY1Ni00ZWY1LWJhZWUtNGZkOTg4Yjk4Zjg0&google_push&gdpr=0&gdpr_consent=&ttd_tdid=aa42b3a9-8656-4ef5-baee-4fd988b98f84"
+        },
+        {
+          "status": 302,
+          "url": "https://match.adsrvr.org/track/cmf/google?google_gid=CAESEIm41QkNHj-RMiCf2-90EJ8&google_cver=1&google_push=AdBflipAqj81vpboqTmDFK8975FIEfvCDuYmAKqPQNfMV7qhWJOvnlUN52OI5LKWE05tlp_EkqIubL_v0MNop7amMXxbrwri71Tscg_GMmz0cuRd0n0vuUlTlXvIKy-ftI6Jc4eG6pS6-IITniHk1IJkcj3QZDQ",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_hm=YWE0MmIzYTktODY1Ni00ZWY1LWJhZWUtNGZkOTg4Yjk4Zjg0&google_push&gdpr=0&gdpr_consent=&ttd_tdid=aa42b3a9-8656-4ef5-baee-4fd988b98f84"
+        },
+        {
+          "status": 302,
+          "url": "https://tr.blismedia.com/v1/api/sync/AdxPixel?google_gid=CAESEDzu7Pg0s6zGhm3PMzyl4BY&google_cver=1&google_push=AdBfliq8WjS28qjyWANZk3JSIgWxCSS8XgpbA7xh_J3NUViUHZCPIhzJNIhG8HLPXRuFDbaY4Fe_Iz7t1HuNuHixKF1sB05yNLzqPJkSSy3L7RopXnX6iLxHikYp78ngxNFXGMuk6LRBGHqsIIWd9LVXNZE60UQ",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=blismobile&google_push=AdBfliq8WjS28qjyWANZk3JSIgWxCSS8XgpbA7xh_J3NUViUHZCPIhzJNIhG8HLPXRuFDbaY4Fe_Iz7t1HuNuHixKF1sB05yNLzqPJkSSy3L7RopXnX6iLxHikYp78ngxNFXGMuk6LRBGHqsIIWd9LVXNZE60UQ&google_hm=hmroVOwTPhz6lhEhHg"
+        },
+        {
+          "status": 302,
+          "url": "https://tr.blismedia.com/v1/api/sync/AdxPixel?google_gid=CAESEDzu7Pg0s6zGhm3PMzyl4BY&google_cver=1&google_push=AdBflioFW2lmbI9WyA1ETVn_idKrdjVD9PHITxKYpQnUPP4FxXjOmh6za4pIMZwiXlUdL5tVPfSxf_CjPX8hiOhqHEshQtOLEheMkazOZaLwuvwwEeSrSSJmb8yuTQwuHxwAzIgIBTGsyHcUDW9ap93DoY6eYw",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=blismobile&google_push=AdBflioFW2lmbI9WyA1ETVn_idKrdjVD9PHITxKYpQnUPP4FxXjOmh6za4pIMZwiXlUdL5tVPfSxf_CjPX8hiOhqHEshQtOLEheMkazOZaLwuvwwEeSrSSJmb8yuTQwuHxwAzIgIBTGsyHcUDW9ap93DoY6eYw&google_hm=hmroVOwTPhz6lhEhHg"
+        },
+        {
+          "status": 302,
+          "url": "https://ds.uncn.jp/doubleclick/0/sync_push?google_gid=CAESEA55035DfZAYp_kvSYdU6E8&google_cver=1&google_push=AdBflipq12qIjnUE-yIRu-16hrRAzQQHcT5S8uhkVIfVM9PDqaR4o0DuwWZBcfQdFYtfq1fP0oFBxQMK57HGOcHhCW878iQhiuQ4ieW4G6y0cEtjcuvhVEQ7fgoXQmVgsf0PbDhBVExy7bHvdppPfKfJ1gW-R0c",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=unicorn&google_push=AdBflipq12qIjnUE-yIRu-16hrRAzQQHcT5S8uhkVIfVM9PDqaR4o0DuwWZBcfQdFYtfq1fP0oFBxQMK57HGOcHhCW878iQhiuQ4ieW4G6y0cEtjcuvhVEQ7fgoXQmVgsf0PbDhBVExy7bHvdppPfKfJ1gW-R0c&google_hm=dl85ODFiYWU5NC01Y2ZmLTQ3MzYtOWE3My0xMWJkMDY2MzFkMTM"
+        },
+        {
+          "status": 302,
+          "url": "https://tracking.prismpartner.smt.docomo.ne.jp/sync/adx?google_gid=CAESEBR3rUROMR1__QkoAPkdT5A&google_cver=1&google_push=AdBflirBOMHNJDexyeX1u-QPfiDJEuLCh7SskXWUyvF1MrdINsVJPqPttcmpaMe10wMOdcymPmha3t0RqK5bmo2vedIW5oKmyc_-qcZ6Qo98k4xqST9tArfcuYN6N8aE36aztF4pNV0neh7i0ieHzOL_bHPhTsYH",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=prism_partnerinc&google_hm=2Ro2rsF4R0i2F6EIljQVJQ&google_push=AdBflirBOMHNJDexyeX1u-QPfiDJEuLCh7SskXWUyvF1MrdINsVJPqPttcmpaMe10wMOdcymPmha3t0RqK5bmo2vedIW5oKmyc_-qcZ6Qo98k4xqST9tArfcuYN6N8aE36aztF4pNV0neh7i0ieHzOL_bHPhTsYH"
+        },
+        {
+          "status": 302,
+          "url": "https://ipac.ctnsnet.com/int/cm?exc=1&acc=crimtan_au&google_gid=CAESEHt5JfTebyPmBQM-AJtwznE&google_cver=1&google_push=AdBflioCCu3soH9KfBHDhy6nMd-Nx4qjB83730BR1rnoiap580IVSaSNvoUoWPgPoGpSx5NIu_OGTooRdnd09V9UI4Zv3kFztkx62-FBAa7UXneJmkvG0Yf_Mbikxxnmau4C1rd1NgJMKLO1T3U_a3zSoTPN2A",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=crimtan_au&google_push=AdBflioCCu3soH9KfBHDhy6nMd-Nx4qjB83730BR1rnoiap580IVSaSNvoUoWPgPoGpSx5NIu_OGTooRdnd09V9UI4Zv3kFztkx62-FBAa7UXneJmkvG0Yf_Mbikxxnmau4C1rd1NgJMKLO1T3U_a3zSoTPN2A&google_hm=a54HY-2nQymEUjiKrNR6yCs"
+        },
+        {
+          "status": 302,
+          "url": "https://ds.uncn.jp/doubleclick/0/sync_push?google_gid=CAESEA55035DfZAYp_kvSYdU6E8&google_cver=1&google_push=AdBfliqViexAYcUsMZ7RDV-P5j1HACLhdMeqkg5lr_0_ThDDGOceHd5ZcopnChi4Z2jg_XdglT8s5TOQqMXQH2Xq7e4ZTmcPDZhIx5KWFAqMhJPEANJ7oLCDF2Hh5lAAmV6PnRZ1wOwpg1dFVTtpocW2H_a3Xn0",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=unicorn&google_push=AdBfliqViexAYcUsMZ7RDV-P5j1HACLhdMeqkg5lr_0_ThDDGOceHd5ZcopnChi4Z2jg_XdglT8s5TOQqMXQH2Xq7e4ZTmcPDZhIx5KWFAqMhJPEANJ7oLCDF2Hh5lAAmV6PnRZ1wOwpg1dFVTtpocW2H_a3Xn0&google_hm=dl85ODFiYWU5NC01Y2ZmLTQ3MzYtOWE3My0xMWJkMDY2MzFkMTM"
+        },
+        {
+          "status": 302,
+          "url": "https://tracking.prismpartner.smt.docomo.ne.jp/sync/adx?google_gid=CAESEBR3rUROMR1__QkoAPkdT5A&google_cver=1&google_push=AdBfliqnonhACsuCEgAFuux1jUJn9VCtC3UM4Hx_aXwU9o5fAUhPwGCpw2xTu5ajBHzkBrOju9w5Qy9Jd9e2iQFQhf_xHZsdhy-Y8aWUbEEOy4_erA8zSYiBPW5mpFwcx8zFCnEeKqWjN0j4H62vwT9eC_ujOxkX",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=prism_partnerinc&google_hm=2Ro2rsF4R0i2F6EIljQVJQ&google_push=AdBfliqnonhACsuCEgAFuux1jUJn9VCtC3UM4Hx_aXwU9o5fAUhPwGCpw2xTu5ajBHzkBrOju9w5Qy9Jd9e2iQFQhf_xHZsdhy-Y8aWUbEEOy4_erA8zSYiBPW5mpFwcx8zFCnEeKqWjN0j4H62vwT9eC_ujOxkX"
+        },
+        {
+          "status": 302,
+          "url": "https://dis.criteo.com/dis/usersync.aspx?r=4&p=14&cp=google&cu=1&url=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dcjp%26google_hm%3D%40%40CRITEO_USERID%40%40%26google_push%3DAdBflipBTsEmyvECMjLmA51HJtZpyWnnh-boRmczgC_mVq480tUiv_7D_OprFfPxIWRjIQ6OQwMh_K9gQLbqfdtcZgE-DhFeRYHdzoNNIZP3CaEF05NdaOGiBAhu_XYlrRAB5EH-rlChcUou2vm15BQ2CIzRRg&google_gid=CAESEG5WlmamfSmoIZh6U5Bgxpo&google_cver=1",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=cjp&google_hm=ay05RTFRMHg4YjY1b2tGbE5PMXJISFZHTmh1UnVXTTR0NmlnQlBPUQ&google_push=AdBflipBTsEmyvECMjLmA51HJtZpyWnnh-boRmczgC_mVq480tUiv_7D_OprFfPxIWRjIQ6OQwMh_K9gQLbqfdtcZgE-DhFeRYHdzoNNIZP3CaEF05NdaOGiBAhu_XYlrRAB5EH-rlChcUou2vm15BQ2CIzRRg"
+        },
+        {
+          "status": 302,
+          "url": "https://ups.analytics.yahoo.com/ups/58933/cms?google_gid=CAESEL-mwkfzBn74QgYiHmL9d9k&google_cver=1&google_push=AdBfliquRQgbRZwQUpE3cT97oQYGCiol8gNTYxqNFqgMmlB3xYa1EgW3NtY3c57_jCnUSagpBzPNWDr7Ro1utJwXHI0_79tDFJkAJc4HeN8hF5qYNQa4x_F0dC03dONT7NSyBa6PE-eqoEVVLqwG5VyVFas05A",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=yahoo&google_hm=eS1yZE9nQWQxRTJwR0ZJNGliTFBfM2FfSlF3SDFBV2xRNn5B&google_push=AdBfliquRQgbRZwQUpE3cT97oQYGCiol8gNTYxqNFqgMmlB3xYa1EgW3NtY3c57_jCnUSagpBzPNWDr7Ro1utJwXHI0_79tDFJkAJc4HeN8hF5qYNQa4x_F0dC03dONT7NSyBa6PE-eqoEVVLqwG5VyVFas05A"
+        },
+        {
+          "status": 302,
+          "url": "https://analytics.pangle-ads.com/api/ad/union/gg_cookie_matching?google_gid=CAESEPgsUdVZIYrPiXF4AL4F168&google_cver=1&google_push=AdBfliq_ByrkAUAzR8H-lGuFmEcXEHvettCsAJzsVOHl7F-ZRsQRVBEInY3-f449Gxt9ga2RSHdTc9Z_nH_A20SXsjsXvW0uVTKjESEe9aYH50xIqSfPum9bkF1GtPLywhLz714Ecz_gGP6610O7kdbQI9Xza8EJ",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=toutiao_usd&google_push=AdBfliq_ByrkAUAzR8H-lGuFmEcXEHvettCsAJzsVOHl7F-ZRsQRVBEInY3-f449Gxt9ga2RSHdTc9Z_nH_A20SXsjsXvW0uVTKjESEe9aYH50xIqSfPum9bkF1GtPLywhLz714Ecz_gGP6610O7kdbQI9Xza8EJ"
+        },
+        {
+          "status": 302,
+          "url": "https://analytics.pangle-ads.com/api/ad/union/gg_cookie_matching?google_gid=CAESEPgsUdVZIYrPiXF4AL4F168&google_cver=1&google_push=AdBflipWhxy3bYpvdI9ndwWtYramCMhHUjZIZZObbmrDmcy4TEJ-09OgiO8WkmjClHMzn9lfiBYt51zkaUkncfYNS09-xs5HiO-sgVvStdXJdDQb9BT0vrCZsWPziDz_TT2Ztt-47oSsO9pl4TNvMIuLxtH-rchA",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=toutiao_usd&google_push=AdBflipWhxy3bYpvdI9ndwWtYramCMhHUjZIZZObbmrDmcy4TEJ-09OgiO8WkmjClHMzn9lfiBYt51zkaUkncfYNS09-xs5HiO-sgVvStdXJdDQb9BT0vrCZsWPziDz_TT2Ztt-47oSsO9pl4TNvMIuLxtH-rchA"
+        }
+      ],
+      "cross_origin_requests": [
+        "https://www.googletagmanager.com/gtag/js?id=G-S8S5GW598W",
+        "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/mixpanel-browser@2",
+        "https://cdn7.gametop.com/img/gt-logo-red.png",
+        "https://cdn8.gametop.com/sb-icons/home.svg",
+        "https://cdn8.gametop.com/sb-icons/pc-games.svg",
+        "https://cdn8.gametop.com/sb-icons/online-games.svg",
+        "https://cdn8.gametop.com/sb-icons/news2.svg",
+        "https://cdn8.gametop.com/sb-icons/trending.svg",
+        "https://cdn8.gametop.com/sb-icons/hidden-object.svg",
+        "https://cdn8.gametop.com/sb-icons/match3.svg",
+        "https://cdn8.gametop.com/sb-icons/time-management.svg",
+        "https://cdn8.gametop.com/sb-icons/puzzle.svg",
+        "https://cdn8.gametop.com/sb-icons/solitaire.svg",
+        "https://cdn8.gametop.com/sb-icons/action.svg",
+        "https://cdn8.gametop.com/sb-icons/arcade2.svg",
+        "https://cdn8.gametop.com/sb-icons/racing.svg",
+        "https://cdn8.gametop.com/sb-icons/all-categories.svg",
+        "https://cdn8.gametop.com/sb-icons/all-series.svg",
+        "https://cdn8.gametop.com/img/search.svg"
+      ],
+      "navigated_to": "https://www.gametop.com/download-free-games/city-racing/",
+      "error": "locator.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a, button, input[type=\"button\"], input[type=\"submit\"]').nth(5)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"nav-link\" href=\"https://www.gametop.com/category/index.html\">…</a>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 100ms\u001b[22m\n\u001b[2m    6 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 500ms\u001b[22m\n"
+    },
+    {
+      "index": 5,
+      "text": "Download Now",
+      "href": null,
+      "popups": [],
+      "downloads": [],
+      "redirects": [
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=4139802080;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_pre=COLnodr56JcDFa1GnQkd3-8vKA;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=4139802080;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=488427181;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_pre=CMjjqtr56JcDFR5EnQkdpUI1Fw;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=488427181;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N5295.5087813DEMANDGEN/B34614698.434995726;dc_trk_aid=628523212;dc_trk_cid=246611925;ord=4015163174;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;dc_ctype=46;dc_pubid=8;dc_btype=1",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N5295.5087813DEMANDGEN/B34614698.434995726;dc_pre=CLiOwdr56JcDFUlRnQkdN4c5lA;dc_trk_aid=628523212;dc_trk_cid=246611925;ord=4015163174;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;dc_ctype=46;dc_pubid=8;dc_btype=1"
+        },
+        {
+          "status": 302,
+          "url": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=3854483451;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?",
+          "location": "https://ad.doubleclick.net/ddm/trackimp/N2755803.1282461781616918097/B35990896.450398895;dc_pre=CKSXwtr56JcDFbTHhAAd1lkNMA;dc_trk_aid=643775760;dc_trk_cid=259085943;ord=3854483451;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=;gdpr_consent=;ltd=;dc_tdv=1;u=ds_s_ayid=20700000001609198&ds_s_avid=21700000002481879&ds_aid=700000003341354&ds_a_ayid=8292954465&ds_a_avid=8295128775&ds_a_caid=23719327405&sa_info=CK3toK5YEMe9tvMeGNaukQQ=;dc_ctype=46?"
+        },
+        {
+          "status": 302,
+          "url": "https://sync.srv.stackadapt.com/sync?nid=154&google_gid=CAESEB69y49lS3l-cQeTmTG6Zfo&google_cver=1&google_push=AdBflioONdIWFoc5EwYqCn4-6yBiPwSeOOX3VcArKw1Skj0tXGHSlCIRY6Ci16CLtuEXL64Jg_kWW9A-Vg0mpvad-xjFymgAVNprKCxSKvVk5t7dHoZpqtfwnMxmjrCBEYz86nGF2-yPWsPkAz-LH2Nm1mb9rg",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=stackadapt_usd&google_hm=CiQwMWExOWI4Yi04NmI5LTc2MjAtYjQzMi1mMTIyMzBjM2Y1NTYQBBoEQVBBQyAH&google_push=AdBflioONdIWFoc5EwYqCn4-6yBiPwSeOOX3VcArKw1Skj0tXGHSlCIRY6Ci16CLtuEXL64Jg_kWW9A-Vg0mpvad-xjFymgAVNprKCxSKvVk5t7dHoZpqtfwnMxmjrCBEYz86nGF2-yPWsPkAz-LH2Nm1mb9rg"
+        }
+      ],
+      "cross_origin_requests": [
+        "https://www.googletagmanager.com/gtag/js?id=G-S8S5GW598W",
+        "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/mixpanel-browser@2",
+        "https://cdn7.gametop.com/img/gt-logo-red.png",
+        "https://cdn8.gametop.com/sb-icons/home.svg",
+        "https://cdn8.gametop.com/sb-icons/pc-games.svg",
+        "https://cdn8.gametop.com/sb-icons/online-games.svg",
+        "https://cdn8.gametop.com/sb-icons/news2.svg",
+        "https://cdn8.gametop.com/sb-icons/trending.svg",
+        "https://cdn8.gametop.com/sb-icons/hidden-object.svg",
+        "https://cdn8.gametop.com/sb-icons/match3.svg",
+        "https://cdn8.gametop.com/sb-icons/time-management.svg",
+        "https://cdn8.gametop.com/sb-icons/puzzle.svg",
+        "https://cdn8.gametop.com/sb-icons/solitaire.svg",
+        "https://cdn8.gametop.com/sb-icons/action.svg",
+        "https://cdn8.gametop.com/sb-icons/arcade2.svg",
+        "https://cdn8.gametop.com/sb-icons/racing.svg",
+        "https://cdn8.gametop.com/sb-icons/all-categories.svg",
+        "https://cdn8.gametop.com/sb-icons/all-series.svg",
+        "https://cdn8.gametop.com/img/search.svg"
+      ],
+      "navigated_to": "https://www.gametop.com/download-free-games/city-racing/",
+      "error": "locator.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a, button, input[type=\"button\"], input[type=\"submit\"]').nth(109)\u001b[22m\n\u001b[2m    - locator resolved to <button type=\"button\" data-event-label=\"racing\" data-event-category=\"Game\" data-event-featured=\"None\" data-game-name=\"City Racing\" data-game-url=\"/city-racing/\" data-mixpanel-category=\"Racing\" onclick=\"gtStartDownloadAndRedirect(this);\" data-file-url=\"https://cdn7.gametop.com/games/City-Racing.exe\" class=\"btn btn-gt-huge2-green btn-pulse js-game-download-button mr-3\" data-redirect-url=\"https://www.gametop.com/download-free-games/city-racing/file.html\">…</button>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is visible, enabled and stable\u001b[22m\n\u001b[2m      - scrolling into view if needed\u001b[22m\n\u001b[2m      - done scrolling\u001b[22m\n\u001b[2m      - <div role=\"dialog\" aria-modal=\"true\" data-central-popup-host=\"true\" class=\"auto-rewarded-focus-trap\"></div> intercepts pointer events\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is visible, enabled and stable\u001b[22m\n\u001b[2m      - scrolling into view if needed\u001b[22m\n\u001b[2m      - done scrolling\u001b[22m\n\u001b[2m      - <div role=\"dialog\" aria-modal=\"true\" data-central-popup-host=\"true\" class=\"auto-rewarded-focus-trap\"></div> intercepts pointer events\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 100ms\u001b[22m\n\u001b[2m    9 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is visible, enabled and stable\u001b[22m\n\u001b[2m      - scrolling into view if needed\u001b[22m\n\u001b[2m      - done scrolling\u001b[22m\n\u001b[2m      - <div role=\"dialog\" aria-modal=\"true\" data-central-popup-host=\"true\" class=\"auto-rewarded-focus-trap\"></div> intercepts pointer events\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 500ms\u001b[22m\n"
+    }
+  ],
+  "global_popups": [],
+  "global_downloads": []
+}

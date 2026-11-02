@@ -1,0 +1,398 @@
+{
+  "domain": "www.gametop.com",
+  "url": "https://www.gametop.com/download-free-games/city-racing/",
+  "download_buttons": 6,
+  "external_download_destinations": 0,
+  "unexpected_popups": 0,
+  "actual_downloads": 1,
+  "redirect_count": 21,
+  "fake_download_signals": 5,
+  "buttons": [
+    {
+      "text": "Download Games",
+      "href": "https://www.gametop.com/category/index.html",
+      "tag": "A",
+      "id": null,
+      "className": "nav-link",
+      "downloadAttribute": false,
+      "target": null,
+      "onclick": false,
+      "destination_host": "www.gametop.com",
+      "external_destination": false,
+      "suspicious_text_url_mismatch": false
+    },
+    {
+      "text": "Download Safety Policy",
+      "href": "https://www.gametop.com/download-safety-policy.html",
+      "tag": "A",
+      "id": null,
+      "className": "nav-link",
+      "downloadAttribute": false,
+      "target": null,
+      "onclick": false,
+      "destination_host": "www.gametop.com",
+      "external_destination": false,
+      "suspicious_text_url_mismatch": false
+    },
+    {
+      "text": "Download Games",
+      "href": "https://www.gametop.com/category/index.html",
+      "tag": "A",
+      "id": null,
+      "className": "nav-link text-white",
+      "downloadAttribute": false,
+      "target": null,
+      "onclick": false,
+      "destination_host": "www.gametop.com",
+      "external_destination": false,
+      "suspicious_text_url_mismatch": false
+    },
+    {
+      "text": "Download Safety Policy",
+      "href": "https://www.gametop.com/download-safety-policy.html",
+      "tag": "A",
+      "id": null,
+      "className": "nav-link text-white",
+      "downloadAttribute": false,
+      "target": null,
+      "onclick": false,
+      "destination_host": "www.gametop.com",
+      "external_destination": false,
+      "suspicious_text_url_mismatch": false
+    },
+    {
+      "text": "Download Games",
+      "href": "https://www.gametop.com/category/index.html",
+      "tag": "A",
+      "id": null,
+      "className": null,
+      "downloadAttribute": false,
+      "target": null,
+      "onclick": false,
+      "destination_host": "www.gametop.com",
+      "external_destination": false,
+      "suspicious_text_url_mismatch": false
+    },
+    {
+      "text": "Download Now",
+      "href": null,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "btn btn-gt-huge2-green btn-pulse js-game-download-button mr-3",
+      "downloadAttribute": false,
+      "target": null,
+      "onclick": true,
+      "destination_host": null,
+      "external_destination": false,
+      "suspicious_text_url_mismatch": false
+    }
+  ],
+  "click_observations": [
+    {
+      "index": 0,
+      "text": "Download Games",
+      "href": "https://www.gametop.com/category/index.html",
+      "popups": [],
+      "downloads": [],
+      "redirects": [
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/pixel?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflirr4M8CeOnHkgF5bsF3EjoEyYk4Pb-J2gfLYX5lRnMonoDYZCKVn9JCkS4HmZMeljr8XT0r7d58nCie8KMJwWc48YFcqDL7LWHPQjUR3C4pEAo3KY1MhxsZK3RsitXoZU_v8Myh_AqB9uPtiH0YBDOvcL-1&google_gid=CAESENXPiZ0HqGC58rmnhx1axFU&google_cver=1",
+          "location": "/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflirr4M8CeOnHkgF5bsF3EjoEyYk4Pb-J2gfLYX5lRnMonoDYZCKVn9JCkS4HmZMeljr8XT0r7d58nCie8KMJwWc48YFcqDL7LWHPQjUR3C4pEAo3KY1MhxsZK3RsitXoZU_v8Myh_AqB9uPtiH0YBDOvcL-1&google_gid=CAESENXPiZ0HqGC58rmnhx1axFU&google_cver=1&trace_id=c9b681efd4f37d6a3baf57da21bfdbcc"
+        },
+        {
+          "status": 302,
+          "url": "https://sync-tm.everesttech.net/upi/pid/5w3jqr4k?redir=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dg8f47s39e399f3fe%26google_hm%3D%24%7BTM_USER_ID_BASE64ENC_URLENC%7D&google_gid=CAESEFw2qrNGV7RDF7J2SF86WlE&google_cver=1&google_push=AdBflipDMhY0NS75fL-iJ5uVUAQeX5HlpkWD9fGYhedxGtS36izW-wQZNFq2e1W0KS5pDgksAWI8hi1UCEHIniGBGU5PVOM5wH3IDGhcBzEvu3g7LIWcsk07kZje_OKGQRolOsinaMwuWf2YVRt45el-i4pdjjw",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=g8f47s39e399f3fe&google_hm=&google_cver=1&google_gid=CAESEFw2qrNGV7RDF7J2SF86WlE&google_push=AdBflipDMhY0NS75fL-iJ5uVUAQeX5HlpkWD9fGYhedxGtS36izW-wQZNFq2e1W0KS5pDgksAWI8hi1UCEHIniGBGU5PVOM5wH3IDGhcBzEvu3g7LIWcsk07kZje_OKGQRolOsinaMwuWf2YVRt45el-i4pdjjw"
+        },
+        {
+          "status": 302,
+          "url": "https://a.tribalfusion.com/i.match?p=b6&u=CAESEIPjIXai2rrD4CV2tF6XZis&google_cver=1&google_push=AdBfliqWEnuuGtYZz4Z_yEuqe5WpHh1o4C4I6knFjyr-E34_vtTkncnF9oruTEeylQ13i5a7E49qHmYzbCJlzFqK_wW5iWHFgpDmcuLAunRuEHrAKHtipfTwfhg-CzNgaKPeWioXujnrSAZM38SlYGGxo5X3PdE&redirect=https%3A//cm.g.doubleclick.net/pixel%3Fgoogle_nid%3Dexp%26google_push%3DAdBfliqWEnuuGtYZz4Z_yEuqe5WpHh1o4C4I6knFjyr-E34_vtTkncnF9oruTEeylQ13i5a7E49qHmYzbCJlzFqK_wW5iWHFgpDmcuLAunRuEHrAKHtipfTwfhg-CzNgaKPeWioXujnrSAZM38SlYGGxo5X3PdE%26google_ula%3D2786954%26google_hm%3D%24TF_USER_ID_ENC%24",
+          "location": "https://s.tribalfusion.com/z/i.match?p=b6&u=CAESEIPjIXai2rrD4CV2tF6XZis&google_cver=1&google_push=AdBfliqWEnuuGtYZz4Z_yEuqe5WpHh1o4C4I6knFjyr-E34_vtTkncnF9oruTEeylQ13i5a7E49qHmYzbCJlzFqK_wW5iWHFgpDmcuLAunRuEHrAKHtipfTwfhg-CzNgaKPeWioXujnrSAZM38SlYGGxo5X3PdE&redirect=https%3A//cm.g.doubleclick.net/pixel%3Fgoogle_nid%3Dexp%26google_push%3DAdBfliqWEnuuGtYZz4Z_yEuqe5WpHh1o4C4I6knFjyr-E34_vtTkncnF9oruTEeylQ13i5a7E49qHmYzbCJlzFqK_wW5iWHFgpDmcuLAunRuEHrAKHtipfTwfhg-CzNgaKPeWioXujnrSAZM38SlYGGxo5X3PdE%26google_ula%3D2786954%26google_hm%3D%24TF_USER_ID_ENC%24"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.bluevoox.com/cm?ptag=2&pid=133&tk=cac&cm=1&ext1=AdBflirr4M8CeOnHkgF5bsF3EjoEyYk4Pb-J2gfLYX5lRnMonoDYZCKVn9JCkS4HmZMeljr8XT0r7d58nCie8KMJwWc48YFcqDL7LWHPQjUR3C4pEAo3KY1MhxsZK3RsitXoZU_v8Myh_AqB9uPtiH0YBDOvcL-1&google_gid=CAESENXPiZ0HqGC58rmnhx1axFU&google_cver=1&trace_id=c9b681efd4f37d6a3baf57da21bfdbcc",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=bluesea_bidding&google_hm=YzliNjgxZWZkNGYzN2Q2YQ&google_push=AdBflirr4M8CeOnHkgF5bsF3EjoEyYk4Pb-J2gfLYX5lRnMonoDYZCKVn9JCkS4HmZMeljr8XT0r7d58nCie8KMJwWc48YFcqDL7LWHPQjUR3C4pEAo3KY1MhxsZK3RsitXoZU_v8Myh_AqB9uPtiH0YBDOvcL-1"
+        },
+        {
+          "status": 302,
+          "url": "https://a.c.appier.net/gcm?google_gid=CAESELdnjsPI_-mrlDJiawxRqd4&google_cver=1&google_push=AdBfliojjc3t-ckn_wyG3gcXy0yovdymMcG4495FvAGm045tIp5xBLmMquMb14vee_M4SQKi2NtUA95yJgHB1uiTZUHDkmHx0STAhdG3sYUI4PGTag3Dhc4LZPOviKljG5t_hqtl08rP0w9qIJ1LDZ0Gbt99eBU",
+          "location": "https://cm.g.doubleclick.net/pixel?google_hm=QnczajJKMjVDaUdaajJZOEdpVG9hZw%3D%3D&google_nid=appier&google_push=AdBfliojjc3t-ckn_wyG3gcXy0yovdymMcG4495FvAGm045tIp5xBLmMquMb14vee_M4SQKi2NtUA95yJgHB1uiTZUHDkmHx0STAhdG3sYUI4PGTag3Dhc4LZPOviKljG5t_hqtl08rP0w9qIJ1LDZ0Gbt99eBU"
+        },
+        {
+          "status": 307,
+          "url": "https://ads.travelaudience.com/google_pixel?google_gid=CAESEGYKD4BtDuljbTlCpFkcg38&google_cver=1&google_push=AdBflioV77nfsYpfj1yvvDz5MJ9Fj0xVGE9FXGTPMIG7tWpgMqFXBSiEjwJSDrbYxWxa2EWm5snlWlO6DkdnAOtJYNlFXaAyuE_mTxWS8FEPLMmw190O3JfupBfnzVY-7FT2_Sz5d0B9V4lTy_p9RbbVF5g2SqM",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=ta&google_hm=vLn_WZBqR8sRivDmq77t0A&google_push=AdBflioV77nfsYpfj1yvvDz5MJ9Fj0xVGE9FXGTPMIG7tWpgMqFXBSiEjwJSDrbYxWxa2EWm5snlWlO6DkdnAOtJYNlFXaAyuE_mTxWS8FEPLMmw190O3JfupBfnzVY-7FT2_Sz5d0B9V4lTy_p9RbbVF5g2SqM"
+        },
+        {
+          "status": 302,
+          "url": "https://s.tribalfusion.com/z/i.match?p=b6&u=CAESEIPjIXai2rrD4CV2tF6XZis&google_cver=1&google_push=AdBfliqWEnuuGtYZz4Z_yEuqe5WpHh1o4C4I6knFjyr-E34_vtTkncnF9oruTEeylQ13i5a7E49qHmYzbCJlzFqK_wW5iWHFgpDmcuLAunRuEHrAKHtipfTwfhg-CzNgaKPeWioXujnrSAZM38SlYGGxo5X3PdE&redirect=https%3A//cm.g.doubleclick.net/pixel%3Fgoogle_nid%3Dexp%26google_push%3DAdBfliqWEnuuGtYZz4Z_yEuqe5WpHh1o4C4I6knFjyr-E34_vtTkncnF9oruTEeylQ13i5a7E49qHmYzbCJlzFqK_wW5iWHFgpDmcuLAunRuEHrAKHtipfTwfhg-CzNgaKPeWioXujnrSAZM38SlYGGxo5X3PdE%26google_ula%3D2786954%26google_hm%3D%24TF_USER_ID_ENC%24",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=exp&google_push=AdBfliqWEnuuGtYZz4Z_yEuqe5WpHh1o4C4I6knFjyr-E34_vtTkncnF9oruTEeylQ13i5a7E49qHmYzbCJlzFqK_wW5iWHFgpDmcuLAunRuEHrAKHtipfTwfhg-CzNgaKPeWioXujnrSAZM38SlYGGxo5X3PdE&google_ula=2786954&google_hm=18072661916876973563"
+        },
+        {
+          "status": 302,
+          "url": "https://gtrace.mediago.io/ju/cs/google?google_gid=CAESEIAUwmmGqekdZmeJBGkZiYE&google_cver=1&google_push=AdBflioh-G8vqzuATZUEL7bZ7BJjwIJ7RJ6PhMGE1d56ztMZpI_PAKZaZ55X34xUUnSexCpPfln5k2b0ZG7rW74iYLHZAf-OfbmQXMqjAyj0Z9l0NW0uQtAL70W1TmgedYgrhms2RBzG-LyF8iLM4e0zN9Y4NTM",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=baidu_mediago&google_push=AdBflioh-G8vqzuATZUEL7bZ7BJjwIJ7RJ6PhMGE1d56ztMZpI_PAKZaZ55X34xUUnSexCpPfln5k2b0ZG7rW74iYLHZAf-OfbmQXMqjAyj0Z9l0NW0uQtAL70W1TmgedYgrhms2RBzG-LyF8iLM4e0zN9Y4NTM&google_hm=8544df91b2a1dfc52ycups00mvyu8cp3"
+        },
+        {
+          "status": 302,
+          "url": "https://analytics.pangle-ads.com/api/ad/union/gg_cookie_matching?google_gid=CAESEDpEWEAjStEBA7eNuP8yYXw&google_cver=1&google_push=AdBfliqzl_jt0EaoE5dbaHmHWyJmFwtYwtwH21thM77nd9kZwZo2rd2kVNH2u-hmDwT7oE6IlGL42ag2Rqb-n_PBuUd4EI8qJwLwKsgC4jbMu0eP15jjnmtU4vcfoRh93TJOZaUyP49OiOzbBILmZPFH0hZ_ucOE",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=toutiao_usd&google_push=AdBfliqzl_jt0EaoE5dbaHmHWyJmFwtYwtwH21thM77nd9kZwZo2rd2kVNH2u-hmDwT7oE6IlGL42ag2Rqb-n_PBuUd4EI8qJwLwKsgC4jbMu0eP15jjnmtU4vcfoRh93TJOZaUyP49OiOzbBILmZPFH0hZ_ucOE"
+        }
+      ],
+      "cross_origin_requests": [
+        "https://www.googletagmanager.com/gtag/js?id=G-S8S5GW598W",
+        "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/mixpanel-browser@2",
+        "https://cdn7.gametop.com/img/gt-logo-red.png",
+        "https://cdn8.gametop.com/sb-icons/home.svg",
+        "https://cdn8.gametop.com/sb-icons/pc-games.svg",
+        "https://cdn8.gametop.com/sb-icons/online-games.svg",
+        "https://cdn8.gametop.com/sb-icons/news2.svg",
+        "https://cdn8.gametop.com/sb-icons/trending.svg",
+        "https://cdn8.gametop.com/sb-icons/hidden-object.svg",
+        "https://cdn8.gametop.com/sb-icons/match3.svg",
+        "https://cdn8.gametop.com/sb-icons/time-management.svg",
+        "https://cdn8.gametop.com/sb-icons/puzzle.svg",
+        "https://cdn8.gametop.com/sb-icons/solitaire.svg",
+        "https://cdn8.gametop.com/sb-icons/action.svg",
+        "https://cdn8.gametop.com/sb-icons/arcade2.svg",
+        "https://cdn8.gametop.com/sb-icons/racing.svg",
+        "https://cdn8.gametop.com/sb-icons/all-categories.svg",
+        "https://cdn8.gametop.com/sb-icons/all-series.svg",
+        "https://cdn8.gametop.com/img/search.svg"
+      ],
+      "navigated_to": "https://www.gametop.com/download-free-games/city-racing/",
+      "error": "locator.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a, button, input[type=\"button\"], input[type=\"submit\"]').nth(5)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"nav-link\" href=\"https://www.gametop.com/category/index.html\">…</a>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 100ms\u001b[22m\n\u001b[2m    9 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 500ms\u001b[22m\n"
+    },
+    {
+      "index": 1,
+      "text": "Download Safety Policy",
+      "href": "https://www.gametop.com/download-safety-policy.html",
+      "popups": [],
+      "downloads": [],
+      "redirects": [],
+      "cross_origin_requests": [
+        "https://www.googletagmanager.com/gtag/js?id=G-S8S5GW598W",
+        "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/mixpanel-browser@2",
+        "https://www.googletagmanager.com/gtag/js?id=AW-16473876303&cx=c&gtm=4e6as1",
+        "https://cdn7.gametop.com/img/gt-logo-red.png",
+        "https://cdn8.gametop.com/sb-icons/home.svg",
+        "https://cdn8.gametop.com/sb-icons/pc-games.svg",
+        "https://cdn8.gametop.com/sb-icons/online-games.svg",
+        "https://cdn8.gametop.com/sb-icons/news2.svg",
+        "https://cdn8.gametop.com/sb-icons/trending.svg",
+        "https://cdn8.gametop.com/sb-icons/hidden-object.svg",
+        "https://cdn8.gametop.com/sb-icons/match3.svg",
+        "https://cdn8.gametop.com/sb-icons/time-management.svg",
+        "https://cdn8.gametop.com/sb-icons/puzzle.svg",
+        "https://cdn8.gametop.com/sb-icons/solitaire.svg",
+        "https://cdn8.gametop.com/sb-icons/action.svg",
+        "https://cdn8.gametop.com/sb-icons/arcade2.svg",
+        "https://cdn8.gametop.com/sb-icons/racing.svg",
+        "https://cdn8.gametop.com/sb-icons/all-categories.svg",
+        "https://cdn8.gametop.com/sb-icons/all-series.svg"
+      ],
+      "navigated_to": "https://www.gametop.com/download-free-games/city-racing/",
+      "error": "locator.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a, button, input[type=\"button\"], input[type=\"submit\"]').nth(41)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"nav-link\" href=\"/download-safety-policy.html\">Download Safety Policy</a>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 100ms\u001b[22m\n\u001b[2m    9 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 500ms\u001b[22m\n"
+    },
+    {
+      "index": 2,
+      "text": "Download Games",
+      "href": "https://www.gametop.com/category/index.html",
+      "popups": [],
+      "downloads": [],
+      "redirects": [
+        {
+          "status": 302,
+          "url": "https://match.adsrvr.org/track/cmf/google?google_gid=CAESEE25lAMDjFaA4fcprtwhCPM&google_cver=1&google_push=AdBflirf_sN_5JROkEAJSLDh-wyxZI3MZ8h4otfChlM_SPre6UmdLwrYRIUcmL7iQshsjpwcJDhbz0YnNnqRc8cuuJ2b24Ww3Wc4dML43ieg5RG1KbfhdJWpD27m2q_vHF9hNDU_LL0T1tJEdKyweE6IK2KOCo0",
+          "location": "https://match.adsrvr.org/track/cmb/google?google_gid=CAESEE25lAMDjFaA4fcprtwhCPM&google_cver=1&google_push=AdBflirf_sN_5JROkEAJSLDh-wyxZI3MZ8h4otfChlM_SPre6UmdLwrYRIUcmL7iQshsjpwcJDhbz0YnNnqRc8cuuJ2b24Ww3Wc4dML43ieg5RG1KbfhdJWpD27m2q_vHF9hNDU_LL0T1tJEdKyweE6IK2KOCo0"
+        },
+        {
+          "status": 302,
+          "url": "https://sync.teads.tv/um?ssb_provider_id=3&uid=&google_nid=teadstv_ab&fb=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dteadstv_ab%26google_hm%3D%5BVID_B64%5D&google_gid=CAESEEqmAJJblzwv1-wlMAKSRDk&google_cver=1&google_push=AdBfliqagkGqP0IgTzkMACg4TKjjliT8ikwZhtAXE-uLl1ciEG-oCAP0zpEraqR8p52-EW_VzloN1Yh-cbv0EH_i-ySLeg9-TyDZRcy5JgHxbVqu1JxL8UBvh0HYv0RteK7zuhAHLk1Lbw3MqYMjzVhfE0A-WdgD",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=teadstv_ab&google_hm=YTI5OGQzODEtMGE5Yi00YmE3LWJmMDEtMzBlY2U5NzI5NTY1&google_push=AdBfliqagkGqP0IgTzkMACg4TKjjliT8ikwZhtAXE-uLl1ciEG-oCAP0zpEraqR8p52-EW_VzloN1Yh-cbv0EH_i-ySLeg9-TyDZRcy5JgHxbVqu1JxL8UBvh0HYv0RteK7zuhAHLk1Lbw3MqYMjzVhfE0A-WdgD"
+        },
+        {
+          "status": 302,
+          "url": "https://match.adsrvr.org/track/cmb/google?google_gid=CAESEE25lAMDjFaA4fcprtwhCPM&google_cver=1&google_push=AdBflirf_sN_5JROkEAJSLDh-wyxZI3MZ8h4otfChlM_SPre6UmdLwrYRIUcmL7iQshsjpwcJDhbz0YnNnqRc8cuuJ2b24Ww3Wc4dML43ieg5RG1KbfhdJWpD27m2q_vHF9hNDU_LL0T1tJEdKyweE6IK2KOCo0",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_hm=NjAwMmViNzctMTYyMy00NWExLTlkN2ItYzY1MmUwMzNlN2E1&google_push&gdpr=0&gdpr_consent=&ttd_tdid=6002eb77-1623-45a1-9d7b-c652e033e7a5"
+        },
+        {
+          "status": 302,
+          "url": "https://cm.g.doubleclick.net/pixel?google_nid=teadstv_ab&google_hm=YTI5OGQzODEtMGE5Yi00YmE3LWJmMDEtMzBlY2U5NzI5NTY1&google_push=AdBfliqagkGqP0IgTzkMACg4TKjjliT8ikwZhtAXE-uLl1ciEG-oCAP0zpEraqR8p52-EW_VzloN1Yh-cbv0EH_i-ySLeg9-TyDZRcy5JgHxbVqu1JxL8UBvh0HYv0RteK7zuhAHLk1Lbw3MqYMjzVhfE0A-WdgD",
+          "location": "https://sync.teads.tv/um/report?eid=3&google_nid=teadstv_ab"
+        },
+        {
+          "status": 302,
+          "url": "https://x.bidswitch.net/sync?ssp=google&google_gid=CAESEKcJJu0UW7MRfj2ndKwOnqY&google_cver=1&google_push=AdBflioVvkLUjVJoHWhnoq_ngBYRmE9F63cOq--Mz-fRpbblayyh7s1pSeOLn343AUNl3GMhpOm9ydQcwqWmOIMm65MYPJgfu-6_FedrCNk3EB8vwdpG-GJWz3t5-g4iG2y1xsGVXTLPxl8381fIUwCGomn_xMk",
+          "location": "https://x.bidswitch.net/ul_cb/sync?ssp=google&google_gid=CAESEKcJJu0UW7MRfj2ndKwOnqY&google_cver=1&google_push=AdBflioVvkLUjVJoHWhnoq_ngBYRmE9F63cOq--Mz-fRpbblayyh7s1pSeOLn343AUNl3GMhpOm9ydQcwqWmOIMm65MYPJgfu-6_FedrCNk3EB8vwdpG-GJWz3t5-g4iG2y1xsGVXTLPxl8381fIUwCGomn_xMk"
+        },
+        {
+          "status": 303,
+          "url": "https://match.prod.bidr.io/cookie-sync/adx?google_gid=CAESEGq_bwRkvoAi0-jDnmJdnY0&google_cver=1&google_push=AdBfliqJahSXxhdSkRwBX42YWhr7vZG-H3FnY3noTL_-1Gkh2SrQ19ZnQLx3ewtudzWNBtMCT1mOTAjgux3c4Wmqgroz9a9SXotqhRURn_ghAvbl6DgLp-6cEryhcuMAoM3tB9hRDD0TJdKZPtUyLLzqv0WKVFE",
+          "location": "https://match.prod.bidr.io/cookie-sync/adx?google_gid=CAESEGq_bwRkvoAi0-jDnmJdnY0&google_cver=1&google_push=AdBfliqJahSXxhdSkRwBX42YWhr7vZG-H3FnY3noTL_-1Gkh2SrQ19ZnQLx3ewtudzWNBtMCT1mOTAjgux3c4Wmqgroz9a9SXotqhRURn_ghAvbl6DgLp-6cEryhcuMAoM3tB9hRDD0TJdKZPtUyLLzqv0WKVFE&_bee_ppp=1"
+        },
+        {
+          "status": 302,
+          "url": "https://x.bidswitch.net/ul_cb/sync?ssp=google&google_gid=CAESEKcJJu0UW7MRfj2ndKwOnqY&google_cver=1&google_push=AdBflioVvkLUjVJoHWhnoq_ngBYRmE9F63cOq--Mz-fRpbblayyh7s1pSeOLn343AUNl3GMhpOm9ydQcwqWmOIMm65MYPJgfu-6_FedrCNk3EB8vwdpG-GJWz3t5-g4iG2y1xsGVXTLPxl8381fIUwCGomn_xMk",
+          "location": "//a.sportradarserving.com/sync?ssp=bidswitch&bidswitch_ssp_id=google&gdpr=&gdpr_consent="
+        },
+        {
+          "status": 303,
+          "url": "https://match.prod.bidr.io/cookie-sync/adx?google_gid=CAESEGq_bwRkvoAi0-jDnmJdnY0&google_cver=1&google_push=AdBfliqJahSXxhdSkRwBX42YWhr7vZG-H3FnY3noTL_-1Gkh2SrQ19ZnQLx3ewtudzWNBtMCT1mOTAjgux3c4Wmqgroz9a9SXotqhRURn_ghAvbl6DgLp-6cEryhcuMAoM3tB9hRDD0TJdKZPtUyLLzqv0WKVFE&_bee_ppp=1",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=beeswaxio&google_sc=&google_hm=QUFGVTkwN1YwRWdBQUFCNkszSlUwZw&google_push=AdBfliqJahSXxhdSkRwBX42YWhr7vZG-H3FnY3noTL_-1Gkh2SrQ19ZnQLx3ewtudzWNBtMCT1mOTAjgux3c4Wmqgroz9a9SXotqhRURn_ghAvbl6DgLp-6cEryhcuMAoM3tB9hRDD0TJdKZPtUyLLzqv0WKVFE&bee_sync_partners=&bee_sync_current_partner=adx&bee_sync_hop_count=1"
+        },
+        {
+          "status": 302,
+          "url": "https://dsp.adkernel.com/sync?exchange=11&google_gid=CAESECwwDPVZ0Dw7lPp5PUMxuXU&google_cver=1&google_push=AdBfliojhzkZL0hrf5z1CQrGN-UG501gZnv0Z7fgZbP9d4iHLeR0NG5-vP24hANvyc2GbRndAt4JrDLnaRqNbAjkpFAx36nw9JCMib2INmVYGu9oQUQETF4sOTbEvf9J4mAfC0TMgzopawh8YPobli-LxWG6qA",
+          "location": "https://cm.g.doubleclick.net/pixel?google_nid=adkernel&google_hm=QTYzODEzOTk4NzE4MzQ2OTgyMjI&google_push=AdBfliojhzkZL0hrf5z1CQrGN-UG501gZnv0Z7fgZbP9d4iHLeR0NG5-vP24hANvyc2GbRndAt4JrDLnaRqNbAjkpFAx36nw9JCMib2INmVYGu9oQUQETF4sOTbEvf9J4mAfC0TMgzopawh8YPobli-LxWG6qA"
+        },
+        {
+          "status": 302,
+          "url": "https://a.sportradarserving.com/sync?ssp=bidswitch&bidswitch_ssp_id=google&gdpr=&gdpr_consent=",
+          "location": "https://a.sportradarserving.com/ul_cb/sync?ssp=bidswitch&bidswitch_ssp_id=google&gdpr=&gdpr_consent="
+        },
+        {
+          "status": 302,
+          "url": "https://a.sportradarserving.com/ul_cb/sync?ssp=bidswitch&bidswitch_ssp_id=google&gdpr=&gdpr_consent=",
+          "location": "https://x.bidswitch.net/sync?dsp_id=409&expires=14&user_group=1&user_id=5b57d3cd-f36b-4867-822f-9ef689b4c418&ssp=google"
+        },
+        {
+          "status": 302,
+          "url": "https://x.bidswitch.net/sync?dsp_id=409&expires=14&user_group=1&user_id=5b57d3cd-f36b-4867-822f-9ef689b4c418&ssp=google",
+          "location": "//cm.g.doubleclick.net/pixel?google_nid=bdsw&google_push=AdBflioVvkLUjVJoHWhnoq_ngBYRmE9F63cOq--Mz-fRpbblayyh7s1pSeOLn343AUNl3GMhpOm9ydQcwqWmOIMm65MYPJgfu-6_FedrCNk3EB8vwdpG-GJWz3t5-g4iG2y1xsGVXTLPxl8381fIUwCGomn_xMk&google_hm=B_Ywn-8LT7a1TnX1yTVJlg==&gdpr=&gdpr_consent="
+        }
+      ],
+      "cross_origin_requests": [
+        "https://www.googletagmanager.com/gtag/js?id=G-S8S5GW598W",
+        "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/mixpanel-browser@2",
+        "https://cdn7.gametop.com/img/gt-logo-red.png",
+        "https://cdn8.gametop.com/sb-icons/home.svg",
+        "https://cdn8.gametop.com/sb-icons/pc-games.svg",
+        "https://cdn8.gametop.com/sb-icons/online-games.svg",
+        "https://cdn8.gametop.com/sb-icons/news2.svg",
+        "https://cdn8.gametop.com/sb-icons/trending.svg",
+        "https://cdn8.gametop.com/sb-icons/hidden-object.svg",
+        "https://cdn8.gametop.com/sb-icons/match3.svg",
+        "https://cdn8.gametop.com/sb-icons/time-management.svg",
+        "https://cdn8.gametop.com/sb-icons/puzzle.svg",
+        "https://cdn8.gametop.com/sb-icons/solitaire.svg",
+        "https://cdn8.gametop.com/sb-icons/action.svg",
+        "https://cdn8.gametop.com/sb-icons/arcade2.svg",
+        "https://cdn8.gametop.com/sb-icons/racing.svg",
+        "https://cdn8.gametop.com/sb-icons/all-categories.svg",
+        "https://cdn8.gametop.com/sb-icons/all-series.svg",
+        "https://cdn8.gametop.com/img/search.svg"
+      ],
+      "navigated_to": "https://www.gametop.com/download-free-games/city-racing/",
+      "error": "locator.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a, button, input[type=\"button\"], input[type=\"submit\"]').nth(5)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"nav-link\" href=\"https://www.gametop.com/category/index.html\">…</a>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 100ms\u001b[22m\n\u001b[2m    9 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 500ms\u001b[22m\n"
+    },
+    {
+      "index": 3,
+      "text": "Download Safety Policy",
+      "href": "https://www.gametop.com/download-safety-policy.html",
+      "popups": [],
+      "downloads": [],
+      "redirects": [],
+      "cross_origin_requests": [
+        "https://www.googletagmanager.com/gtag/js?id=G-S8S5GW598W",
+        "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/mixpanel-browser@2",
+        "https://cdn7.gametop.com/img/gt-logo-red.png",
+        "https://cdn8.gametop.com/sb-icons/home.svg",
+        "https://cdn8.gametop.com/sb-icons/pc-games.svg",
+        "https://cdn8.gametop.com/sb-icons/online-games.svg",
+        "https://cdn8.gametop.com/sb-icons/news2.svg",
+        "https://cdn8.gametop.com/sb-icons/trending.svg",
+        "https://cdn8.gametop.com/sb-icons/hidden-object.svg",
+        "https://cdn8.gametop.com/sb-icons/match3.svg",
+        "https://cdn8.gametop.com/sb-icons/time-management.svg",
+        "https://cdn8.gametop.com/sb-icons/puzzle.svg",
+        "https://cdn8.gametop.com/sb-icons/solitaire.svg",
+        "https://cdn8.gametop.com/sb-icons/action.svg",
+        "https://cdn8.gametop.com/sb-icons/arcade2.svg",
+        "https://cdn8.gametop.com/sb-icons/racing.svg",
+        "https://cdn8.gametop.com/sb-icons/all-categories.svg",
+        "https://cdn8.gametop.com/sb-icons/all-series.svg",
+        "https://cdn8.gametop.com/img/search.svg"
+      ],
+      "navigated_to": "https://www.gametop.com/download-free-games/city-racing/",
+      "error": "locator.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a, button, input[type=\"button\"], input[type=\"submit\"]').nth(41)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"nav-link\" href=\"/download-safety-policy.html\">Download Safety Policy</a>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 100ms\u001b[22m\n\u001b[2m    10 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m       - element is not visible\u001b[22m\n\u001b[2m     - retrying click action\u001b[22m\n\u001b[2m       - waiting 500ms\u001b[22m\n"
+    },
+    {
+      "index": 4,
+      "text": "Download Games",
+      "href": "https://www.gametop.com/category/index.html",
+      "popups": [],
+      "downloads": [],
+      "redirects": [],
+      "cross_origin_requests": [
+        "https://www.googletagmanager.com/gtag/js?id=G-S8S5GW598W",
+        "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/mixpanel-browser@2",
+        "https://cdn7.gametop.com/img/gt-logo-red.png",
+        "https://cdn8.gametop.com/sb-icons/home.svg",
+        "https://cdn8.gametop.com/sb-icons/pc-games.svg",
+        "https://cdn8.gametop.com/sb-icons/online-games.svg",
+        "https://cdn8.gametop.com/sb-icons/news2.svg",
+        "https://cdn8.gametop.com/sb-icons/trending.svg",
+        "https://cdn8.gametop.com/sb-icons/hidden-object.svg",
+        "https://cdn8.gametop.com/sb-icons/match3.svg",
+        "https://cdn8.gametop.com/sb-icons/time-management.svg",
+        "https://cdn8.gametop.com/sb-icons/puzzle.svg",
+        "https://cdn8.gametop.com/sb-icons/solitaire.svg",
+        "https://cdn8.gametop.com/sb-icons/action.svg",
+        "https://cdn8.gametop.com/sb-icons/arcade2.svg",
+        "https://cdn8.gametop.com/sb-icons/racing.svg",
+        "https://cdn8.gametop.com/sb-icons/all-categories.svg",
+        "https://cdn8.gametop.com/sb-icons/all-series.svg",
+        "https://cdn8.gametop.com/img/search.svg"
+      ],
+      "navigated_to": "https://www.gametop.com/download-free-games/city-racing/",
+      "error": "locator.click: Timeout 5000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('a, button, input[type=\"button\"], input[type=\"submit\"]').nth(5)\u001b[22m\n\u001b[2m    - locator resolved to <a class=\"nav-link\" href=\"https://www.gametop.com/category/index.html\">…</a>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 100ms\u001b[22m\n\u001b[2m    9 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 500ms\u001b[22m\n"
+    },
+    {
+      "index": 5,
+      "text": "Download Now",
+      "href": null,
+      "popups": [],
+      "downloads": [
+        {
+          "filename": "City-Racing.exe",
+          "url": "https://cdn7.gametop.com/games/City-Racing.exe"
+        }
+      ],
+      "redirects": [],
+      "cross_origin_requests": [
+        "https://www.googletagmanager.com/gtag/js?id=G-S8S5GW598W",
+        "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/mixpanel-browser@2",
+        "https://cdn7.gametop.com/img/gt-logo-red.png",
+        "https://cdn8.gametop.com/sb-icons/home.svg",
+        "https://cdn8.gametop.com/sb-icons/pc-games.svg",
+        "https://cdn8.gametop.com/sb-icons/online-games.svg",
+        "https://cdn8.gametop.com/sb-icons/news2.svg",
+        "https://cdn8.gametop.com/sb-icons/trending.svg",
+        "https://cdn8.gametop.com/sb-icons/hidden-object.svg",
+        "https://cdn8.gametop.com/sb-icons/match3.svg",
+        "https://cdn8.gametop.com/sb-icons/time-management.svg",
+        "https://cdn8.gametop.com/sb-icons/puzzle.svg",
+        "https://cdn8.gametop.com/sb-icons/solitaire.svg",
+        "https://cdn8.gametop.com/sb-icons/action.svg",
+        "https://cdn8.gametop.com/sb-icons/arcade2.svg",
+        "https://cdn8.gametop.com/sb-icons/racing.svg",
+        "https://cdn8.gametop.com/sb-icons/all-categories.svg",
+        "https://cdn8.gametop.com/sb-icons/all-series.svg",
+        "https://cdn8.gametop.com/img/search.svg"
+      ],
+      "navigated_to": "https://www.gametop.com/download-free-games/city-racing/file.html",
+      "error": null
+    }
+  ],
+  "global_popups": [],
+  "global_downloads": []
+}
